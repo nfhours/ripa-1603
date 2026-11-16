@@ -7140,7 +7140,11 @@
    "has_img": null,
    "img_scan": null,
    "title_printed": "OPERATIONE PERFETTA.",
-   "text_scan": 388
+   "text_scan": 390,
+   "img": [
+    "0390_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r458",
@@ -7166,7 +7170,9 @@
    "page": 370,
    "scan": 391,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "OPVLENZA.",
+   "text_scan": 391
   },
   {
    "id": "r460",
@@ -7180,7 +7186,13 @@
    "page": 370,
    "scan": 391,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ORATIONE.",
+   "text_scan": 393,
+   "img": [
+    "0393_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r461",
@@ -7193,7 +7205,9 @@
    "page": 373,
    "scan": 394,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "OSTINATIONE.",
+   "text_scan": 394
   },
   {
    "id": "r462",
@@ -7208,7 +7222,9 @@
    "page": 373,
    "scan": 394,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Otio.",
+   "text_scan": 396
   },
   {
    "id": "r463",
@@ -7224,7 +7240,9 @@
    "page": 375,
    "scan": 396,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Pace",
+   "text_scan": 399
   },
   {
    "id": "r464",
@@ -7237,7 +7255,9 @@
    "page": 378,
    "scan": 399,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PACIFICO.",
+   "text_scan": 399
   },
   {
    "id": "r465",
@@ -7250,7 +7270,9 @@
    "page": 378,
    "scan": 399,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PASSIONE D'AMORE.",
+   "text_scan": 399
   },
   {
    "id": "r466",
@@ -7264,7 +7286,13 @@
    "page": 379,
    "scan": 400,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PATIENZA.",
+   "text_scan": 402,
+   "img": [
+    "0402_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r467",
@@ -7278,7 +7306,9 @@
    "page": 381,
    "scan": 402,
    "has_img": true,
-   "img_scan": 402
+   "img_scan": 402,
+   "title_printed": "PAZZIA.",
+   "text_scan": 403
   },
   {
    "id": "r468",
@@ -7291,7 +7321,9 @@
    "page": 382,
    "scan": 403,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PAVRA.",
+   "text_scan": 403
   },
   {
    "id": "r469",
@@ -7304,7 +7336,13 @@
    "page": 383,
    "scan": 404,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PECCATO.",
+   "text_scan": 404,
+   "img": [
+    "0404_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r470",
@@ -7317,7 +7355,9 @@
    "page": 384,
    "scan": 405,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PECVNIA.",
+   "text_scan": 405
   },
   {
    "id": "r471",
@@ -7330,7 +7370,9 @@
    "page": 384,
    "scan": 405,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PECVNIA.",
+   "text_scan": 405
   },
   {
    "id": "r472",
@@ -7343,7 +7385,13 @@
    "page": 385,
    "scan": 406,
    "has_img": true,
-   "img_scan": 406
+   "img_scan": 406,
+   "title_printed": "PARSIMONIA.",
+   "text_scan": 406,
+   "img": [
+    "0406_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r473",
@@ -7356,7 +7404,9 @@
    "page": 386,
    "scan": 407,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PARTIALITA'.",
+   "text_scan": 407
   },
   {
    "id": "r474",
@@ -7369,7 +7419,9 @@
    "page": 387,
    "scan": 408,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PENA.",
+   "text_scan": 408
   },
   {
    "id": "r475",
@@ -7384,7 +7436,13 @@
    "page": 387,
    "scan": 408,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PENITENZA.",
+   "text_scan": 409,
+   "img": [
+    "0409_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r476",
