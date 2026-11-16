@@ -5697,7 +5697,9 @@
    "page": 289,
    "scan": 310,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LASCIVIA.",
+   "text_scan": 310
   },
   {
    "id": "r365",
@@ -5710,7 +5712,9 @@
    "page": 289,
    "scan": 310,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LASSITVDINE ò languidezza estiua.",
+   "text_scan": 310
   },
   {
    "id": "r366",
@@ -5723,7 +5727,9 @@
    "page": 290,
    "scan": 311,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LEALTA.",
+   "text_scan": 311
   },
   {
    "id": "r367",
@@ -5736,7 +5742,9 @@
    "page": 290,
    "scan": 311,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LEGGIEREZZA.",
+   "text_scan": 311
   },
   {
    "id": "r368",
@@ -5749,7 +5757,9 @@
    "page": 290,
    "scan": 311,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LETITIA.",
+   "text_scan": 311
   },
   {
    "id": "r369",
@@ -5762,7 +5772,9 @@
    "page": 290,
    "scan": 311,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LETTERE",
+   "text_scan": 311
   },
   {
    "id": "r370",
@@ -5776,7 +5788,13 @@
    "page": 290,
    "scan": 311,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LIBERALITA.",
+   "text_scan": 312,
+   "img": [
+    "0312_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r371",
@@ -5791,7 +5809,13 @@
    "page": 292,
    "scan": 313,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LIBERTA.",
+   "text_scan": 314,
+   "img": [
+    "0314_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r372",
@@ -5805,7 +5829,9 @@
    "page": 294,
    "scan": 315,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LIBIDINE.",
+   "text_scan": 315
   },
   {
    "id": "r373",
@@ -5831,7 +5857,9 @@
    "page": 295,
    "scan": 316,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LIBERO ARBITRIO.",
+   "text_scan": 316
   },
   {
    "id": "r375",
@@ -5844,7 +5872,9 @@
    "page": 297,
    "scan": 318,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LICENZA.",
+   "text_scan": 318
   },
   {
    "id": "r376",
@@ -5857,7 +5887,9 @@
    "page": 297,
    "scan": 318,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LITE.",
+   "text_scan": 318
   },
   {
    "id": "r377",
@@ -5871,7 +5903,9 @@
    "page": 298,
    "scan": 319,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Logica.",
+   "text_scan": 320
   },
   {
    "id": "r378",
@@ -5884,7 +5918,9 @@
    "page": 299,
    "scan": 320,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LONGANIMITA.",
+   "text_scan": 320
   },
   {
    "id": "r379",
@@ -5897,7 +5933,9 @@
    "page": 300,
    "scan": 321,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MACHINA DEL MONDO.",
+   "text_scan": 321
   },
   {
    "id": "r380",
@@ -5911,7 +5949,9 @@
    "page": 300,
    "scan": 321,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Magnanimità.",
+   "text_scan": 322
   },
   {
    "id": "r381",
@@ -5925,7 +5965,9 @@
    "page": 301,
    "scan": 322,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Magnificenza.",
+   "text_scan": 323
   },
   {
    "id": "r382",
@@ -5938,7 +5980,9 @@
    "page": 302,
    "scan": 323,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MALIGNITA.",
+   "text_scan": 323
   },
   {
    "id": "r383",
@@ -5951,7 +5995,9 @@
    "page": 302,
    "scan": 323,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MALEDICENZA.",
+   "text_scan": 323
   },
   {
    "id": "r384",
@@ -5964,7 +6010,9 @@
    "page": 303,
    "scan": 324,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MALINCONIA.",
+   "text_scan": 324
   },
   {
    "id": "r385",
@@ -5977,7 +6025,9 @@
    "page": 303,
    "scan": 324,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MALEVOLENZA.",
+   "text_scan": 324
   },
   {
    "id": "r386",
@@ -5990,7 +6040,9 @@
    "page": 304,
    "scan": 325,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MANSVETVDINE.",
+   "text_scan": 325
   },
   {
    "id": "r387",
@@ -6003,7 +6055,9 @@
    "page": 304,
    "scan": 325,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MARTIRIO.",
+   "text_scan": 325
   },
   {
    "id": "r388",
@@ -6016,7 +6070,9 @@
    "page": 305,
    "scan": 326,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MAESTA REGIA.",
+   "text_scan": 326
   },
   {
    "id": "r389",
@@ -6029,7 +6085,9 @@
    "page": 305,
    "scan": 326,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MARAVIGLIA.",
+   "text_scan": 326
   },
   {
    "id": "r390",
@@ -6042,7 +6100,13 @@
    "page": 305,
    "scan": 326,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MATRIMONIO.",
+   "text_scan": 327,
+   "img": [
+    "0327_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r391",
@@ -6055,7 +6119,13 @@
    "page": 307,
    "scan": 328,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MATEMATICA.",
+   "text_scan": 329,
+   "img": [
+    "0329_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r392",
