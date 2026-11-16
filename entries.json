@@ -2322,8 +2322,8 @@
    "scan": 129,
    "has_img": null,
    "img_scan": null,
-   "title_printed": "DISCORDIA.",
-   "text_scan": 129
+   "title_printed": "Discordia.",
+   "text_scan": 131
   },
   {
    "id": "r153",
@@ -2336,7 +2336,9 @@
    "page": 106,
    "scan": 131,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DISPERATIONE.",
+   "text_scan": 131
   },
   {
    "id": "r154",
@@ -2362,7 +2364,9 @@
    "page": 108,
    "scan": 133,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DISPREGIO DELLA VIRTV.",
+   "text_scan": 133
   },
   {
    "id": "r156",
@@ -2375,7 +2379,9 @@
    "page": 108,
    "scan": 133,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DISEGNO.",
+   "text_scan": 133
   },
   {
    "id": "r157",
@@ -2388,7 +2394,9 @@
    "page": 108,
    "scan": 133,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DIVINITA.",
+   "text_scan": 133
   },
   {
    "id": "r158",
@@ -2401,7 +2409,9 @@
    "page": 109,
    "scan": 134,
    "has_img": true,
-   "img_scan": 134
+   "img_scan": 134,
+   "title_printed": "DIVINATIONE",
+   "text_scan": 134
   },
   {
    "id": "r159",
@@ -2414,7 +2424,13 @@
    "page": 110,
    "scan": null,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DOLORE.",
+   "text_scan": 135,
+   "img": [
+    "0135_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r160",
@@ -2427,7 +2443,9 @@
    "page": 111,
    "scan": 138,
    "has_img": true,
-   "img_scan": 138
+   "img_scan": 138,
+   "title_printed": "Dolore, di Zeusi.",
+   "text_scan": 136
   },
   {
    "id": "r161",
@@ -2440,7 +2458,9 @@
    "page": 112,
    "scan": 137,
    "has_img": true,
-   "img_scan": 137
+   "img_scan": 137,
+   "title_printed": "DOMINIO DI SE STESSO.",
+   "text_scan": 136
   },
   {
    "id": "r162",
@@ -2453,7 +2473,9 @@
    "page": 113,
    "scan": null,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DOTTRINA.",
+   "text_scan": 136
   },
   {
    "id": "r163",
@@ -2466,7 +2488,9 @@
    "page": 118,
    "scan": 139,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DVBBIO.",
+   "text_scan": 139
   },
   {
    "id": "r164",
@@ -2480,7 +2504,9 @@
    "page": 118,
    "scan": 139,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ECONOMIA.",
+   "text_scan": 139
   },
   {
    "id": "r165",
@@ -2496,7 +2522,9 @@
    "img_candidates": [
     140
    ],
-   "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна",
+   "title_printed": "ELEMOSINA.",
+   "text_scan": 141
   },
   {
    "id": "r166",
@@ -2517,7 +2545,9 @@
    "img_candidates": [
     140
    ],
-   "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна",
+   "title_printed": "ELEMENTI.",
+   "text_scan": 145
   },
   {
    "id": "r167",
@@ -2540,7 +2570,7 @@
    ],
    "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна",
    "title_printed": "FVOCO.",
-   "text_scan": 81
+   "text_scan": 145
   },
   {
    "id": "r168",
@@ -2559,7 +2589,9 @@
      "eodem"
     ]
    },
-   "uncertain": true
+   "uncertain": true,
+   "title_printed": "ARIA.",
+   "text_scan": 144
   },
   {
    "id": "r169",
@@ -2578,7 +2610,9 @@
      "eodem"
     ]
    },
-   "uncertain": true
+   "uncertain": true,
+   "title_printed": "ACQVA.",
+   "text_scan": 145
   },
   {
    "id": "r170",
@@ -2597,7 +2631,9 @@
      "eodem"
     ]
    },
-   "uncertain": true
+   "uncertain": true,
+   "title_printed": "TERRA.",
+   "text_scan": 145
   },
   {
    "id": "r171",
@@ -2612,7 +2648,9 @@
    "page": 126,
    "scan": 147,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Eloquenza.",
+   "text_scan": 149
   },
   {
    "id": "r172",
