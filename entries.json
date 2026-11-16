@@ -6632,7 +6632,7 @@
    "has_img": null,
    "img_scan": null,
    "title_printed": "MVSE.",
-   "text_scan": 367
+   "text_scan": 372
   },
   {
    "id": "r425",
@@ -6645,7 +6645,9 @@
    "page": 351,
    "scan": 372,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "NATVRA.",
+   "text_scan": 372
   },
   {
    "id": "r426",
@@ -6658,7 +6660,9 @@
    "page": 352,
    "scan": 373,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "NAVIGATIONE.",
+   "text_scan": 373
   },
   {
    "id": "r427",
@@ -6671,7 +6675,9 @@
    "page": 352,
    "scan": 373,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "NINFE IN COMMVNE.",
+   "text_scan": 373
   },
   {
    "id": "r428",
@@ -6684,7 +6690,9 @@
    "page": 353,
    "scan": 374,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Ninnedi, & Napee.",
+   "text_scan": 374
   },
   {
    "id": "r429",
@@ -6697,7 +6705,9 @@
    "page": 353,
    "scan": 374,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Driadi, & Hamadriadi.",
+   "text_scan": 374
   },
   {
    "id": "r430",
@@ -6710,7 +6720,9 @@
    "page": 353,
    "scan": 374,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Ninnedi, & Napee.",
+   "text_scan": 374
   },
   {
    "id": "r431",
@@ -6736,7 +6748,9 @@
    "page": 354,
    "scan": 375,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MARE.",
+   "text_scan": 375
   },
   {
    "id": "r433",
@@ -6749,7 +6763,9 @@
    "page": 454,
    "scan": 475,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "NAIADI.",
+   "text_scan": 375
   },
   {
    "id": "r434",
@@ -6762,7 +6778,9 @@
    "page": 355,
    "scan": 376,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Galatea.",
+   "text_scan": 376
   },
   {
    "id": "r435",
@@ -6775,7 +6793,9 @@
    "page": 355,
    "scan": 376,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RVGIADA.",
+   "text_scan": 378
   },
   {
    "id": "r436",
@@ -6788,7 +6808,9 @@
    "page": 355,
    "scan": 376,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Iride.",
+   "text_scan": 376
   },
   {
    "id": "r437",
@@ -6814,7 +6836,9 @@
    "page": 356,
    "scan": 377,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Serenità della Notte.",
+   "text_scan": 377
   },
   {
    "id": "r439",
@@ -6874,7 +6898,13 @@
    "page": 358,
    "scan": 379,
    "has_img": true,
-   "img_scan": 379
+   "img_scan": 379,
+   "title_printed": "Necessità.",
+   "text_scan": 380,
+   "img": [
+    "0379_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r443",
@@ -6887,7 +6917,9 @@
    "page": 359,
    "scan": 380,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "NEGLIGENZA.",
+   "text_scan": 380
   },
   {
    "id": "r444",
@@ -6901,7 +6933,13 @@
    "page": 359,
    "scan": 380,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "NOBILTA.",
+   "text_scan": 381,
+   "img": [
+    "0381_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r445",
@@ -6953,7 +6991,9 @@
    "page": 362,
    "scan": 383,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Terza parte della notte .",
+   "text_scan": 383
   },
   {
    "id": "r449",
@@ -6966,7 +7006,9 @@
    "page": 362,
    "scan": 383,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Quarta parte della notte .",
+   "text_scan": 383
   },
   {
    "id": "r450",
@@ -6980,7 +7022,13 @@
    "page": 363,
    "scan": 384,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "OBEDIENZA.",
+   "text_scan": 385,
+   "img": [
+    "0385_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r451",
@@ -7006,7 +7054,13 @@
    "page": 365,
    "scan": 386,
    "has_img": true,
-   "img_scan": 386
+   "img_scan": 386,
+   "title_printed": "OBLICO.",
+   "text_scan": 386,
+   "img": [
+    "0386_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r453",
@@ -7019,7 +7073,9 @@
    "page": 366,
    "scan": 387,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "OCCASIONE.",
+   "text_scan": 387
   },
   {
    "id": "r454",
@@ -7033,7 +7089,9 @@
    "page": 366,
    "scan": 387,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Odio capitale .",
+   "text_scan": 388
   },
   {
    "id": "r455",
@@ -7046,7 +7104,9 @@
    "page": 367,
    "scan": 388,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "OPERA VANA.",
+   "text_scan": 388
   },
   {
    "id": "r456",
@@ -7059,7 +7119,13 @@
    "page": 367,
    "scan": 388,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "OPERATIONE MANIFESTA",
+   "text_scan": 389,
+   "img": [
+    "0389_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r457",
@@ -7072,7 +7138,9 @@
    "page": 367,
    "scan": 388,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "OPERATIONE PERFETTA.",
+   "text_scan": 388
   },
   {
    "id": "r458",
@@ -9341,7 +9409,9 @@
    "page": 493,
    "scan": 514,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MVSE.",
+   "text_scan": 372
   },
   {
    "id": "r627",
