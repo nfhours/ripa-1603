@@ -4615,7 +4615,9 @@
    "page": 210,
    "scan": 231,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HORE DELLA NOTTE.",
+   "text_scan": 231
   },
   {
    "id": "r299",
@@ -4629,7 +4631,9 @@
    "page": 214,
    "scan": 235,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HVMILTA.",
+   "text_scan": 235
   },
   {
    "id": "r300",
@@ -4642,7 +4646,9 @@
    "page": 216,
    "scan": 237,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HVMANITA.",
+   "text_scan": 237
   },
   {
    "id": "r301",
@@ -4655,7 +4661,9 @@
    "page": 216,
    "scan": 237,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HERESIA.] [ГРАВЮРА: без подписи",
+   "text_scan": 238
   },
   {
    "id": "r302",
@@ -4668,7 +4676,9 @@
    "page": 218,
    "scan": 239,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HISTORIA.",
+   "text_scan": 239
   },
   {
    "id": "r303",
@@ -4681,7 +4691,9 @@
    "page": 218,
    "scan": 239,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "IATTANZA.",
+   "text_scan": 239
   },
   {
    "id": "r304",
@@ -4694,7 +4706,9 @@
    "page": 219,
    "scan": 240,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "IDOLOLATRIA.",
+   "text_scan": 240
   },
   {
    "id": "r305",
@@ -4707,7 +4721,9 @@
    "page": 219,
    "scan": 240,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INDVLGENTIA.",
+   "text_scan": 240
   },
   {
    "id": "r306",
@@ -4721,7 +4737,9 @@
    "page": 220,
    "scan": 241,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INFAMIA.",
+   "text_scan": 248
   },
   {
    "id": "r307",
@@ -4734,7 +4752,9 @@
    "page": 220,
    "scan": 241,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INFELICITA.",
+   "text_scan": 241
   },
   {
    "id": "r308",
@@ -4747,7 +4767,9 @@
    "page": 220,
    "scan": 241,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INGEGNO.",
+   "text_scan": 241
   },
   {
    "id": "r309",
@@ -4761,7 +4783,9 @@
    "page": 221,
    "scan": 242,
    "has_img": true,
-   "img_scan": 242
+   "img_scan": 242,
+   "title_printed": "IGNORANZA",
+   "text_scan": 243
   },
   {
    "id": "r310",
@@ -4800,7 +4824,9 @@
    "page": 223,
    "scan": 244,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "IMITATIONE.",
+   "text_scan": 244
   },
   {
    "id": "r313",
@@ -4813,7 +4839,9 @@
    "page": 223,
    "scan": 244,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "IMMORTALITA.",
+   "text_scan": 244
   },
   {
    "id": "r314",
@@ -4826,7 +4854,9 @@
    "page": 223,
    "scan": 244,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "IMMVTATIONE.",
+   "text_scan": 244
   },
   {
    "id": "r315",
@@ -4839,7 +4869,9 @@
    "page": 224,
    "scan": 245,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "IMPASSIBILITA.",
+   "text_scan": 245
   },
   {
    "id": "r316",
@@ -4852,7 +4884,9 @@
    "page": 224,
    "scan": 245,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "IMPERFETTIONE.",
+   "text_scan": 245
   },
   {
    "id": "r317",
@@ -4865,7 +4899,9 @@
    "page": 224,
    "scan": 245,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "IMPIETA.",
+   "text_scan": 245
   },
   {
    "id": "r318",
@@ -4879,7 +4915,9 @@
    "page": 225,
    "scan": 246,
    "has_img": true,
-   "img_scan": 246
+   "img_scan": 246,
+   "title_printed": "INCOSTANZA.",
+   "text_scan": 247
   },
   {
    "id": "r319",
@@ -4892,7 +4930,9 @@
    "page": 226,
    "scan": 247,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INDITIO D'AMORE.",
+   "text_scan": 247
   },
   {
    "id": "r320",
@@ -4914,7 +4954,9 @@
      "227"
     ]
    },
-   "uncertain": true
+   "uncertain": true,
+   "title_printed": "INDVSTRIA.",
+   "text_scan": 247
   },
   {
    "id": "r321",
@@ -4927,7 +4969,9 @@
    "page": 228,
    "scan": 249,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INFERMITA.",
+   "text_scan": 249
   },
   {
    "id": "r322",
@@ -4940,7 +4984,9 @@
    "page": 228,
    "scan": 249,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INFORTVNIO.",
+   "text_scan": 249
   },
   {
    "id": "r323",
@@ -4954,7 +5000,9 @@
    "page": 228,
    "scan": 249,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INGANNO.",
+   "text_scan": 249
   },
   {
    "id": "r324",
