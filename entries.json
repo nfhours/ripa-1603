@@ -2663,7 +2663,9 @@
    "page": 129,
    "scan": 150,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "EMVLATIONE.",
+   "text_scan": 150
   },
   {
    "id": "r173",
@@ -2677,7 +2679,9 @@
    "page": 129,
    "scan": 150,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "EQVITA",
+   "text_scan": 150
   },
   {
    "id": "r174",
@@ -2690,7 +2694,9 @@
    "page": 130,
    "scan": 151,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "EQVALITA.",
+   "text_scan": 151
   },
   {
    "id": "r175",
@@ -2703,7 +2709,13 @@
    "page": 131,
    "scan": 152,
    "has_img": true,
-   "img_scan": 152
+   "img_scan": 152,
+   "title_printed": "EQVINOTTIO DELLA PRIMAVERA.",
+   "text_scan": 152,
+   "img": [
+    "0152_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r176",
@@ -2716,7 +2728,13 @@
    "page": 132,
    "scan": 153,
    "has_img": true,
-   "img_scan": 153
+   "img_scan": 153,
+   "title_printed": "EQVINOTIO DELL' AVTVNNO.",
+   "text_scan": 153,
+   "img": [
+    "0153_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r177",
@@ -2729,7 +2747,9 @@
    "page": 133,
    "scan": 154,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ERRORE.",
+   "text_scan": 154
   },
   {
    "id": "r178",
@@ -2742,7 +2762,13 @@
    "page": 133,
    "scan": 154,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ESILIO.",
+   "text_scan": 155,
+   "img": [
+    "0155_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r179",
@@ -2755,7 +2781,13 @@
    "page": 134,
    "scan": 155,
    "has_img": true,
-   "img_scan": 155
+   "img_scan": 155,
+   "title_printed": "ETICA.",
+   "text_scan": 156,
+   "img": [
+    "0156_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r180",
@@ -2769,7 +2801,9 @@
    "page": 136,
    "scan": 157,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ETA DELL' ORO.",
+   "text_scan": 159
   },
   {
    "id": "r181",
@@ -2783,7 +2817,9 @@
    "page": 136,
    "scan": 157,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ETA DELL' ARGENTO.",
+   "text_scan": 159
   },
   {
    "id": "r182",
@@ -2797,7 +2833,9 @@
    "page": 137,
    "scan": 158,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ETA DEL RAME.",
+   "text_scan": 158
   },
   {
    "id": "r183",
@@ -2811,7 +2849,9 @@
    "page": 137,
    "scan": 158,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ETA DEL FERRO.",
+   "text_scan": 159
   },
   {
    "id": "r184",
@@ -2827,7 +2867,9 @@
    "page": 138,
    "scan": 159,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Eternità.",
+   "text_scan": 162
   },
   {
    "id": "r185",
@@ -2853,7 +2895,9 @@
    "page": 142,
    "scan": 163,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "EVENTO BVONO.",
+   "text_scan": 163
   },
   {
    "id": "r187",
@@ -2866,7 +2910,9 @@
    "page": 142,
    "scan": 163,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FALSITA D'AMORE, OVERO INGANNO.",
+   "text_scan": 163
   },
   {
    "id": "r188",
@@ -2879,7 +2925,9 @@
    "page": 142,
    "scan": 163,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FAMA.",
+   "text_scan": 163
   },
   {
    "id": "r189",
@@ -2892,7 +2940,9 @@
    "page": 143,
    "scan": 164,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FAMA BVONA.",
+   "text_scan": 164
   },
   {
    "id": "r190",
@@ -2944,7 +2994,9 @@
    "page": 145,
    "scan": 166,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Fatica.",
+   "text_scan": 166
   },
   {
    "id": "r194",
@@ -2970,7 +3022,9 @@
    "page": 146,
    "scan": 167,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Fato.",
+   "text_scan": 167
   },
   {
    "id": "r196",
@@ -2983,7 +3037,9 @@
    "page": 147,
    "scan": 168,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Fauore.",
+   "text_scan": 168
   },
   {
    "id": "r197",
@@ -2996,7 +3052,9 @@
    "page": 148,
    "scan": 169,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FECONDITA.",
+   "text_scan": 169
   },
   {
    "id": "r198",
