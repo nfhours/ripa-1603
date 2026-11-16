@@ -734,7 +734,7 @@
 "label": "49",
 "printed": "49",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 76
@@ -994,7 +994,7 @@
 "label": "75",
 "printed": "75",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 102
@@ -1004,7 +1004,7 @@
 "label": "76",
 "printed": "76",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 103
@@ -1264,7 +1264,7 @@
 "label": "102",
 "printed": "102",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 129
@@ -1294,7 +1294,7 @@
 "label": "105",
 "printed": "105",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 132
@@ -1464,7 +1464,7 @@
 "label": "126",
 "printed": "126",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 149
@@ -1534,7 +1534,7 @@
 "label": "133",
 "printed": "133",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 156
@@ -2114,7 +2114,7 @@
 "label": "191",
 "printed": "191",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 214
@@ -2184,17 +2184,18 @@
 "label": "198",
 "printed": "198",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "misprint",
 "kind": "text",
 "src": "H",
-"ia_leaf": 221
+"ia_leaf": 221,
+"note": "напечатано 194 вместо 198 (сверено по скану; соседние 197, 199)"
 },
 {
 "scan": 220,
 "label": "199",
 "printed": "199",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 222
@@ -2784,7 +2785,7 @@
 "label": "258",
 "printed": "258",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 281
@@ -2894,7 +2895,7 @@
 "label": "269",
 "printed": "269",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 292
@@ -2914,7 +2915,7 @@
 "label": "271",
 "printed": "271",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 294
@@ -3494,7 +3495,7 @@
 "label": "329",
 "printed": "329",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 352
@@ -3514,7 +3515,7 @@
 "label": "331",
 "printed": "331",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 354
@@ -3574,7 +3575,7 @@
 "label": "337",
 "printed": "337",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 360
@@ -3614,7 +3615,7 @@
 "label": "341",
 "printed": "341",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 364
@@ -3984,7 +3985,7 @@
 "label": "378",
 "printed": "378",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 401
@@ -4194,7 +4195,7 @@
 "label": "399",
 "printed": "399",
 "head": "DI CESARE RIPA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 422
@@ -4364,7 +4365,7 @@
 "label": "416",
 "printed": "416",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 439
@@ -4504,7 +4505,7 @@
 "label": "430",
 "printed": "430",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 453
@@ -4624,7 +4625,7 @@
 "label": "442",
 "printed": "442",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 465
@@ -5104,7 +5105,7 @@
 "label": "490",
 "printed": "490",
 "head": "ICONOLOGIA",
-"flag": "uncertain",
+"flag": "",
 "kind": "text",
 "src": "H",
 "ia_leaf": 513

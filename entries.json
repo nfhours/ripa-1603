@@ -326,15 +326,10 @@
    "scan": 42,
    "has_img": null,
    "img_scan": null,
-   "reading_B": {
-    "title": "Amicitia senza gionamento",
-    "pages": [
-     "17"
-    ]
-   },
-   "uncertain": true,
+   "uncertain": false,
    "title_printed": "Amicitia senza giouamento .",
-   "text_scan": 42
+   "text_scan": 42,
+   "verified": "по pages/ (Tavola ↔ заголовки статей)"
   },
   {
    "id": "r20",
@@ -2675,15 +2670,10 @@
    "page": null,
    "scan": null,
    "see": "статья идёт вслед за предыдущей (в указателе «eodem»)",
-   "reading_B": {
-    "title": "Aria",
-    "pages": [
-     "eodem"
-    ]
-   },
-   "uncertain": true,
+   "uncertain": false,
    "title_printed": "ARIA.",
-   "text_scan": 144
+   "text_scan": 144,
+   "verified": "по pages/ (Tavola ↔ заголовки статей)"
   },
   {
    "id": "r169",
@@ -2696,15 +2686,10 @@
    "page": null,
    "scan": null,
    "see": "статья идёт вслед за предыдущей (в указателе «eodem»)",
-   "reading_B": {
-    "title": "Acqua",
-    "pages": [
-     "eodem"
-    ]
-   },
-   "uncertain": true,
+   "uncertain": false,
    "title_printed": "ACQVA.",
-   "text_scan": 145
+   "text_scan": 145,
+   "verified": "по pages/ (Tavola ↔ заголовки статей)"
   },
   {
    "id": "r170",
@@ -2717,15 +2702,10 @@
    "page": null,
    "scan": null,
    "see": "статья идёт вслед за предыдущей (в указателе «eodem»)",
-   "reading_B": {
-    "title": "Terra",
-    "pages": [
-     "eodem"
-    ]
-   },
-   "uncertain": true,
+   "uncertain": false,
    "title_printed": "TERRA.",
-   "text_scan": 145
+   "text_scan": 145,
+   "verified": "по pages/ (Tavola ↔ заголовки статей)"
   },
   {
    "id": "r171",
@@ -4052,15 +4032,11 @@
    "scan": 204,
    "has_img": null,
    "img_scan": null,
-   "reading_B": {
-    "title": "Genio cattiuo",
-    "pages": [
-     "183"
-    ]
-   },
-   "uncertain": true,
+   "uncertain": false,
    "title_printed": "GENIO CATTIVO.",
-   "text_scan": 204
+   "text_scan": 204,
+   "verified": "по pages/ (Tavola ↔ заголовки статей)",
+   "note": "в указателе «catiuo», над статьёй «CATTIVO»"
   },
   {
    "id": "r258",
@@ -5028,7 +5004,7 @@
   },
   {
    "id": "r320",
-   "title": "Indústria",
+   "title": "Industria",
    "pages": [
     "226",
     "227"
@@ -5039,16 +5015,10 @@
    "scan": 247,
    "has_img": null,
    "img_scan": null,
-   "reading_B": {
-    "title": "Industria",
-    "pages": [
-     "226",
-     "227"
-    ]
-   },
-   "uncertain": true,
+   "uncertain": false,
    "title_printed": "INDVSTRIA.",
-   "text_scan": 247
+   "text_scan": 247,
+   "verified": "по pages/ (Tavola ↔ заголовки статей)"
   },
   {
    "id": "r321",
@@ -6970,13 +6940,9 @@
    "scan": 378,
    "has_img": null,
    "img_scan": null,
-   "reading_B": {
-    "title": "Gometa Ninfa dell'aria",
-    "pages": [
-     "357"
-    ]
-   },
-   "uncertain": true
+   "uncertain": false,
+   "verified": "по pages/ (Tavola ↔ заголовки статей)",
+   "title_printed": "COMETA."
   },
   {
    "id": "r442",
@@ -7933,23 +7899,18 @@
    "id": "r500",
    "title": "Poema Pastorale",
    "pages": [
-    "403"
+    "408"
    ],
-   "printed_pages_raw": "403",
+   "printed_pages_raw": "408",
    "tavola_scan": 23,
-   "page": 403,
-   "scan": 424,
+   "page": 408,
+   "scan": 429,
    "has_img": null,
    "img_scan": null,
-   "reading_B": {
-    "title": "Poema Pastorale",
-    "pages": [
-     "408"
-    ]
-   },
-   "uncertain": true,
+   "uncertain": false,
    "title_printed": "POEMA PASTORALE.",
-   "text_scan": 429
+   "text_scan": 429,
+   "verified": "по pages/ (Tavola ↔ заголовки статей)"
   },
   {
    "id": "r501",
@@ -8305,7 +8266,7 @@
   },
   {
    "id": "r523",
-   "title": "Purità, & sinceritá d'animo",
+   "title": "Purità, & sincerità d'animo",
    "pages": [
     "421"
    ],
@@ -8315,15 +8276,10 @@
    "scan": 442,
    "has_img": null,
    "img_scan": null,
-   "reading_B": {
-    "title": "Purità, & sinceritàd'animo",
-    "pages": [
-     "421"
-    ]
-   },
-   "uncertain": true,
+   "uncertain": false,
    "title_printed": "PVERITIA.",
-   "text_scan": 442
+   "text_scan": 442,
+   "verified": "по pages/ (Tavola ↔ заголовки статей)"
   },
   {
    "id": "r524",
