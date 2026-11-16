@@ -1334,7 +1334,11 @@
    "has_img": null,
    "img_scan": null,
    "title_printed": "CARITA.",
-   "text_scan": 88
+   "text_scan": 90,
+   "img": [
+    "0090_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r90",
@@ -1347,7 +1351,9 @@
    "page": 66,
    "scan": 91,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CASTITA.",
+   "text_scan": 92
   },
   {
    "id": "r91",
@@ -1361,7 +1367,9 @@
    "page": 66,
    "scan": 91,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Castità Matrimoniale.",
+   "text_scan": 91
   },
   {
    "id": "r92",
@@ -1374,7 +1382,9 @@
    "page": 68,
    "scan": 93,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CECITA DELLA MENTE.",
+   "text_scan": 93
   },
   {
    "id": "r93",
@@ -1387,7 +1397,9 @@
    "page": 68,
    "scan": 93,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CELERITA.",
+   "text_scan": 93
   },
   {
    "id": "r94",
@@ -1400,7 +1412,13 @@
    "page": 68,
    "scan": 93,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CHIAREZZA.",
+   "text_scan": 94,
+   "img": [
+    "0094_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r95",
@@ -1414,7 +1432,9 @@
    "page": 68,
    "scan": 93,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Clemenza.",
+   "text_scan": 95
   },
   {
    "id": "r96",
@@ -1427,7 +1447,9 @@
    "page": 70,
    "scan": 95,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Clemenza, e Moderatione.",
+   "text_scan": 95
   },
   {
    "id": "r97",
@@ -1440,7 +1462,13 @@
    "page": 70,
    "scan": 95,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "COGNITIONE.",
+   "text_scan": 96,
+   "img": [
+    "0096_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r98",
@@ -1453,7 +1481,9 @@
    "page": 70,
    "scan": 95,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Cognitione delle cose.",
+   "text_scan": 95
   },
   {
    "id": "r99",
@@ -1467,7 +1497,9 @@
    "page": 70,
    "scan": 95,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "COMEDIA.",
+   "text_scan": 97
   },
   {
    "id": "r100",
@@ -1480,7 +1512,9 @@
    "page": 72,
    "scan": 97,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "COMEDIA VECCHIA.",
+   "text_scan": 97
   },
   {
    "id": "r101",
@@ -1493,7 +1527,13 @@
    "page": 71,
    "scan": 96,
    "has_img": true,
-   "img_scan": 96
+   "img_scan": 96,
+   "title_printed": "COMPVNTIONE.",
+   "text_scan": 99,
+   "img": [
+    "0099_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r102",
@@ -1577,7 +1617,9 @@
    "page": 80,
    "scan": 105,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONCORDIA MARITALE.",
+   "text_scan": 105
   },
   {
    "id": "r108",
@@ -1591,7 +1633,9 @@
    "page": 80,
    "scan": 105,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Concordia Militare .",
+   "text_scan": 106
   },
   {
    "id": "r109",
@@ -1605,7 +1649,9 @@
    "page": 80,
    "scan": 105,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONCORDIA.",
+   "text_scan": 106
   },
   {
    "id": "r110",
@@ -1618,7 +1664,9 @@
    "page": 82,
    "scan": 107,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONCORDIA DI PACE.",
+   "text_scan": 107
   },
   {
    "id": "r111",
@@ -1631,7 +1679,9 @@
    "page": 82,
    "scan": 107,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONCORDIA DI PACE.",
+   "text_scan": 107
   },
   {
    "id": "r112",
@@ -1644,7 +1694,9 @@
    "page": 82,
    "scan": 107,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONCORDIA INSVPERABILE.",
+   "text_scan": 107
   },
   {
    "id": "r113",
@@ -1657,7 +1709,9 @@
    "page": 82,
    "scan": 107,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONFIDENZA.",
+   "text_scan": 107
   },
   {
    "id": "r114",
@@ -1670,7 +1724,9 @@
    "page": 82,
    "scan": 107,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONFVSIONE.",
+   "text_scan": 107
   },
   {
    "id": "r115",
@@ -1683,7 +1739,9 @@
    "page": 83,
    "scan": 108,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONFERMATIONE,",
+   "text_scan": 108
   },
   {
    "id": "r116",
@@ -1696,7 +1754,9 @@
    "page": 83,
    "scan": 108,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONFERMATIONE,",
+   "text_scan": 108
   },
   {
    "id": "r117",
@@ -1709,7 +1769,13 @@
    "page": 84,
    "scan": 109,
    "has_img": true,
-   "img_scan": 109
+   "img_scan": 109,
+   "title_printed": "CONSERVATIONE.",
+   "text_scan": 109,
+   "img": [
+    "0109_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r118",
