@@ -140,7 +140,9 @@
    "page": 8,
    "scan": 33,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "STVDIO DELL'AGRICOLTVRA.",
+   "text_scan": 499
   },
   {
    "id": "r11",
@@ -9336,7 +9338,13 @@
    "page": 469,
    "scan": 490,
    "has_img": true,
-   "img_scan": 490
+   "img_scan": 490,
+   "title_printed": "SPERANZA.",
+   "text_scan": 491,
+   "img": [
+    "0490_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r593",
@@ -9350,7 +9358,9 @@
    "page": 470,
    "scan": 491,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SPERANZA DELLE FATICHE.",
+   "text_scan": 491
   },
   {
    "id": "r594",
@@ -9363,7 +9373,9 @@
    "page": 471,
    "scan": 492,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SPERANZA. come dipinta da gli antichi.",
+   "text_scan": 492
   },
   {
    "id": "r595",
@@ -9376,7 +9388,9 @@
    "page": 472,
    "scan": 493,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SPERANZA FALLACE.",
+   "text_scan": 493
   },
   {
    "id": "r596",
@@ -9390,8 +9404,8 @@
    "scan": 493,
    "has_img": null,
    "img_scan": null,
-   "title_printed": "INSIDIA.",
-   "text_scan": 258
+   "title_printed": "Stabilità.",
+   "text_scan": 494
   },
   {
    "id": "r597",
@@ -9404,7 +9418,9 @@
    "page": 473,
    "scan": 494,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "STAGIONI DELL'ANNO.",
+   "text_scan": 494
   },
   {
    "id": "r598",
@@ -9418,7 +9434,9 @@
    "page": 473,
    "scan": 494,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PRIMAVERA.",
+   "text_scan": 497
   },
   {
    "id": "r599",
@@ -9431,7 +9449,9 @@
    "page": 474,
    "scan": 495,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ESTATE.",
+   "text_scan": 498
   },
   {
    "id": "r600",
@@ -9444,7 +9464,9 @@
    "page": 475,
    "scan": 496,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AVTVNNO.",
+   "text_scan": 498
   },
   {
    "id": "r601",
@@ -9457,7 +9479,9 @@
    "page": 475,
    "scan": 496,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INVERNO.",
+   "text_scan": 498
   },
   {
    "id": "r602",
@@ -9470,7 +9494,9 @@
    "page": 477,
    "scan": 498,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "STERILITÀ.",
+   "text_scan": 498
   },
   {
    "id": "r603",
@@ -9483,7 +9509,9 @@
    "page": 478,
    "scan": 499,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "STOLTITIA.",
+   "text_scan": 499
   },
   {
    "id": "r604",
@@ -9496,7 +9524,9 @@
    "page": 478,
    "scan": 499,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "STVDIO DELL'AGRICOLTVRA.",
+   "text_scan": 499
   },
   {
    "id": "r605",
@@ -9509,7 +9539,9 @@
    "page": 478,
    "scan": 499,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "STVDIO.",
+   "text_scan": 499
   },
   {
    "id": "r606",
@@ -9535,7 +9567,9 @@
    "page": 479,
    "scan": 500,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SVPERBIA.",
+   "text_scan": 500
   },
   {
    "id": "r608",
@@ -9548,7 +9582,9 @@
    "page": 480,
    "scan": 501,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TARDITA'.",
+   "text_scan": 501
   },
   {
    "id": "r609",
@@ -9563,7 +9599,13 @@
    "page": 480,
    "scan": 501,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TEMPERANZA.",
+   "text_scan": 502,
+   "img": [
+    "0502_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r610",
@@ -9576,7 +9618,9 @@
    "page": 482,
    "scan": 503,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TEMPESTA NINFA DELL'ARIA.",
+   "text_scan": 503
   },
   {
    "id": "r611",
@@ -9590,7 +9634,9 @@
    "page": 482,
    "scan": 503,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TEMPO.",
+   "text_scan": 503
   },
   {
    "id": "r612",
@@ -9616,7 +9662,9 @@
    "page": 483,
    "scan": 504,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TENTATIONE D'AMORE.",
+   "text_scan": 504
   },
   {
    "id": "r614",
@@ -9629,7 +9677,9 @@
    "page": 484,
    "scan": 505,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TEOLOGIA.",
+   "text_scan": 505
   },
   {
    "id": "r615",
@@ -9642,7 +9692,13 @@
    "page": 484,
    "scan": 505,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TERRORE",
+   "text_scan": 506,
+   "img": [
+    "0506_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r616",
@@ -9655,7 +9711,9 @@
    "page": 486,
    "scan": 507,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TERREMOTO.",
+   "text_scan": 507
   },
   {
    "id": "r617",
@@ -9668,7 +9726,9 @@
    "page": 486,
    "scan": 507,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Timidità, ò Timore.",
+   "text_scan": 507
   },
   {
    "id": "r618",
@@ -9681,7 +9741,9 @@
    "page": 487,
    "scan": 508,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TIMORE.",
+   "text_scan": 508
   },
   {
    "id": "r619",
@@ -9694,7 +9756,9 @@
    "page": 487,
    "scan": 508,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TIRANNIDE.",
+   "text_scan": 508
   },
   {
    "id": "r620",
@@ -9707,7 +9771,9 @@
    "page": 488,
    "scan": 509,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TOLERANZA.",
+   "text_scan": 509
   },
   {
    "id": "r621",
@@ -9720,7 +9786,9 @@
    "page": 488,
    "scan": 509,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TORMENTO D'AMORE.",
+   "text_scan": 509
   },
   {
    "id": "r622",
