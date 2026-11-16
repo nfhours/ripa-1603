@@ -1,0 +1,12 @@
+{
+ "policy": "Основа — Heidelberg (IIIF); каждая страница сверена с Internet Archive (Duke, 558 листов) по тексту (DP-выравнивание); пропусков нет, замен нет.",
+ "pages": 557,
+ "pages_from_heidelberg": 557,
+ "pages_replaced_from_ia": [],
+ "ia_item": "iconologiaoverod032ripa",
+ "ia_leaf_rule": "ia_leaf (с 0) = номер скана + 2; в pagemap.json у каждой страницы",
+ "notes": [
+  "На каждой странице Heidelberg внизу плашка-ватермарк (~4,5% высоты): в scans/ срезана; оригиналы в ~/Projects/photos/ripa1603/H/ — с плашкой",
+  "IA-копия контрастнее и выше разрешением (2912×4368 против ~1575×2413): рекомендуется для нарезки гравюр, если Heidelberg окажется слабее"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "ripa1603",
+ "title": {
+  "original": "Iconologia, overo Descrittione di diverse imagini cavate dall'antichità, & di propria inventione",
+  "ru": "Иконология, или Описание различных образов, взятых из древности и собственного изобретения (Рим, 1603)",
+  "en": "Iconologia, or a Description of Various Images Drawn from Antiquity and of Its Own Invention (Rome, 1603)",
+  "fr": "Iconologie, ou Description de diverses images tirées de l'Antiquité et de l'invention propre de l'auteur (Rome, 1603)"
+ },
+ "author": "Cesare Ripa",
+ "year": 1603,
+ "place": "Roma",
+ "publisher": "Lepido Facii (Lepido Facij)",
+ "status": "wip",
+ "libAuthor": {
+  "ru": "Чезаре Рипа",
+  "en": "Cesare Ripa",
+  "fr": "Cesare Ripa"
+ },
+ "libTitle": {
+  "ru": "Иконология (1603)",
+  "en": "Iconologia (1603)",
+  "fr": "Iconologia (1603)"
+ },
+ "libThumb": "lib-thumb.webp",
+ "cover": "cover.webp",
+ "dataBase": "https://nfhours.github.io/ripa-1603/",
+ "stage": "Этап 1: сканы, карта страниц, список статей и рамки гравюр; транскрипции и перевода пока нет",
+ "source": {
+  "primary": {
+   "name": "Universitätsbibliothek Heidelberg, Digitale Bibliothek, шифр C 5456 A RES",
+   "url": "https://digi.ub.uni-heidelberg.de/diglit/ripa1603",
+   "doi": "10.11588/diglit.3396",
+   "iiif": "https://digi.ub.uni-heidelberg.de/diglit/iiif/ripa1603/manifest.json",
+   "license": "Public Domain Mark 1.0"
+  },
+  "control": {
+   "name": "Internet Archive, экземпляр Duke University (iconologiaoverod032ripa) — для сверки полноты постранично",
+   "url": "https://archive.org/details/iconologiaoverod032ripa",
+   "license": "Public domain"
+  }
+ }
+}

@@ -1,0 +1,8910 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "id": "r1",
+   "title": "Abondanza",
+   "pages": [
+    "1",
+    "2"
+   ],
+   "printed_pages_raw": "c.1.2",
+   "tavola_scan": 17,
+   "page": 1,
+   "scan": 26,
+   "has_img": null,
+   "img_candidates": [
+    26
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r2",
+   "title": "Accidia",
+   "pages": [
+    "1",
+    "2",
+    "3"
+   ],
+   "printed_pages_raw": "1.2.3.",
+   "tavola_scan": 17,
+   "page": 1,
+   "scan": 26,
+   "has_img": null,
+   "img_candidates": [
+    26
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r3",
+   "title": "Acquisto cattiuo",
+   "pages": [
+    "4"
+   ],
+   "printed_pages_raw": "4.",
+   "tavola_scan": 17,
+   "page": 4,
+   "scan": 29,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r4",
+   "title": "Adolescenza",
+   "pages": [
+    "4"
+   ],
+   "printed_pages_raw": "4.",
+   "tavola_scan": 17,
+   "page": 4,
+   "scan": 29,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r5",
+   "title": "Adulatione",
+   "pages": [
+    "5",
+    "6",
+    "7"
+   ],
+   "printed_pages_raw": "5.6 7.",
+   "tavola_scan": 17,
+   "page": 5,
+   "scan": 30,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r6",
+   "title": "Affanno",
+   "pages": [
+    "7"
+   ],
+   "printed_pages_raw": "7.",
+   "tavola_scan": 17,
+   "page": 7,
+   "scan": 32,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r7",
+   "title": "Affanno, cordoglio, ramarico",
+   "pages": [
+    "7"
+   ],
+   "printed_pages_raw": "7.",
+   "tavola_scan": 17,
+   "page": 7,
+   "scan": 32,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r8",
+   "title": "Affabilità, piaceuolezza, amabilità",
+   "pages": [
+    "8"
+   ],
+   "printed_pages_raw": "8.",
+   "tavola_scan": 17,
+   "page": 8,
+   "scan": 33,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r9",
+   "title": "Agilità",
+   "pages": [
+    "8"
+   ],
+   "printed_pages_raw": "8.",
+   "tavola_scan": 17,
+   "page": 8,
+   "scan": 33,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r10",
+   "title": "Studio dell' Agricoltura",
+   "pages": [
+    "8"
+   ],
+   "printed_pages_raw": "8.",
+   "tavola_scan": 17,
+   "page": 8,
+   "scan": 33,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r11",
+   "title": "Agricoltura",
+   "pages": [
+    "9",
+    "10"
+   ],
+   "printed_pages_raw": "9.10.",
+   "tavola_scan": 17,
+   "page": 9,
+   "scan": 34,
+   "has_img": true,
+   "img_scan": 34
+  },
+  {
+   "id": "r12",
+   "title": "Allegrezza",
+   "pages": [
+    "10",
+    "11",
+    "12"
+   ],
+   "printed_pages_raw": "10.11.12.",
+   "tavola_scan": 17,
+   "page": 10,
+   "scan": 35,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r13",
+   "title": "Allegrezza d'amore",
+   "pages": [
+    "11"
+   ],
+   "printed_pages_raw": "11.",
+   "tavola_scan": 17,
+   "page": 11,
+   "scan": 36,
+   "has_img": true,
+   "img_scan": 36
+  },
+  {
+   "id": "r14",
+   "title": "Allegrezza, letitia, giubilo",
+   "pages": [
+    "12"
+   ],
+   "printed_pages_raw": "12.",
+   "tavola_scan": 17,
+   "page": 12,
+   "scan": 37,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r15",
+   "title": "Amaritudine",
+   "pages": [
+    "12"
+   ],
+   "printed_pages_raw": "12.",
+   "tavola_scan": 17,
+   "page": 12,
+   "scan": 37,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r16",
+   "title": "Ambitione",
+   "pages": [
+    "12",
+    "13"
+   ],
+   "printed_pages_raw": "12.13.",
+   "tavola_scan": 17,
+   "page": 12,
+   "scan": 37,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r17",
+   "title": "Ampiezza della gloria",
+   "pages": [
+    "15"
+   ],
+   "printed_pages_raw": "15.",
+   "tavola_scan": 17,
+   "page": 15,
+   "scan": 40,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r18",
+   "title": "Amicitia",
+   "pages": [
+    "15",
+    "16",
+    "17"
+   ],
+   "printed_pages_raw": "15.16.17.",
+   "tavola_scan": 17,
+   "page": 15,
+   "scan": 40,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r19",
+   "title": "Amicitia senza giouamento",
+   "pages": [
+    "17"
+   ],
+   "printed_pages_raw": "17.",
+   "tavola_scan": 17,
+   "page": 17,
+   "scan": 42,
+   "has_img": null,
+   "img_scan": null,
+   "reading_B": {
+    "title": "Amicitia senza gionamento",
+    "pages": [
+     "17"
+    ]
+   },
+   "uncertain": true
+  },
+  {
+   "id": "r20",
+   "title": "Amaestramento",
+   "pages": [
+    "18"
+   ],
+   "printed_pages_raw": "18.",
+   "tavola_scan": 17,
+   "page": 18,
+   "scan": 43,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r21",
+   "title": "Amor di virtù",
+   "pages": [
+    "18"
+   ],
+   "printed_pages_raw": "18.",
+   "tavola_scan": 17,
+   "page": 18,
+   "scan": 43,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r22",
+   "title": "Amor verso Iddio",
+   "pages": [
+    "18"
+   ],
+   "printed_pages_raw": "18.",
+   "tavola_scan": 17,
+   "page": 18,
+   "scan": 43,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r23",
+   "title": "Amor del prossimo",
+   "pages": [
+    "18"
+   ],
+   "printed_pages_raw": "18.",
+   "tavola_scan": 17,
+   "page": 18,
+   "scan": 43,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r24",
+   "title": "Amor di sè stesso",
+   "pages": [
+    "18"
+   ],
+   "printed_pages_raw": "18.",
+   "tavola_scan": 17,
+   "page": 18,
+   "scan": 43,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r25",
+   "title": "Amore",
+   "pages": [
+    "19"
+   ],
+   "printed_pages_raw": "19.",
+   "tavola_scan": 17,
+   "page": 19,
+   "scan": 44,
+   "has_img": true,
+   "img_scan": 44
+  },
+  {
+   "id": "r26",
+   "title": "Amor di fama",
+   "pages": [
+    "20"
+   ],
+   "printed_pages_raw": "20.",
+   "tavola_scan": 17,
+   "page": 20,
+   "scan": 45,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r27",
+   "title": "Anno",
+   "pages": [
+    "20",
+    "21"
+   ],
+   "printed_pages_raw": "20.21.",
+   "tavola_scan": 17,
+   "page": 20,
+   "scan": 45,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r28",
+   "title": "Anima ragioneuole, e beata",
+   "pages": [
+    "21"
+   ],
+   "printed_pages_raw": "21.",
+   "tavola_scan": 17,
+   "page": 21,
+   "scan": 46,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r29",
+   "title": "Anima dannata",
+   "pages": [
+    "22"
+   ],
+   "printed_pages_raw": "22.",
+   "tavola_scan": 17,
+   "page": 22,
+   "scan": 47,
+   "has_img": true,
+   "img_scan": 47
+  },
+  {
+   "id": "r30",
+   "title": "Architettura",
+   "pages": [
+    "23"
+   ],
+   "printed_pages_raw": "23.",
+   "tavola_scan": 17,
+   "page": 23,
+   "scan": 48,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r31",
+   "title": "Ardire magnanimo, e generoso",
+   "pages": [
+    "24"
+   ],
+   "printed_pages_raw": "24.",
+   "tavola_scan": 17,
+   "page": 24,
+   "scan": 49,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r32",
+   "title": "Ardire vltimo, e necessario",
+   "pages": [
+    "24"
+   ],
+   "printed_pages_raw": "24.",
+   "tavola_scan": 17,
+   "page": 24,
+   "scan": 49,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r33",
+   "title": "Arme",
+   "pages": [
+    "26"
+   ],
+   "printed_pages_raw": "26.",
+   "tavola_scan": 17,
+   "page": 26,
+   "scan": 51,
+   "has_img": null,
+   "img_candidates": [
+    51
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r34",
+   "title": "Armonia",
+   "pages": [
+    "26"
+   ],
+   "printed_pages_raw": "26.",
+   "tavola_scan": 17,
+   "page": 26,
+   "scan": 51,
+   "has_img": null,
+   "img_candidates": [
+    51
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r35",
+   "title": "Aroganza",
+   "pages": [
+    "27"
+   ],
+   "printed_pages_raw": "27.",
+   "tavola_scan": 17,
+   "page": 27,
+   "scan": 52,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r36",
+   "title": "Aritmetica",
+   "pages": [
+    "27"
+   ],
+   "printed_pages_raw": "27.",
+   "tavola_scan": 17,
+   "page": 27,
+   "scan": 52,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r37",
+   "title": "Arte",
+   "pages": [
+    "27",
+    "28"
+   ],
+   "printed_pages_raw": "27.28.",
+   "tavola_scan": 17,
+   "page": 27,
+   "scan": 52,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r38",
+   "title": "Astinenza",
+   "pages": [
+    "28"
+   ],
+   "printed_pages_raw": "28.",
+   "tavola_scan": 17,
+   "page": 28,
+   "scan": 53,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r39",
+   "title": "Assiduità",
+   "pages": [
+    "28"
+   ],
+   "printed_pages_raw": "28.",
+   "tavola_scan": 17,
+   "page": 28,
+   "scan": 53,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r40",
+   "title": "Astrologia",
+   "pages": [
+    "28",
+    "29"
+   ],
+   "printed_pages_raw": "28.29.",
+   "tavola_scan": 17,
+   "page": 28,
+   "scan": 53,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r41",
+   "title": "Astutia",
+   "pages": [
+    "29"
+   ],
+   "printed_pages_raw": "29.",
+   "tavola_scan": 17,
+   "page": 29,
+   "scan": 54,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r42",
+   "title": "Auaritia",
+   "pages": [
+    "29",
+    "30",
+    "31",
+    "32"
+   ],
+   "printed_pages_raw": "29.30.31.32.",
+   "tavola_scan": 17,
+   "page": 29,
+   "scan": 54,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r43",
+   "title": "Audacia",
+   "pages": [
+    "33"
+   ],
+   "printed_pages_raw": "33.",
+   "tavola_scan": 17,
+   "page": 33,
+   "scan": 58,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r44",
+   "title": "Augurio buono",
+   "pages": [
+    "33"
+   ],
+   "printed_pages_raw": "33.",
+   "tavola_scan": 17,
+   "page": 33,
+   "scan": 58,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r45",
+   "title": "Augurio cattiuo",
+   "pages": [
+    "33",
+    "34"
+   ],
+   "printed_pages_raw": "33.34.",
+   "tavola_scan": 17,
+   "page": 33,
+   "scan": 58,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r46",
+   "title": "Aurora",
+   "pages": [
+    "34"
+   ],
+   "printed_pages_raw": "34.",
+   "tavola_scan": 17,
+   "page": 34,
+   "scan": 59,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r47",
+   "title": "Autorità, ò potestà",
+   "pages": [
+    "34"
+   ],
+   "printed_pages_raw": "34.",
+   "tavola_scan": 17,
+   "page": 34,
+   "scan": 59,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r48",
+   "title": "Beatitudini",
+   "pages": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+   ],
+   "printed_pages_raw": "36.37.38.39.40.",
+   "tavola_scan": 17,
+   "page": 36,
+   "scan": 61,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r49",
+   "title": "Bellezza",
+   "pages": [
+    "40"
+   ],
+   "printed_pages_raw": "40.",
+   "tavola_scan": 17,
+   "page": 40,
+   "scan": 65,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r50",
+   "title": "Bellezza feminile",
+   "pages": [
+    "42"
+   ],
+   "printed_pages_raw": "42.",
+   "tavola_scan": 17,
+   "page": 42,
+   "scan": 67,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r51",
+   "title": "Benignità",
+   "pages": [
+    "43"
+   ],
+   "printed_pages_raw": "43.",
+   "tavola_scan": 17,
+   "page": 43,
+   "scan": 68,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r52",
+   "title": "Biasimo",
+   "pages": [
+    "44"
+   ],
+   "printed_pages_raw": "44.",
+   "tavola_scan": 17,
+   "page": 44,
+   "scan": 69,
+   "has_img": true,
+   "img_scan": 69
+  },
+  {
+   "id": "r53",
+   "title": "Bontà",
+   "pages": [
+    "45"
+   ],
+   "printed_pages_raw": "45.",
+   "tavola_scan": 17,
+   "page": 45,
+   "scan": 70,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r54",
+   "title": "Bugia",
+   "pages": [
+    "46"
+   ],
+   "printed_pages_raw": "46.",
+   "tavola_scan": 17,
+   "page": 46,
+   "scan": 71,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r55",
+   "title": "Buio",
+   "pages": [
+    "46"
+   ],
+   "printed_pages_raw": "46.",
+   "tavola_scan": 17,
+   "page": 46,
+   "scan": 71,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r56",
+   "title": "Calamità",
+   "pages": [
+    "47"
+   ],
+   "printed_pages_raw": "47.",
+   "tavola_scan": 17,
+   "page": 47,
+   "scan": 72,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r57",
+   "title": "Calunia",
+   "pages": [
+    "47"
+   ],
+   "printed_pages_raw": "47.",
+   "tavola_scan": 17,
+   "page": 47,
+   "scan": 72,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r58",
+   "title": "Capriccio",
+   "pages": [
+    "48"
+   ],
+   "printed_pages_raw": "48.",
+   "tavola_scan": 18,
+   "page": 48,
+   "scan": 73,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r59",
+   "title": "Carri de i setti Pianeti",
+   "pages": [
+    "48"
+   ],
+   "printed_pages_raw": "48.",
+   "tavola_scan": 18,
+   "page": 48,
+   "scan": 73,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r60",
+   "title": "Carro della Luna",
+   "pages": [
+    "48"
+   ],
+   "printed_pages_raw": "48.",
+   "tavola_scan": 18,
+   "page": 48,
+   "scan": 73,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r61",
+   "title": "Carro di Mercurio",
+   "pages": [
+    "50"
+   ],
+   "printed_pages_raw": "50.",
+   "tavola_scan": 18,
+   "page": 50,
+   "scan": 75,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r62",
+   "title": "Carro di Venere",
+   "pages": [
+    "51"
+   ],
+   "printed_pages_raw": "51.",
+   "tavola_scan": 18,
+   "page": 51,
+   "scan": 76,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r63",
+   "title": "Carro del Sole",
+   "pages": [
+    "51"
+   ],
+   "printed_pages_raw": "51.",
+   "tavola_scan": 18,
+   "page": 51,
+   "scan": 76,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r64",
+   "title": "Carro di Marte",
+   "pages": [
+    "52"
+   ],
+   "printed_pages_raw": "52.",
+   "tavola_scan": 18,
+   "page": 52,
+   "scan": 77,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r65",
+   "title": "Carro di Gioue",
+   "pages": [
+    "53"
+   ],
+   "printed_pages_raw": "53.",
+   "tavola_scan": 18,
+   "page": 53,
+   "scan": 78,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r66",
+   "title": "Carro di Saturno",
+   "pages": [
+    "53"
+   ],
+   "printed_pages_raw": "53.",
+   "tavola_scan": 18,
+   "page": 53,
+   "scan": 78,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r67",
+   "title": "Carro di Minerua",
+   "pages": [
+    "54"
+   ],
+   "printed_pages_raw": "54.",
+   "tavola_scan": 18,
+   "page": 54,
+   "scan": 79,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r68",
+   "title": "Carro di Plutone",
+   "pages": [
+    "55"
+   ],
+   "printed_pages_raw": "55.",
+   "tavola_scan": 18,
+   "page": 55,
+   "scan": 80,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r69",
+   "title": "Carri de i quattro Elementi",
+   "pages": [
+    "56"
+   ],
+   "printed_pages_raw": "56.",
+   "tavola_scan": 18,
+   "page": 56,
+   "scan": 81,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r70",
+   "title": "Carro del Fuoco",
+   "pages": [
+    "56"
+   ],
+   "printed_pages_raw": "56.",
+   "tavola_scan": 18,
+   "page": 56,
+   "scan": 81,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r71",
+   "title": "Carro dell'Aria",
+   "pages": [
+    "57"
+   ],
+   "printed_pages_raw": "57.",
+   "tavola_scan": 18,
+   "page": 57,
+   "scan": 82,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r72",
+   "title": "Carro dell'Acqua",
+   "pages": [
+    "57"
+   ],
+   "printed_pages_raw": "57.",
+   "tavola_scan": 18,
+   "page": 57,
+   "scan": 82,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r73",
+   "title": "Carro della Terra",
+   "pages": [
+    "58"
+   ],
+   "printed_pages_raw": "58.",
+   "tavola_scan": 18,
+   "page": 58,
+   "scan": 83,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r74",
+   "title": "Carro della Notte",
+   "pages": [
+    "59"
+   ],
+   "printed_pages_raw": "59.",
+   "tavola_scan": 18,
+   "page": 59,
+   "scan": 84,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r75",
+   "title": "Carro di Bacco",
+   "pages": [
+    "59"
+   ],
+   "printed_pages_raw": "59.",
+   "tavola_scan": 18,
+   "page": 59,
+   "scan": 84,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r76",
+   "title": "Carro dell'Aurora",
+   "pages": [
+    "60"
+   ],
+   "printed_pages_raw": "60.",
+   "tavola_scan": 18,
+   "page": 60,
+   "scan": 85,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r77",
+   "title": "Carro del giorno naturale",
+   "pages": [
+    "60"
+   ],
+   "printed_pages_raw": "60.",
+   "tavola_scan": 18,
+   "page": 60,
+   "scan": 85,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r78",
+   "title": "Carro del giorno artificiale",
+   "pages": [
+    "61"
+   ],
+   "printed_pages_raw": "61.",
+   "tavola_scan": 18,
+   "page": 61,
+   "scan": 86,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r79",
+   "title": "Carro dell'Anno",
+   "pages": [
+    "61"
+   ],
+   "printed_pages_raw": "61.",
+   "tavola_scan": 18,
+   "page": 61,
+   "scan": 86,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r80",
+   "title": "Carro di Cerere",
+   "pages": [
+    "61"
+   ],
+   "printed_pages_raw": "61.",
+   "tavola_scan": 18,
+   "page": 61,
+   "scan": 86,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r81",
+   "title": "Carro dell'Oceano",
+   "pages": [
+    "61"
+   ],
+   "printed_pages_raw": "61.",
+   "tavola_scan": 18,
+   "page": 61,
+   "scan": 86,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r82",
+   "title": "Carro d'Amore",
+   "pages": [
+    "62"
+   ],
+   "printed_pages_raw": "62.",
+   "tavola_scan": 18,
+   "page": 62,
+   "scan": 87,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r83",
+   "title": "Carro della Castità",
+   "pages": [
+    "62"
+   ],
+   "printed_pages_raw": "62.",
+   "tavola_scan": 18,
+   "page": 62,
+   "scan": 87,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r84",
+   "title": "Carro della Morte",
+   "pages": [
+    "62"
+   ],
+   "printed_pages_raw": "62.",
+   "tavola_scan": 18,
+   "page": 62,
+   "scan": 87,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r85",
+   "title": "Carro della Fama",
+   "pages": [
+    "62"
+   ],
+   "printed_pages_raw": "62.",
+   "tavola_scan": 18,
+   "page": 62,
+   "scan": 87,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r86",
+   "title": "Carro del Tempo",
+   "pages": [
+    "62"
+   ],
+   "printed_pages_raw": "62.",
+   "tavola_scan": 18,
+   "page": 62,
+   "scan": 87,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r87",
+   "title": "Carro della Diuinità",
+   "pages": [
+    "62"
+   ],
+   "printed_pages_raw": "62.",
+   "tavola_scan": 18,
+   "page": 62,
+   "scan": 87,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r88",
+   "title": "Carestia",
+   "pages": [
+    "63"
+   ],
+   "printed_pages_raw": "63.",
+   "tavola_scan": 18,
+   "page": 63,
+   "scan": 88,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r89",
+   "title": "Carità",
+   "pages": [
+    "63",
+    "64"
+   ],
+   "printed_pages_raw": "63.64.",
+   "tavola_scan": 18,
+   "page": 63,
+   "scan": 88,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r90",
+   "title": "Castità",
+   "pages": [
+    "66"
+   ],
+   "printed_pages_raw": "66.",
+   "tavola_scan": 18,
+   "page": 66,
+   "scan": 91,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r91",
+   "title": "Castità Matrimoniale",
+   "pages": [
+    "66",
+    "67"
+   ],
+   "printed_pages_raw": "66.67.",
+   "tavola_scan": 18,
+   "page": 66,
+   "scan": 91,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r92",
+   "title": "Cecità della mente",
+   "pages": [
+    "68"
+   ],
+   "printed_pages_raw": "68.",
+   "tavola_scan": 18,
+   "page": 68,
+   "scan": 93,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r93",
+   "title": "Celerità",
+   "pages": [
+    "68"
+   ],
+   "printed_pages_raw": "68.",
+   "tavola_scan": 18,
+   "page": 68,
+   "scan": 93,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r94",
+   "title": "Chiarezza",
+   "pages": [
+    "68"
+   ],
+   "printed_pages_raw": "68.",
+   "tavola_scan": 18,
+   "page": 68,
+   "scan": 93,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r95",
+   "title": "Clemenza",
+   "pages": [
+    "68",
+    "69"
+   ],
+   "printed_pages_raw": "68.69.",
+   "tavola_scan": 18,
+   "page": 68,
+   "scan": 93,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r96",
+   "title": "Clemenza, e moderatione",
+   "pages": [
+    "70"
+   ],
+   "printed_pages_raw": "70.",
+   "tavola_scan": 18,
+   "page": 70,
+   "scan": 95,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r97",
+   "title": "Cognitione",
+   "pages": [
+    "70"
+   ],
+   "printed_pages_raw": "70.",
+   "tavola_scan": 18,
+   "page": 70,
+   "scan": 95,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r98",
+   "title": "Cognitione delle cose",
+   "pages": [
+    "70"
+   ],
+   "printed_pages_raw": "70.",
+   "tavola_scan": 18,
+   "page": 70,
+   "scan": 95,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r99",
+   "title": "Comedia",
+   "pages": [
+    "70",
+    "72"
+   ],
+   "printed_pages_raw": "70.72.",
+   "tavola_scan": 18,
+   "page": 70,
+   "scan": 95,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r100",
+   "title": "Comedia vecchia",
+   "pages": [
+    "72"
+   ],
+   "printed_pages_raw": "72.",
+   "tavola_scan": 18,
+   "page": 72,
+   "scan": 97,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r101",
+   "title": "Compuntione",
+   "pages": [
+    "71"
+   ],
+   "printed_pages_raw": "71.",
+   "tavola_scan": 18,
+   "page": 71,
+   "scan": 96,
+   "has_img": true,
+   "img_scan": 96
+  },
+  {
+   "id": "r102",
+   "title": "Complessioni",
+   "pages": [
+    "74"
+   ],
+   "printed_pages_raw": "74.",
+   "tavola_scan": 18,
+   "page": 74,
+   "scan": 99,
+   "has_img": null,
+   "img_candidates": [
+    99
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r103",
+   "title": "Collerico",
+   "pages": [
+    "74"
+   ],
+   "printed_pages_raw": "74.",
+   "tavola_scan": 18,
+   "page": 74,
+   "scan": 99,
+   "has_img": null,
+   "img_candidates": [
+    99
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r104",
+   "title": "Sanguigno",
+   "pages": [
+    "76"
+   ],
+   "printed_pages_raw": "76.",
+   "tavola_scan": 18,
+   "page": 76,
+   "scan": 101,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r105",
+   "title": "Flematico",
+   "pages": [
+    "78"
+   ],
+   "printed_pages_raw": "78.",
+   "tavola_scan": 18,
+   "page": 78,
+   "scan": 103,
+   "has_img": true,
+   "img_scan": 103
+  },
+  {
+   "id": "r106",
+   "title": "Malenconico",
+   "pages": [
+    "79"
+   ],
+   "printed_pages_raw": "79.",
+   "tavola_scan": 18,
+   "page": 79,
+   "scan": 104,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r107",
+   "title": "Concordia maritale",
+   "pages": [
+    "80"
+   ],
+   "printed_pages_raw": "80.",
+   "tavola_scan": 18,
+   "page": 80,
+   "scan": 105,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r108",
+   "title": "Concordia militare",
+   "pages": [
+    "80",
+    "81"
+   ],
+   "printed_pages_raw": "80.81.",
+   "tavola_scan": 18,
+   "page": 80,
+   "scan": 105,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r109",
+   "title": "Concordia",
+   "pages": [
+    "80",
+    "81"
+   ],
+   "printed_pages_raw": "80.81.",
+   "tavola_scan": 18,
+   "page": 80,
+   "scan": 105,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r110",
+   "title": "Concordia di pace",
+   "pages": [
+    "82"
+   ],
+   "printed_pages_raw": "82.",
+   "tavola_scan": 18,
+   "page": 82,
+   "scan": 107,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r111",
+   "title": "Concordia de gl'antichi",
+   "pages": [
+    "82"
+   ],
+   "printed_pages_raw": "82.",
+   "tavola_scan": 18,
+   "page": 82,
+   "scan": 107,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r112",
+   "title": "Concordia insuperabile",
+   "pages": [
+    "82"
+   ],
+   "printed_pages_raw": "82.",
+   "tavola_scan": 18,
+   "page": 82,
+   "scan": 107,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r113",
+   "title": "Confidenza",
+   "pages": [
+    "82"
+   ],
+   "printed_pages_raw": "82.",
+   "tavola_scan": 18,
+   "page": 82,
+   "scan": 107,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r114",
+   "title": "Confusione",
+   "pages": [
+    "82"
+   ],
+   "printed_pages_raw": "82.",
+   "tavola_scan": 18,
+   "page": 82,
+   "scan": 107,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r115",
+   "title": "Confermatione",
+   "pages": [
+    "83"
+   ],
+   "printed_pages_raw": "83.",
+   "tavola_scan": 18,
+   "page": 83,
+   "scan": 108,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r116",
+   "title": "Conscienza",
+   "pages": [
+    "83"
+   ],
+   "printed_pages_raw": "83.",
+   "tavola_scan": 18,
+   "page": 83,
+   "scan": 108,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r117",
+   "title": "Conseruatione",
+   "pages": [
+    "84"
+   ],
+   "printed_pages_raw": "84.",
+   "tavola_scan": 18,
+   "page": 84,
+   "scan": 109,
+   "has_img": true,
+   "img_scan": 109
+  },
+  {
+   "id": "r118",
+   "title": "Consideratione",
+   "pages": [
+    "85"
+   ],
+   "printed_pages_raw": "85.",
+   "tavola_scan": 18,
+   "page": 85,
+   "scan": 110,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r119",
+   "title": "Consiglio",
+   "pages": [
+    "85"
+   ],
+   "printed_pages_raw": "85.",
+   "tavola_scan": 18,
+   "page": 85,
+   "scan": 110,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r120",
+   "title": "Costanza",
+   "pages": [
+    "86"
+   ],
+   "printed_pages_raw": "86.",
+   "tavola_scan": 18,
+   "page": 86,
+   "scan": 111,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r121",
+   "title": "Costanza, & intrepidità",
+   "pages": [
+    "86"
+   ],
+   "printed_pages_raw": "86.",
+   "tavola_scan": 18,
+   "page": 86,
+   "scan": 111,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r122",
+   "title": "Consuetudine",
+   "pages": [
+    "86"
+   ],
+   "printed_pages_raw": "86.",
+   "tavola_scan": 18,
+   "page": 86,
+   "scan": 111,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r123",
+   "title": "Contento",
+   "pages": [
+    "87"
+   ],
+   "printed_pages_raw": "87.",
+   "tavola_scan": 18,
+   "page": 87,
+   "scan": 112,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r124",
+   "title": "Contento amoroso",
+   "pages": [
+    "87"
+   ],
+   "printed_pages_raw": "87.",
+   "tavola_scan": 18,
+   "page": 87,
+   "scan": 112,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r125",
+   "title": "Contrasto",
+   "pages": [
+    "88",
+    "89"
+   ],
+   "printed_pages_raw": "88.89.",
+   "tavola_scan": 18,
+   "page": 88,
+   "scan": 113,
+   "has_img": true,
+   "img_scan": 113
+  },
+  {
+   "id": "r126",
+   "title": "Contrittione",
+   "pages": [
+    "89"
+   ],
+   "printed_pages_raw": "89.",
+   "tavola_scan": 18,
+   "page": 89,
+   "scan": 114,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r127",
+   "title": "Continenza",
+   "pages": [
+    "90"
+   ],
+   "printed_pages_raw": "90.",
+   "tavola_scan": 18,
+   "page": 90,
+   "scan": 115,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r128",
+   "title": "Continenza militare",
+   "pages": [
+    "90"
+   ],
+   "printed_pages_raw": "90.",
+   "tavola_scan": 18,
+   "page": 90,
+   "scan": 115,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r129",
+   "title": "Conuito",
+   "pages": [
+    "90"
+   ],
+   "printed_pages_raw": "90.",
+   "tavola_scan": 18,
+   "page": 90,
+   "scan": 115,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r130",
+   "title": "Cordoglio",
+   "pages": [
+    "90"
+   ],
+   "printed_pages_raw": "90.",
+   "tavola_scan": 18,
+   "page": 90,
+   "scan": 115,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r131",
+   "title": "Correttione",
+   "pages": [
+    "91",
+    "92"
+   ],
+   "printed_pages_raw": "91.92.",
+   "tavola_scan": 18,
+   "page": 91,
+   "scan": 116,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r132",
+   "title": "Corpo humano",
+   "pages": [
+    "91"
+   ],
+   "printed_pages_raw": "91.",
+   "tavola_scan": 18,
+   "page": 91,
+   "scan": 116,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r133",
+   "title": "Coruttela ne' Giudici",
+   "pages": [
+    "93"
+   ],
+   "printed_pages_raw": "93.",
+   "tavola_scan": 18,
+   "page": 93,
+   "scan": 118,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r134",
+   "title": "Corte",
+   "pages": [
+    "93"
+   ],
+   "printed_pages_raw": "93.",
+   "tavola_scan": 18,
+   "page": 93,
+   "scan": 118,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r135",
+   "title": "Cortesia",
+   "pages": [
+    "95"
+   ],
+   "printed_pages_raw": "95.",
+   "tavola_scan": 18,
+   "page": 95,
+   "scan": 120,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r136",
+   "title": "Crepusculo della matina",
+   "pages": [
+    "95"
+   ],
+   "printed_pages_raw": "95.",
+   "tavola_scan": 18,
+   "page": 95,
+   "scan": 120,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r137",
+   "title": "Crepusculo della sera",
+   "pages": [
+    "97"
+   ],
+   "printed_pages_raw": "97.",
+   "tavola_scan": 18,
+   "page": 97,
+   "scan": 122,
+   "has_img": true,
+   "img_scan": 122
+  },
+  {
+   "id": "r138",
+   "title": "Crapula",
+   "pages": [
+    "98"
+   ],
+   "printed_pages_raw": "98.",
+   "tavola_scan": 18,
+   "page": 98,
+   "scan": 123,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r139",
+   "title": "Crudeltà",
+   "pages": [
+    "99"
+   ],
+   "printed_pages_raw": "99.",
+   "tavola_scan": 18,
+   "page": 99,
+   "scan": 124,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r140",
+   "title": "Cupidità",
+   "pages": [
+    "99"
+   ],
+   "printed_pages_raw": "99.",
+   "tavola_scan": 18,
+   "page": 99,
+   "scan": 124,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r141",
+   "title": "Curiosità",
+   "pages": [
+    "99"
+   ],
+   "printed_pages_raw": "99.",
+   "tavola_scan": 18,
+   "page": 99,
+   "scan": 124,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r142",
+   "title": "Custodia",
+   "pages": [
+    "100"
+   ],
+   "printed_pages_raw": "100.",
+   "tavola_scan": 18,
+   "page": 100,
+   "scan": 125,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r143",
+   "title": "Dapocaggine",
+   "pages": [
+    "100"
+   ],
+   "printed_pages_raw": "100.",
+   "tavola_scan": 18,
+   "page": 100,
+   "scan": 125,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r144",
+   "title": "Derisione",
+   "pages": [
+    "101"
+   ],
+   "printed_pages_raw": "101.",
+   "tavola_scan": 18,
+   "page": 101,
+   "scan": 126,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r145",
+   "title": "Desiderio verso Iddio",
+   "pages": [
+    "101"
+   ],
+   "printed_pages_raw": "101",
+   "tavola_scan": 19,
+   "page": 101,
+   "scan": 126,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r146",
+   "title": "Desiderio",
+   "pages": [
+    "101"
+   ],
+   "printed_pages_raw": "101",
+   "tavola_scan": 19,
+   "page": 101,
+   "scan": 126,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r147",
+   "title": "Detrattione",
+   "pages": [
+    "103"
+   ],
+   "printed_pages_raw": "103",
+   "tavola_scan": 19,
+   "page": 103,
+   "scan": 128,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r148",
+   "title": "Diuotione",
+   "pages": [
+    "103"
+   ],
+   "printed_pages_raw": "103",
+   "tavola_scan": 19,
+   "page": 103,
+   "scan": 128,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r149",
+   "title": "Dialetica",
+   "pages": [
+    "103"
+   ],
+   "printed_pages_raw": "103",
+   "tavola_scan": 19,
+   "page": 103,
+   "scan": 128,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r150",
+   "title": "Dignità",
+   "pages": [
+    "104"
+   ],
+   "printed_pages_raw": "104",
+   "tavola_scan": 19,
+   "page": 104,
+   "scan": 129,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r151",
+   "title": "Diligenza",
+   "pages": [
+    "104"
+   ],
+   "printed_pages_raw": "104",
+   "tavola_scan": 19,
+   "page": 104,
+   "scan": 129,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r152",
+   "title": "Discordia",
+   "pages": [
+    "104",
+    "106"
+   ],
+   "printed_pages_raw": "104.106",
+   "tavola_scan": 19,
+   "page": 104,
+   "scan": 129,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r153",
+   "title": "Disperatione",
+   "pages": [
+    "106"
+   ],
+   "printed_pages_raw": "106",
+   "tavola_scan": 19,
+   "page": 106,
+   "scan": 131,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r154",
+   "title": "Dispregio del mondo",
+   "pages": [
+    "107"
+   ],
+   "printed_pages_raw": "107",
+   "tavola_scan": 19,
+   "page": 107,
+   "scan": 132,
+   "has_img": true,
+   "img_scan": 132
+  },
+  {
+   "id": "r155",
+   "title": "Dispregio della virtù",
+   "pages": [
+    "108"
+   ],
+   "printed_pages_raw": "108",
+   "tavola_scan": 19,
+   "page": 108,
+   "scan": 133,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r156",
+   "title": "Disegno",
+   "pages": [
+    "108"
+   ],
+   "printed_pages_raw": "108",
+   "tavola_scan": 19,
+   "page": 108,
+   "scan": 133,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r157",
+   "title": "Diuinità",
+   "pages": [
+    "108"
+   ],
+   "printed_pages_raw": "108",
+   "tavola_scan": 19,
+   "page": 108,
+   "scan": 133,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r158",
+   "title": "Diuinatione",
+   "pages": [
+    "109"
+   ],
+   "printed_pages_raw": "109",
+   "tavola_scan": 19,
+   "page": 109,
+   "scan": 134,
+   "has_img": true,
+   "img_scan": 134
+  },
+  {
+   "id": "r159",
+   "title": "Dolore",
+   "pages": [
+    "110"
+   ],
+   "printed_pages_raw": "110",
+   "tavola_scan": 19,
+   "page": 110,
+   "scan": null,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r160",
+   "title": "Dolore di zeusi",
+   "pages": [
+    "111"
+   ],
+   "printed_pages_raw": "111",
+   "tavola_scan": 19,
+   "page": 111,
+   "scan": 138,
+   "has_img": true,
+   "img_scan": 138
+  },
+  {
+   "id": "r161",
+   "title": "Dominio di sè stesso",
+   "pages": [
+    "112"
+   ],
+   "printed_pages_raw": "112",
+   "tavola_scan": 19,
+   "page": 112,
+   "scan": 137,
+   "has_img": true,
+   "img_scan": 137
+  },
+  {
+   "id": "r162",
+   "title": "Dottrina",
+   "pages": [
+    "113"
+   ],
+   "printed_pages_raw": "113",
+   "tavola_scan": 19,
+   "page": 113,
+   "scan": null,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r163",
+   "title": "Dubbio",
+   "pages": [
+    "118"
+   ],
+   "printed_pages_raw": "118",
+   "tavola_scan": 19,
+   "page": 118,
+   "scan": 139,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r164",
+   "title": "Economia",
+   "pages": [
+    "118",
+    "119"
+   ],
+   "printed_pages_raw": "118.119",
+   "tavola_scan": 19,
+   "page": 118,
+   "scan": 139,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r165",
+   "title": "Elemosina",
+   "pages": [
+    "119"
+   ],
+   "printed_pages_raw": "119",
+   "tavola_scan": 19,
+   "page": 119,
+   "scan": 140,
+   "has_img": null,
+   "img_candidates": [
+    140
+   ],
+   "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r166",
+   "title": "Elementi",
+   "pages": [
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124"
+   ],
+   "printed_pages_raw": "119.120.121.122.123.124",
+   "tavola_scan": 19,
+   "page": 119,
+   "scan": 140,
+   "has_img": null,
+   "img_candidates": [
+    140
+   ],
+   "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r167",
+   "title": "Fuoco",
+   "pages": [
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124"
+   ],
+   "printed_pages_raw": "119.120.121.122.123.124",
+   "tavola_scan": 19,
+   "page": 119,
+   "scan": 140,
+   "has_img": null,
+   "img_candidates": [
+    140
+   ],
+   "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r168",
+   "title": "Aria",
+   "pages": [
+    "codem"
+   ],
+   "printed_pages_raw": "codem",
+   "tavola_scan": 19,
+   "page": null,
+   "scan": null,
+   "see": "статья идёт вслед за предыдущей (в указателе «eodem»)",
+   "reading_B": {
+    "title": "Aria",
+    "pages": [
+     "eodem"
+    ]
+   },
+   "uncertain": true
+  },
+  {
+   "id": "r169",
+   "title": "Acqua",
+   "pages": [
+    "codem"
+   ],
+   "printed_pages_raw": "codem",
+   "tavola_scan": 19,
+   "page": null,
+   "scan": null,
+   "see": "статья идёт вслед за предыдущей (в указателе «eodem»)",
+   "reading_B": {
+    "title": "Acqua",
+    "pages": [
+     "eodem"
+    ]
+   },
+   "uncertain": true
+  },
+  {
+   "id": "r170",
+   "title": "Terra",
+   "pages": [
+    "codem"
+   ],
+   "printed_pages_raw": "codem",
+   "tavola_scan": 19,
+   "page": null,
+   "scan": null,
+   "see": "статья идёт вслед за предыдущей (в указателе «eodem»)",
+   "reading_B": {
+    "title": "Terra",
+    "pages": [
+     "eodem"
+    ]
+   },
+   "uncertain": true
+  },
+  {
+   "id": "r171",
+   "title": "Eloquenza",
+   "pages": [
+    "126",
+    "127",
+    "128"
+   ],
+   "printed_pages_raw": "126.127.128",
+   "tavola_scan": 19,
+   "page": 126,
+   "scan": 147,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r172",
+   "title": "Emulatione",
+   "pages": [
+    "129"
+   ],
+   "printed_pages_raw": "129",
+   "tavola_scan": 19,
+   "page": 129,
+   "scan": 150,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r173",
+   "title": "Equità",
+   "pages": [
+    "129",
+    "130"
+   ],
+   "printed_pages_raw": "129.130",
+   "tavola_scan": 19,
+   "page": 129,
+   "scan": 150,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r174",
+   "title": "Equalità",
+   "pages": [
+    "130"
+   ],
+   "printed_pages_raw": "130",
+   "tavola_scan": 19,
+   "page": 130,
+   "scan": 151,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r175",
+   "title": "Equinottio della Primauera",
+   "pages": [
+    "131"
+   ],
+   "printed_pages_raw": "131",
+   "tavola_scan": 19,
+   "page": 131,
+   "scan": 152,
+   "has_img": true,
+   "img_scan": 152
+  },
+  {
+   "id": "r176",
+   "title": "Equinottio dell'Autunno",
+   "pages": [
+    "132"
+   ],
+   "printed_pages_raw": "132",
+   "tavola_scan": 19,
+   "page": 132,
+   "scan": 153,
+   "has_img": true,
+   "img_scan": 153
+  },
+  {
+   "id": "r177",
+   "title": "Errore",
+   "pages": [
+    "133"
+   ],
+   "printed_pages_raw": "133",
+   "tavola_scan": 19,
+   "page": 133,
+   "scan": 154,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r178",
+   "title": "Esilio",
+   "pages": [
+    "133"
+   ],
+   "printed_pages_raw": "133",
+   "tavola_scan": 19,
+   "page": 133,
+   "scan": 154,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r179",
+   "title": "Etica",
+   "pages": [
+    "134"
+   ],
+   "printed_pages_raw": "134",
+   "tavola_scan": 19,
+   "page": 134,
+   "scan": 155,
+   "has_img": true,
+   "img_scan": 155
+  },
+  {
+   "id": "r180",
+   "title": "Età dell'Oro",
+   "pages": [
+    "136",
+    "138"
+   ],
+   "printed_pages_raw": "136.138",
+   "tavola_scan": 19,
+   "page": 136,
+   "scan": 157,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r181",
+   "title": "Età dell'Argento",
+   "pages": [
+    "136",
+    "138"
+   ],
+   "printed_pages_raw": "136.138",
+   "tavola_scan": 19,
+   "page": 136,
+   "scan": 157,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r182",
+   "title": "Età del Rame",
+   "pages": [
+    "137",
+    "138"
+   ],
+   "printed_pages_raw": "137.138",
+   "tavola_scan": 19,
+   "page": 137,
+   "scan": 158,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r183",
+   "title": "Età del Ferro",
+   "pages": [
+    "137",
+    "138"
+   ],
+   "printed_pages_raw": "137.138",
+   "tavola_scan": 19,
+   "page": 137,
+   "scan": 158,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r184",
+   "title": "Eternità",
+   "pages": [
+    "138",
+    "139",
+    "140",
+    "141"
+   ],
+   "printed_pages_raw": "138.139.140.141",
+   "tavola_scan": 19,
+   "page": 138,
+   "scan": 159,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r185",
+   "title": "Eternità, ò perpetuità",
+   "pages": [
+    "141"
+   ],
+   "printed_pages_raw": "141",
+   "tavola_scan": 19,
+   "page": 141,
+   "scan": 162,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r186",
+   "title": "Euento buono",
+   "pages": [
+    "142"
+   ],
+   "printed_pages_raw": "142",
+   "tavola_scan": 19,
+   "page": 142,
+   "scan": 163,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r187",
+   "title": "Falsità d'amore, ouero inganno",
+   "pages": [
+    "142"
+   ],
+   "printed_pages_raw": "142",
+   "tavola_scan": 19,
+   "page": 142,
+   "scan": 163,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r188",
+   "title": "Fama",
+   "pages": [
+    "142"
+   ],
+   "printed_pages_raw": "142",
+   "tavola_scan": 19,
+   "page": 142,
+   "scan": 163,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r189",
+   "title": "Fama buona",
+   "pages": [
+    "143"
+   ],
+   "printed_pages_raw": "143",
+   "tavola_scan": 19,
+   "page": 143,
+   "scan": 164,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r190",
+   "title": "Fama cattiua",
+   "pages": [
+    "143"
+   ],
+   "printed_pages_raw": "143",
+   "tavola_scan": 19,
+   "page": 143,
+   "scan": 164,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r191",
+   "title": "Fama chiara",
+   "pages": [
+    "143"
+   ],
+   "printed_pages_raw": "143",
+   "tavola_scan": 19,
+   "page": 143,
+   "scan": 164,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r192",
+   "title": "Fame",
+   "pages": [
+    "144"
+   ],
+   "printed_pages_raw": "144",
+   "tavola_scan": 19,
+   "page": 144,
+   "scan": 165,
+   "has_img": true,
+   "img_scan": 165
+  },
+  {
+   "id": "r193",
+   "title": "Fatica",
+   "pages": [
+    "145"
+   ],
+   "printed_pages_raw": "145",
+   "tavola_scan": 19,
+   "page": 145,
+   "scan": 166,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r194",
+   "title": "Fatica estiua",
+   "pages": [
+    "145"
+   ],
+   "printed_pages_raw": "145",
+   "tavola_scan": 19,
+   "page": 145,
+   "scan": 166,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r195",
+   "title": "Fato",
+   "pages": [
+    "146"
+   ],
+   "printed_pages_raw": "146",
+   "tavola_scan": 19,
+   "page": 146,
+   "scan": 167,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r196",
+   "title": "Fauore",
+   "pages": [
+    "147"
+   ],
+   "printed_pages_raw": "147",
+   "tavola_scan": 19,
+   "page": 147,
+   "scan": 168,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r197",
+   "title": "Fecondità",
+   "pages": [
+    "148"
+   ],
+   "printed_pages_raw": "148",
+   "tavola_scan": 19,
+   "page": 148,
+   "scan": 169,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r198",
+   "title": "Fede",
+   "pages": [
+    "148"
+   ],
+   "printed_pages_raw": "148",
+   "tavola_scan": 19,
+   "page": 148,
+   "scan": 169,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r199",
+   "title": "Fede Christiana",
+   "pages": [
+    "149"
+   ],
+   "printed_pages_raw": "149",
+   "tavola_scan": 19,
+   "page": 149,
+   "scan": 170,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r200",
+   "title": "Fede Catholica",
+   "pages": [
+    "149",
+    "150"
+   ],
+   "printed_pages_raw": "149.150",
+   "tavola_scan": 19,
+   "page": 149,
+   "scan": 170,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r201",
+   "title": "Fede nell'amicitia",
+   "pages": [
+    "152"
+   ],
+   "printed_pages_raw": "152",
+   "tavola_scan": 19,
+   "page": 152,
+   "scan": 173,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r202",
+   "title": "Fede maritale",
+   "pages": [
+    "152"
+   ],
+   "printed_pages_raw": "152",
+   "tavola_scan": 19,
+   "page": 152,
+   "scan": 173,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r203",
+   "title": "Fedeltà",
+   "pages": [
+    "152",
+    "154"
+   ],
+   "printed_pages_raw": "152.154",
+   "tavola_scan": 19,
+   "page": 152,
+   "scan": 173,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r204",
+   "title": "Felicità",
+   "pages": [
+    "154"
+   ],
+   "printed_pages_raw": "154",
+   "tavola_scan": 19,
+   "page": 154,
+   "scan": 175,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r205",
+   "title": "Felicità eterna",
+   "pages": [
+    "154"
+   ],
+   "printed_pages_raw": "154",
+   "tavola_scan": 19,
+   "page": 154,
+   "scan": 175,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r206",
+   "title": "Felicità breue",
+   "pages": [
+    "155"
+   ],
+   "printed_pages_raw": "155",
+   "tavola_scan": 19,
+   "page": 155,
+   "scan": 176,
+   "has_img": true,
+   "img_scan": 176
+  },
+  {
+   "id": "r207",
+   "title": "Fermezza",
+   "pages": [
+    "156"
+   ],
+   "printed_pages_raw": "156",
+   "tavola_scan": 19,
+   "page": 156,
+   "scan": 177,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r208",
+   "title": "Fermezza, & grauità dell'oratione",
+   "pages": [
+    "156"
+   ],
+   "printed_pages_raw": "156",
+   "tavola_scan": 19,
+   "page": 156,
+   "scan": 177,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r209",
+   "title": "Fermezza d'amore",
+   "pages": [
+    "156"
+   ],
+   "printed_pages_raw": "156",
+   "tavola_scan": 19,
+   "page": 156,
+   "scan": 177,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r210",
+   "title": "Fiumi",
+   "pages": [
+    "156"
+   ],
+   "printed_pages_raw": "156",
+   "tavola_scan": 19,
+   "page": 156,
+   "scan": 177,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r211",
+   "title": "Teuere",
+   "pages": [
+    "156",
+    "158"
+   ],
+   "printed_pages_raw": "156.158",
+   "tavola_scan": 19,
+   "page": 156,
+   "scan": 177,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r212",
+   "title": "Arno",
+   "pages": [
+    "158"
+   ],
+   "printed_pages_raw": "158",
+   "tavola_scan": 19,
+   "page": 158,
+   "scan": 179,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r213",
+   "title": "Pò",
+   "pages": [
+    "158"
+   ],
+   "printed_pages_raw": "158",
+   "tavola_scan": 19,
+   "page": 158,
+   "scan": 179,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r214",
+   "title": "Adige",
+   "pages": [
+    "159"
+   ],
+   "printed_pages_raw": "159",
+   "tavola_scan": 19,
+   "page": 159,
+   "scan": 180,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r215",
+   "title": "Nilo",
+   "pages": [
+    "160"
+   ],
+   "printed_pages_raw": "160",
+   "tavola_scan": 19,
+   "page": 160,
+   "scan": 181,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r216",
+   "title": "Tigre",
+   "pages": [
+    "160"
+   ],
+   "printed_pages_raw": "160",
+   "tavola_scan": 19,
+   "page": 160,
+   "scan": 181,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r217",
+   "title": "Danubio",
+   "pages": [
+    "160"
+   ],
+   "printed_pages_raw": "160",
+   "tavola_scan": 19,
+   "page": 160,
+   "scan": 181,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r218",
+   "title": "Acheolo",
+   "pages": [
+    "161"
+   ],
+   "printed_pages_raw": "161",
+   "tavola_scan": 19,
+   "page": 161,
+   "scan": 182,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r219",
+   "title": "Aci",
+   "pages": [
+    "161"
+   ],
+   "printed_pages_raw": "161",
+   "tavola_scan": 19,
+   "page": 161,
+   "scan": 182,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r220",
+   "title": "Acheronte fiume infernale",
+   "pages": [
+    "161"
+   ],
+   "printed_pages_raw": "161",
+   "tavola_scan": 19,
+   "page": 161,
+   "scan": 182,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r221",
+   "title": "Cocito fiume infernale",
+   "pages": [
+    "161"
+   ],
+   "printed_pages_raw": "161",
+   "tavola_scan": 19,
+   "page": 161,
+   "scan": 182,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r222",
+   "title": "Stige palude infernale",
+   "pages": [
+    "162"
+   ],
+   "printed_pages_raw": "162",
+   "tavola_scan": 19,
+   "page": 162,
+   "scan": 183,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r223",
+   "title": "Flegetonte fiume infernale",
+   "pages": [
+    "162"
+   ],
+   "printed_pages_raw": "162",
+   "tavola_scan": 19,
+   "page": 162,
+   "scan": 183,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r224",
+   "title": "Indo",
+   "pages": [
+    "162"
+   ],
+   "printed_pages_raw": "162",
+   "tavola_scan": 19,
+   "page": 162,
+   "scan": 183,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r225",
+   "title": "Gange",
+   "pages": [
+    "162"
+   ],
+   "printed_pages_raw": "162",
+   "tavola_scan": 19,
+   "page": 162,
+   "scan": 183,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r226",
+   "title": "Niger",
+   "pages": [
+    "162"
+   ],
+   "printed_pages_raw": "162",
+   "tavola_scan": 19,
+   "page": 162,
+   "scan": 183,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r227",
+   "title": "Filosofia",
+   "pages": [
+    "162",
+    "163"
+   ],
+   "printed_pages_raw": "162.163",
+   "tavola_scan": 19,
+   "page": 162,
+   "scan": 183,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r228",
+   "title": "Flagello de Dio",
+   "pages": [
+    "165"
+   ],
+   "printed_pages_raw": "165",
+   "tavola_scan": 19,
+   "page": 165,
+   "scan": 186,
+   "has_img": true,
+   "img_scan": 186
+  },
+  {
+   "id": "r229",
+   "title": "Fortezza",
+   "pages": [
+    "166",
+    "168"
+   ],
+   "printed_pages_raw": "166.168",
+   "tavola_scan": 20,
+   "page": 166,
+   "scan": null,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r230",
+   "title": "Fortezza d'animo, & di corpo",
+   "pages": [
+    "168"
+   ],
+   "printed_pages_raw": "168",
+   "tavola_scan": 20,
+   "page": 168,
+   "scan": 189,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r231",
+   "title": "Fortezza, e valore del corpo congiunto con la prudenza, & virtù dell'animo",
+   "pages": [
+    "169"
+   ],
+   "printed_pages_raw": "169",
+   "tavola_scan": 20,
+   "page": 169,
+   "scan": 190,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r232",
+   "title": "Fortezza del corpo congiunta con la generosità dell'animo",
+   "pages": [
+    "169"
+   ],
+   "printed_pages_raw": "169",
+   "tavola_scan": 20,
+   "page": 169,
+   "scan": 190,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r233",
+   "title": "Fortuna",
+   "pages": [
+    "169"
+   ],
+   "printed_pages_raw": "169",
+   "tavola_scan": 20,
+   "page": 169,
+   "scan": 190,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r234",
+   "title": "Fortuna buona",
+   "pages": [
+    "170"
+   ],
+   "printed_pages_raw": "170",
+   "tavola_scan": 20,
+   "page": 170,
+   "scan": 191,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r235",
+   "title": "Fortuna infelice",
+   "pages": [
+    "170"
+   ],
+   "printed_pages_raw": "170",
+   "tavola_scan": 20,
+   "page": 170,
+   "scan": 191,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r236",
+   "title": "Fortuna gioueuole ad amore",
+   "pages": [
+    "170"
+   ],
+   "printed_pages_raw": "170",
+   "tavola_scan": 20,
+   "page": 170,
+   "scan": 191,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r237",
+   "title": "Fortuna pacifica, ouero clemente",
+   "pages": [
+    "170"
+   ],
+   "printed_pages_raw": "170",
+   "tavola_scan": 20,
+   "page": 170,
+   "scan": 191,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r238",
+   "title": "Fortuna aurea",
+   "pages": [
+    "171"
+   ],
+   "printed_pages_raw": "171",
+   "tavola_scan": 20,
+   "page": 171,
+   "scan": 192,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r239",
+   "title": "Forza",
+   "pages": [
+    "171",
+    "172"
+   ],
+   "printed_pages_raw": "171.172",
+   "tavola_scan": 20,
+   "page": 171,
+   "scan": 192,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r240",
+   "title": "Forza d'amore",
+   "pages": [
+    "171"
+   ],
+   "printed_pages_raw": "171",
+   "tavola_scan": 20,
+   "page": 171,
+   "scan": 192,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r241",
+   "title": "Forza minore da maggior forza superata",
+   "pages": [
+    "171"
+   ],
+   "printed_pages_raw": "171.",
+   "tavola_scan": 20,
+   "page": 171,
+   "scan": 192,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r242",
+   "title": "Forza d'amore, sì nell'acqua, come in terra",
+   "pages": [
+    "171"
+   ],
+   "printed_pages_raw": "171",
+   "tavola_scan": 20,
+   "page": 171,
+   "scan": 192,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r243",
+   "title": "Fragilità",
+   "pages": [
+    "173"
+   ],
+   "printed_pages_raw": "173",
+   "tavola_scan": 20,
+   "page": 173,
+   "scan": 194,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r244",
+   "title": "Fragilità humana",
+   "pages": [
+    "173"
+   ],
+   "printed_pages_raw": "173",
+   "tavola_scan": 20,
+   "page": 173,
+   "scan": 194,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r245",
+   "title": "Fraude",
+   "pages": [
+    "173",
+    "174",
+    "175"
+   ],
+   "printed_pages_raw": "173.174.175",
+   "tavola_scan": 20,
+   "page": 173,
+   "scan": 194,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r246",
+   "title": "Fuga",
+   "pages": [
+    "175"
+   ],
+   "printed_pages_raw": "175",
+   "tavola_scan": 20,
+   "page": 175,
+   "scan": 196,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r247",
+   "title": "Fuga popolare",
+   "pages": [
+    "175"
+   ],
+   "printed_pages_raw": "175",
+   "tavola_scan": 20,
+   "page": 175,
+   "scan": 196,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r248",
+   "title": "Furie",
+   "pages": [
+    "175"
+   ],
+   "printed_pages_raw": "175",
+   "tavola_scan": 20,
+   "page": 175,
+   "scan": 196,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r249",
+   "title": "Furore",
+   "pages": [
+    "176",
+    "177"
+   ],
+   "printed_pages_raw": "176.177",
+   "tavola_scan": 20,
+   "page": 176,
+   "scan": 197,
+   "has_img": true,
+   "img_scan": 197
+  },
+  {
+   "id": "r250",
+   "title": "Furore, & rabbia",
+   "pages": [
+    "177"
+   ],
+   "printed_pages_raw": "177",
+   "tavola_scan": 20,
+   "page": 177,
+   "scan": 198,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r251",
+   "title": "Furore superbo, & indomito",
+   "pages": [
+    "177"
+   ],
+   "printed_pages_raw": "177",
+   "tavola_scan": 20,
+   "page": 177,
+   "scan": 198,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r252",
+   "title": "Furor poetico",
+   "pages": [
+    "178"
+   ],
+   "printed_pages_raw": "178",
+   "tavola_scan": 20,
+   "page": 178,
+   "scan": 199,
+   "has_img": true,
+   "img_scan": 199
+  },
+  {
+   "id": "r253",
+   "title": "Furto",
+   "pages": [
+    "179"
+   ],
+   "printed_pages_raw": "179",
+   "tavola_scan": 20,
+   "page": 179,
+   "scan": 200,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r254",
+   "title": "Gagliardezza",
+   "pages": [
+    "180"
+   ],
+   "printed_pages_raw": "180",
+   "tavola_scan": 20,
+   "page": 180,
+   "scan": 201,
+   "has_img": true,
+   "img_scan": 201
+  },
+  {
+   "id": "r255",
+   "title": "Gelosia",
+   "pages": [
+    "181"
+   ],
+   "printed_pages_raw": "181",
+   "tavola_scan": 20,
+   "page": 181,
+   "scan": 202,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r256",
+   "title": "Genio buono",
+   "pages": [
+    "182"
+   ],
+   "printed_pages_raw": "182",
+   "tavola_scan": 20,
+   "page": 182,
+   "scan": 203,
+   "has_img": true,
+   "img_scan": 203
+  },
+  {
+   "id": "r257",
+   "title": "Genio catiuo",
+   "pages": [
+    "183"
+   ],
+   "printed_pages_raw": "183",
+   "tavola_scan": 20,
+   "page": 183,
+   "scan": 204,
+   "has_img": null,
+   "img_scan": null,
+   "reading_B": {
+    "title": "Genio cattiuo",
+    "pages": [
+     "183"
+    ]
+   },
+   "uncertain": true
+  },
+  {
+   "id": "r258",
+   "title": "Geometria",
+   "pages": [
+    "183"
+   ],
+   "printed_pages_raw": "183",
+   "tavola_scan": 20,
+   "page": 183,
+   "scan": 204,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r259",
+   "title": "Giorno naturale",
+   "pages": [
+    "183"
+   ],
+   "printed_pages_raw": "183",
+   "tavola_scan": 20,
+   "page": 183,
+   "scan": 204,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r260",
+   "title": "Giorno artificiale",
+   "pages": [
+    "183",
+    "184"
+   ],
+   "printed_pages_raw": "183.184",
+   "tavola_scan": 20,
+   "page": 183,
+   "scan": 204,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r261",
+   "title": "Giouentù",
+   "pages": [
+    "184"
+   ],
+   "printed_pages_raw": "184",
+   "tavola_scan": 20,
+   "page": 184,
+   "scan": 205,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r262",
+   "title": "Gioia d'amore",
+   "pages": [
+    "184"
+   ],
+   "printed_pages_raw": "184",
+   "tavola_scan": 20,
+   "page": 184,
+   "scan": 205,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r263",
+   "title": "Giubilo",
+   "pages": [
+    "185"
+   ],
+   "printed_pages_raw": "185",
+   "tavola_scan": 20,
+   "page": 185,
+   "scan": 206,
+   "has_img": null,
+   "img_candidates": [
+    206
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r264",
+   "title": "Giuditio",
+   "pages": [
+    "185"
+   ],
+   "printed_pages_raw": "185",
+   "tavola_scan": 20,
+   "page": 185,
+   "scan": 206,
+   "has_img": null,
+   "img_candidates": [
+    206
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r265",
+   "title": "Giuditio, ouero inditio d'amore",
+   "pages": [
+    "186"
+   ],
+   "printed_pages_raw": "186",
+   "tavola_scan": 20,
+   "page": 186,
+   "scan": 207,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r266",
+   "title": "Giuditio giusto",
+   "pages": [
+    "186"
+   ],
+   "printed_pages_raw": "186",
+   "tavola_scan": 20,
+   "page": 186,
+   "scan": 207,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r267",
+   "title": "Giudice",
+   "pages": [
+    "186"
+   ],
+   "printed_pages_raw": "186",
+   "tavola_scan": 20,
+   "page": 186,
+   "scan": 207,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r268",
+   "title": "Giuoco dall' antico",
+   "pages": [
+    "187"
+   ],
+   "printed_pages_raw": "187",
+   "tavola_scan": 20,
+   "page": 187,
+   "scan": 208,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r269",
+   "title": "Giurisdittione",
+   "pages": [
+    "187"
+   ],
+   "printed_pages_raw": "187",
+   "tavola_scan": 20,
+   "page": 187,
+   "scan": 208,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r270",
+   "title": "Giustitia",
+   "pages": [
+    "187",
+    "188",
+    "189"
+   ],
+   "printed_pages_raw": "187.188.189",
+   "tavola_scan": 20,
+   "page": 187,
+   "scan": 208,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r271",
+   "title": "Giustitia diuina",
+   "pages": [
+    "188"
+   ],
+   "printed_pages_raw": "188",
+   "tavola_scan": 20,
+   "page": 188,
+   "scan": 209,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r272",
+   "title": "Giustitia retta, che non si pieghi per amicitia, ne per odio",
+   "pages": [
+    "198"
+   ],
+   "printed_pages_raw": "198",
+   "tavola_scan": 20,
+   "page": 198,
+   "scan": 210,
+   "has_img": null,
+   "img_candidates": [
+    219
+   ],
+   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r273",
+   "title": "Giustitia rigorosa",
+   "pages": [
+    "198"
+   ],
+   "printed_pages_raw": "198",
+   "tavola_scan": 20,
+   "page": 198,
+   "scan": 210,
+   "has_img": null,
+   "img_candidates": [
+    219
+   ],
+   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r274",
+   "title": "Gloria de Principi",
+   "pages": [
+    "198"
+   ],
+   "printed_pages_raw": "198",
+   "tavola_scan": 20,
+   "page": 198,
+   "scan": 210,
+   "has_img": null,
+   "img_candidates": [
+    219
+   ],
+   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r275",
+   "title": "Gloria",
+   "pages": [
+    "192",
+    "193"
+   ],
+   "printed_pages_raw": "192.193",
+   "tavola_scan": 20,
+   "page": 192,
+   "scan": 213,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r276",
+   "title": "Gloria, & honore",
+   "pages": [
+    "193"
+   ],
+   "printed_pages_raw": "193",
+   "tavola_scan": 20,
+   "page": 193,
+   "scan": 214,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r277",
+   "title": "Gola",
+   "pages": [
+    "193"
+   ],
+   "printed_pages_raw": "193",
+   "tavola_scan": 20,
+   "page": 193,
+   "scan": 214,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r278",
+   "title": "Gouerno della Republica",
+   "pages": [
+    "194"
+   ],
+   "printed_pages_raw": "194",
+   "tavola_scan": 20,
+   "page": 194,
+   "scan": 215,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r279",
+   "title": "Gramatica",
+   "pages": [
+    "194"
+   ],
+   "printed_pages_raw": "194",
+   "tavola_scan": 20,
+   "page": 194,
+   "scan": 215,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r280",
+   "title": "Guardia",
+   "pages": [
+    "194"
+   ],
+   "printed_pages_raw": "194",
+   "tavola_scan": 20,
+   "page": 194,
+   "scan": 215,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r281",
+   "title": "Gratia",
+   "pages": [
+    "195"
+   ],
+   "printed_pages_raw": "195",
+   "tavola_scan": 20,
+   "page": 195,
+   "scan": 216,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r282",
+   "title": "Gratia Diuina",
+   "pages": [
+    "195"
+   ],
+   "printed_pages_raw": "195",
+   "tavola_scan": 20,
+   "page": 195,
+   "scan": 216,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r283",
+   "title": "Gratia di Dio",
+   "pages": [
+    "195"
+   ],
+   "printed_pages_raw": "195",
+   "tavola_scan": 20,
+   "page": 195,
+   "scan": 216,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r284",
+   "title": "Gratie",
+   "pages": [
+    "196"
+   ],
+   "printed_pages_raw": "196",
+   "tavola_scan": 20,
+   "page": 196,
+   "scan": 217,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r285",
+   "title": "Gratitudine",
+   "pages": [
+    "196"
+   ],
+   "printed_pages_raw": "196",
+   "tavola_scan": 20,
+   "page": 196,
+   "scan": 217,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r286",
+   "title": "Grauità",
+   "pages": [
+    "196"
+   ],
+   "printed_pages_raw": "196",
+   "tavola_scan": 20,
+   "page": 196,
+   "scan": 217,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r287",
+   "title": "Grauità nell'huomo",
+   "pages": [
+    "196"
+   ],
+   "printed_pages_raw": "196",
+   "tavola_scan": 20,
+   "page": 196,
+   "scan": 217,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r288",
+   "title": "Grauita dell'oratione",
+   "pages": [
+    "197"
+   ],
+   "printed_pages_raw": "197",
+   "tavola_scan": 20,
+   "page": 197,
+   "scan": 218,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r289",
+   "title": "Guerra",
+   "pages": [
+    "197"
+   ],
+   "printed_pages_raw": "197",
+   "tavola_scan": 20,
+   "page": 197,
+   "scan": 218,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r290",
+   "title": "Grassezza",
+   "pages": [
+    "198"
+   ],
+   "printed_pages_raw": "198",
+   "tavola_scan": 20,
+   "page": 198,
+   "scan": 210,
+   "has_img": null,
+   "img_candidates": [
+    219
+   ],
+   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r291",
+   "title": "Guida sicura de veri honori",
+   "pages": [
+    "199"
+   ],
+   "printed_pages_raw": "199",
+   "tavola_scan": 20,
+   "page": 199,
+   "scan": 220,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r292",
+   "title": "Hippocresia",
+   "pages": [
+    "199"
+   ],
+   "printed_pages_raw": "199",
+   "tavola_scan": 20,
+   "page": 199,
+   "scan": 220,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r293",
+   "title": "Hippocresia",
+   "pages": [
+    "200"
+   ],
+   "printed_pages_raw": "200",
+   "tavola_scan": 20,
+   "page": 200,
+   "scan": 221,
+   "has_img": true,
+   "img_scan": 221
+  },
+  {
+   "id": "r294",
+   "title": "Homecidio",
+   "pages": [
+    "201"
+   ],
+   "printed_pages_raw": "201",
+   "tavola_scan": 20,
+   "page": 201,
+   "scan": 222,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r295",
+   "title": "Honestà",
+   "pages": [
+    "202"
+   ],
+   "printed_pages_raw": "202",
+   "tavola_scan": 20,
+   "page": 202,
+   "scan": 223,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r296",
+   "title": "Honore",
+   "pages": [
+    "202",
+    "203"
+   ],
+   "printed_pages_raw": "202.203",
+   "tavola_scan": 20,
+   "page": 202,
+   "scan": 223,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r297",
+   "title": "Hore del Giorno",
+   "pages": [
+    "203"
+   ],
+   "printed_pages_raw": "203",
+   "tavola_scan": 20,
+   "page": 203,
+   "scan": 224,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r298",
+   "title": "Hore della Notte",
+   "pages": [
+    "210",
+    "211",
+    "212",
+    "213"
+   ],
+   "printed_pages_raw": "210.211.212.213",
+   "tavola_scan": 20,
+   "page": 210,
+   "scan": 231,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r299",
+   "title": "Humiltà",
+   "pages": [
+    "214",
+    "215"
+   ],
+   "printed_pages_raw": "214.215",
+   "tavola_scan": 20,
+   "page": 214,
+   "scan": 235,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r300",
+   "title": "Humanità",
+   "pages": [
+    "216"
+   ],
+   "printed_pages_raw": "216",
+   "tavola_scan": 20,
+   "page": 216,
+   "scan": 237,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r301",
+   "title": "Heresia",
+   "pages": [
+    "216"
+   ],
+   "printed_pages_raw": "216",
+   "tavola_scan": 20,
+   "page": 216,
+   "scan": 237,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r302",
+   "title": "Historia",
+   "pages": [
+    "218"
+   ],
+   "printed_pages_raw": "218",
+   "tavola_scan": 20,
+   "page": 218,
+   "scan": 239,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r303",
+   "title": "Iattanza",
+   "pages": [
+    "218"
+   ],
+   "printed_pages_raw": "218.",
+   "tavola_scan": 21,
+   "page": 218,
+   "scan": 239,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r304",
+   "title": "Idolatria",
+   "pages": [
+    "219"
+   ],
+   "printed_pages_raw": "219.",
+   "tavola_scan": 21,
+   "page": 219,
+   "scan": 240,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r305",
+   "title": "Indulgentia",
+   "pages": [
+    "219"
+   ],
+   "printed_pages_raw": "219.",
+   "tavola_scan": 21,
+   "page": 219,
+   "scan": 240,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r306",
+   "title": "Infamia",
+   "pages": [
+    "220",
+    "227"
+   ],
+   "printed_pages_raw": "220.227.",
+   "tavola_scan": 21,
+   "page": 220,
+   "scan": 241,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r307",
+   "title": "Infelicità",
+   "pages": [
+    "220"
+   ],
+   "printed_pages_raw": "220.",
+   "tavola_scan": 21,
+   "page": 220,
+   "scan": 241,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r308",
+   "title": "Ingegno",
+   "pages": [
+    "220"
+   ],
+   "printed_pages_raw": "220",
+   "tavola_scan": 21,
+   "page": 220,
+   "scan": 241,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r309",
+   "title": "Ingnoranza",
+   "pages": [
+    "221",
+    "222"
+   ],
+   "printed_pages_raw": "221.222",
+   "tavola_scan": 21,
+   "page": 221,
+   "scan": 242,
+   "has_img": true,
+   "img_scan": 242
+  },
+  {
+   "id": "r310",
+   "title": "Ingnoranza in vn ricco senza lettere",
+   "pages": [
+    "222"
+   ],
+   "printed_pages_raw": "222",
+   "tavola_scan": 21,
+   "page": 222,
+   "scan": 243,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r311",
+   "title": "Ingnoranza come depinta dall' Alciati",
+   "pages": [
+    "223"
+   ],
+   "printed_pages_raw": "223.",
+   "tavola_scan": 21,
+   "page": 223,
+   "scan": 244,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r312",
+   "title": "Imitatione",
+   "pages": [
+    "223"
+   ],
+   "printed_pages_raw": "223",
+   "tavola_scan": 21,
+   "page": 223,
+   "scan": 244,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r313",
+   "title": "Immortalità",
+   "pages": [
+    "223"
+   ],
+   "printed_pages_raw": "223",
+   "tavola_scan": 21,
+   "page": 223,
+   "scan": 244,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r314",
+   "title": "Immutatione",
+   "pages": [
+    "223"
+   ],
+   "printed_pages_raw": "223",
+   "tavola_scan": 21,
+   "page": 223,
+   "scan": 244,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r315",
+   "title": "Impassibilità",
+   "pages": [
+    "224"
+   ],
+   "printed_pages_raw": "224",
+   "tavola_scan": 21,
+   "page": 224,
+   "scan": 245,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r316",
+   "title": "Imperfettione",
+   "pages": [
+    "224"
+   ],
+   "printed_pages_raw": "224",
+   "tavola_scan": 21,
+   "page": 224,
+   "scan": 245,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r317",
+   "title": "Impietà",
+   "pages": [
+    "224"
+   ],
+   "printed_pages_raw": "224",
+   "tavola_scan": 21,
+   "page": 224,
+   "scan": 245,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r318",
+   "title": "Incostanza",
+   "pages": [
+    "225",
+    "226"
+   ],
+   "printed_pages_raw": "225.226",
+   "tavola_scan": 21,
+   "page": 225,
+   "scan": 246,
+   "has_img": true,
+   "img_scan": 246
+  },
+  {
+   "id": "r319",
+   "title": "Inditio d' Amore",
+   "pages": [
+    "226"
+   ],
+   "printed_pages_raw": "226",
+   "tavola_scan": 21,
+   "page": 226,
+   "scan": 247,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r320",
+   "title": "Indústria",
+   "pages": [
+    "226",
+    "227"
+   ],
+   "printed_pages_raw": "226.227",
+   "tavola_scan": 21,
+   "page": 226,
+   "scan": 247,
+   "has_img": null,
+   "img_scan": null,
+   "reading_B": {
+    "title": "Industria",
+    "pages": [
+     "226",
+     "227"
+    ]
+   },
+   "uncertain": true
+  },
+  {
+   "id": "r321",
+   "title": "Infermità",
+   "pages": [
+    "228"
+   ],
+   "printed_pages_raw": "228",
+   "tavola_scan": 21,
+   "page": 228,
+   "scan": 249,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r322",
+   "title": "Infortunio",
+   "pages": [
+    "228"
+   ],
+   "printed_pages_raw": "228",
+   "tavola_scan": 21,
+   "page": 228,
+   "scan": 249,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r323",
+   "title": "Inganno",
+   "pages": [
+    "228",
+    "229"
+   ],
+   "printed_pages_raw": "228.229",
+   "tavola_scan": 21,
+   "page": 228,
+   "scan": 249,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r324",
+   "title": "Ingiuria",
+   "pages": [
+    "230"
+   ],
+   "printed_pages_raw": "230",
+   "tavola_scan": 21,
+   "page": 230,
+   "scan": 251,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r325",
+   "title": "Ingiustitia",
+   "pages": [
+    "230",
+    "231"
+   ],
+   "printed_pages_raw": "230.231",
+   "tavola_scan": 21,
+   "page": 230,
+   "scan": 251,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r326",
+   "title": "Ingordigia",
+   "pages": [
+    "232"
+   ],
+   "printed_pages_raw": "232",
+   "tavola_scan": 21,
+   "page": 232,
+   "scan": 253,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r327",
+   "title": "Ingratitudine",
+   "pages": [
+    "232",
+    "233"
+   ],
+   "printed_pages_raw": "232.233",
+   "tavola_scan": 21,
+   "page": 232,
+   "scan": 253,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r328",
+   "title": "Inimicitia",
+   "pages": [
+    "233"
+   ],
+   "printed_pages_raw": "233",
+   "tavola_scan": 21,
+   "page": 233,
+   "scan": 254,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r329",
+   "title": "Iniquità",
+   "pages": [
+    "234"
+   ],
+   "printed_pages_raw": "234",
+   "tavola_scan": 21,
+   "page": 234,
+   "scan": 255,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r330",
+   "title": "Inquietudine",
+   "pages": [
+    "234"
+   ],
+   "printed_pages_raw": "234",
+   "tavola_scan": 21,
+   "page": 234,
+   "scan": 255,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r331",
+   "title": "Inquietudine d'animo",
+   "pages": [
+    "234"
+   ],
+   "printed_pages_raw": "234",
+   "tavola_scan": 21,
+   "page": 234,
+   "scan": 255,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r332",
+   "title": "Irresolutione",
+   "pages": [
+    "234"
+   ],
+   "printed_pages_raw": "234",
+   "tavola_scan": 21,
+   "page": 234,
+   "scan": 255,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r333",
+   "title": "Innocenza",
+   "pages": [
+    "235"
+   ],
+   "printed_pages_raw": "235",
+   "tavola_scan": 21,
+   "page": 235,
+   "scan": 256,
+   "has_img": true,
+   "img_scan": 256
+  },
+  {
+   "id": "r334",
+   "title": "Innocenza, ò purità",
+   "pages": [
+    "236"
+   ],
+   "printed_pages_raw": "236",
+   "tavola_scan": 21,
+   "page": 236,
+   "scan": 257,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r335",
+   "title": "Inubidienza",
+   "pages": [
+    "236"
+   ],
+   "printed_pages_raw": "236",
+   "tavola_scan": 21,
+   "page": 236,
+   "scan": 257,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r336",
+   "title": "Insidia",
+   "pages": [
+    "237"
+   ],
+   "printed_pages_raw": "237",
+   "tavola_scan": 21,
+   "page": 237,
+   "scan": 258,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r337",
+   "title": "Instabilità, ouero incostanza",
+   "pages": [
+    "237"
+   ],
+   "printed_pages_raw": "237",
+   "tavola_scan": 21,
+   "page": 237,
+   "scan": 258,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r338",
+   "title": "Intelletto",
+   "pages": [
+    "237",
+    "238"
+   ],
+   "printed_pages_raw": "237.238",
+   "tavola_scan": 21,
+   "page": 237,
+   "scan": 258,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r339",
+   "title": "Intelligenza",
+   "pages": [
+    "239"
+   ],
+   "printed_pages_raw": "239",
+   "tavola_scan": 21,
+   "page": 239,
+   "scan": 260,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r340",
+   "title": "Intrepidità, & costanza",
+   "pages": [
+    "239"
+   ],
+   "printed_pages_raw": "239",
+   "tavola_scan": 21,
+   "page": 239,
+   "scan": 260,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r341",
+   "title": "Intelligenza",
+   "pages": [
+    "240"
+   ],
+   "printed_pages_raw": "240",
+   "tavola_scan": 21,
+   "page": 240,
+   "scan": 261,
+   "has_img": null,
+   "img_candidates": [
+    261
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r342",
+   "title": "Inuentione",
+   "pages": [
+    "240"
+   ],
+   "printed_pages_raw": "240",
+   "tavola_scan": 21,
+   "page": 240,
+   "scan": 261,
+   "has_img": null,
+   "img_candidates": [
+    261
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r343",
+   "title": "Inuidia",
+   "pages": [
+    "241",
+    "242",
+    "243"
+   ],
+   "printed_pages_raw": "241.242.243",
+   "tavola_scan": 21,
+   "page": 241,
+   "scan": 262,
+   "has_img": true,
+   "img_scan": 262
+  },
+  {
+   "id": "r344",
+   "title": "Inuocatione",
+   "pages": [
+    "243"
+   ],
+   "printed_pages_raw": "243",
+   "tavola_scan": 21,
+   "page": 243,
+   "scan": 264,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r345",
+   "title": "Ira",
+   "pages": [
+    "243",
+    "244"
+   ],
+   "printed_pages_raw": "243.244",
+   "tavola_scan": 21,
+   "page": 243,
+   "scan": 264,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r346",
+   "title": "Interesse proprio",
+   "pages": [
+    "245",
+    "246"
+   ],
+   "printed_pages_raw": "245.246",
+   "tavola_scan": 21,
+   "page": 245,
+   "scan": 266,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r347",
+   "title": "Italia con le sue Prouincie, & parti dell' Isole",
+   "pages": [
+    "246"
+   ],
+   "printed_pages_raw": "246",
+   "tavola_scan": 21,
+   "page": 246,
+   "scan": 267,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r348",
+   "title": "Liguria",
+   "pages": [
+    "249"
+   ],
+   "printed_pages_raw": "249",
+   "tavola_scan": 21,
+   "page": 249,
+   "scan": 270,
+   "has_img": true,
+   "img_scan": 270
+  },
+  {
+   "id": "r349",
+   "title": "Toscana",
+   "pages": [
+    "252"
+   ],
+   "printed_pages_raw": "252",
+   "tavola_scan": 21,
+   "page": 252,
+   "scan": 273,
+   "has_img": true,
+   "img_scan": 273
+  },
+  {
+   "id": "r350",
+   "title": "Vmbria",
+   "pages": [
+    "255"
+   ],
+   "printed_pages_raw": "255",
+   "tavola_scan": 21,
+   "page": 255,
+   "scan": 276,
+   "has_img": true,
+   "img_scan": 276
+  },
+  {
+   "id": "r351",
+   "title": "Latio",
+   "pages": [
+    "259"
+   ],
+   "printed_pages_raw": "259",
+   "tavola_scan": 21,
+   "page": 259,
+   "scan": 280,
+   "has_img": true,
+   "img_scan": 280
+  },
+  {
+   "id": "r352",
+   "title": "Campagna felice, ouero Terra di Lauoro",
+   "pages": [
+    "261",
+    "262"
+   ],
+   "printed_pages_raw": "261.262.",
+   "tavola_scan": 21,
+   "page": 261,
+   "scan": 282,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r353",
+   "title": "Calabria",
+   "pages": [
+    "263"
+   ],
+   "printed_pages_raw": "263",
+   "tavola_scan": 21,
+   "page": 263,
+   "scan": 284,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r354",
+   "title": "Puglia",
+   "pages": [
+    "265"
+   ],
+   "printed_pages_raw": "265",
+   "tavola_scan": 21,
+   "page": 265,
+   "scan": 286,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r355",
+   "title": "Abruzzo",
+   "pages": [
+    "267"
+   ],
+   "printed_pages_raw": "267",
+   "tavola_scan": 21,
+   "page": 267,
+   "scan": 288,
+   "has_img": true,
+   "img_scan": 288
+  },
+  {
+   "id": "r356",
+   "title": "Marca",
+   "pages": [
+    "269"
+   ],
+   "printed_pages_raw": "269",
+   "tavola_scan": 21,
+   "page": 269,
+   "scan": 290,
+   "has_img": true,
+   "img_scan": 290
+  },
+  {
+   "id": "r357",
+   "title": "Romagna",
+   "pages": [
+    "270"
+   ],
+   "printed_pages_raw": "270",
+   "tavola_scan": 21,
+   "page": 270,
+   "scan": 291,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r358",
+   "title": "Lombardia",
+   "pages": [
+    "273"
+   ],
+   "printed_pages_raw": "273",
+   "tavola_scan": 21,
+   "page": 273,
+   "scan": 294,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r359",
+   "title": "Marca Triuisana",
+   "pages": [
+    "276"
+   ],
+   "printed_pages_raw": "276",
+   "tavola_scan": 21,
+   "page": 276,
+   "scan": 297,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r360",
+   "title": "Friuli",
+   "pages": [
+    "280"
+   ],
+   "printed_pages_raw": "280",
+   "tavola_scan": 21,
+   "page": 280,
+   "scan": 301,
+   "has_img": true,
+   "img_scan": 301
+  },
+  {
+   "id": "r361",
+   "title": "Corsica",
+   "pages": [
+    "283"
+   ],
+   "printed_pages_raw": "283",
+   "tavola_scan": 21,
+   "page": 283,
+   "scan": 304,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r362",
+   "title": "Sardegna",
+   "pages": [
+    "248"
+   ],
+   "printed_pages_raw": "248",
+   "tavola_scan": 21,
+   "page": 248,
+   "scan": 269,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r363",
+   "title": "Sicilia",
+   "pages": [
+    "286"
+   ],
+   "printed_pages_raw": "286",
+   "tavola_scan": 21,
+   "page": 286,
+   "scan": 307,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r364",
+   "title": "Lasciuia",
+   "pages": [
+    "289"
+   ],
+   "printed_pages_raw": "289",
+   "tavola_scan": 21,
+   "page": 289,
+   "scan": 310,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r365",
+   "title": "Lassitudine, ò languidezza estiua",
+   "pages": [
+    "289"
+   ],
+   "printed_pages_raw": "289",
+   "tavola_scan": 21,
+   "page": 289,
+   "scan": 310,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r366",
+   "title": "Lealtà",
+   "pages": [
+    "290"
+   ],
+   "printed_pages_raw": "290",
+   "tavola_scan": 21,
+   "page": 290,
+   "scan": 311,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r367",
+   "title": "Leggierezza",
+   "pages": [
+    "290"
+   ],
+   "printed_pages_raw": "290",
+   "tavola_scan": 21,
+   "page": 290,
+   "scan": 311,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r368",
+   "title": "Letitia",
+   "pages": [
+    "290"
+   ],
+   "printed_pages_raw": "290",
+   "tavola_scan": 21,
+   "page": 290,
+   "scan": 311,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r369",
+   "title": "Lettere",
+   "pages": [
+    "290"
+   ],
+   "printed_pages_raw": "290",
+   "tavola_scan": 21,
+   "page": 290,
+   "scan": 311,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r370",
+   "title": "Liberalità",
+   "pages": [
+    "290",
+    "292"
+   ],
+   "printed_pages_raw": "290.292",
+   "tavola_scan": 21,
+   "page": 290,
+   "scan": 311,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r371",
+   "title": "Libertà",
+   "pages": [
+    "292",
+    "293",
+    "294"
+   ],
+   "printed_pages_raw": "292.293.294",
+   "tavola_scan": 21,
+   "page": 292,
+   "scan": 313,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r372",
+   "title": "Libidine",
+   "pages": [
+    "294",
+    "295"
+   ],
+   "printed_pages_raw": "294.295",
+   "tavola_scan": 21,
+   "page": 294,
+   "scan": 315,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r373",
+   "title": "Lussuria",
+   "pages": [
+    "295"
+   ],
+   "printed_pages_raw": "295",
+   "tavola_scan": 21,
+   "page": 295,
+   "scan": 316,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r374",
+   "title": "Libero arbitrio",
+   "pages": [
+    "295"
+   ],
+   "printed_pages_raw": "295",
+   "tavola_scan": 21,
+   "page": 295,
+   "scan": 316,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r375",
+   "title": "Licenza",
+   "pages": [
+    "297"
+   ],
+   "printed_pages_raw": "297",
+   "tavola_scan": 21,
+   "page": 297,
+   "scan": 318,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r376",
+   "title": "Lite",
+   "pages": [
+    "297"
+   ],
+   "printed_pages_raw": "297",
+   "tavola_scan": 21,
+   "page": 297,
+   "scan": 318,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r377",
+   "title": "Logica",
+   "pages": [
+    "298",
+    "299"
+   ],
+   "printed_pages_raw": "298.299",
+   "tavola_scan": 21,
+   "page": 298,
+   "scan": 319,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r378",
+   "title": "Longanimità",
+   "pages": [
+    "299"
+   ],
+   "printed_pages_raw": "299",
+   "tavola_scan": 21,
+   "page": 299,
+   "scan": 320,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r379",
+   "title": "Machina del Mondo",
+   "pages": [
+    "300"
+   ],
+   "printed_pages_raw": "300",
+   "tavola_scan": 21,
+   "page": 300,
+   "scan": 321,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r380",
+   "title": "Magnanimità",
+   "pages": [
+    "300",
+    "301"
+   ],
+   "printed_pages_raw": "300.301",
+   "tavola_scan": 21,
+   "page": 300,
+   "scan": 321,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r381",
+   "title": "Magnificenza",
+   "pages": [
+    "301",
+    "302"
+   ],
+   "printed_pages_raw": "301.302",
+   "tavola_scan": 22,
+   "page": 301,
+   "scan": 322,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r382",
+   "title": "Malignità",
+   "pages": [
+    "302"
+   ],
+   "printed_pages_raw": "302",
+   "tavola_scan": 22,
+   "page": 302,
+   "scan": 323,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r383",
+   "title": "Maledicenza",
+   "pages": [
+    "302"
+   ],
+   "printed_pages_raw": "302",
+   "tavola_scan": 22,
+   "page": 302,
+   "scan": 323,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r384",
+   "title": "Malenconia",
+   "pages": [
+    "303"
+   ],
+   "printed_pages_raw": "303",
+   "tavola_scan": 22,
+   "page": 303,
+   "scan": 324,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r385",
+   "title": "Maleuolenza",
+   "pages": [
+    "303"
+   ],
+   "printed_pages_raw": "303",
+   "tavola_scan": 22,
+   "page": 303,
+   "scan": 324,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r386",
+   "title": "Mansuetudine",
+   "pages": [
+    "304"
+   ],
+   "printed_pages_raw": "304",
+   "tavola_scan": 22,
+   "page": 304,
+   "scan": 325,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r387",
+   "title": "Martirio",
+   "pages": [
+    "304"
+   ],
+   "printed_pages_raw": "304",
+   "tavola_scan": 22,
+   "page": 304,
+   "scan": 325,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r388",
+   "title": "Maestà Regia",
+   "pages": [
+    "305"
+   ],
+   "printed_pages_raw": "305",
+   "tavola_scan": 22,
+   "page": 305,
+   "scan": 326,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r389",
+   "title": "Marauiglia",
+   "pages": [
+    "305"
+   ],
+   "printed_pages_raw": "305",
+   "tavola_scan": 22,
+   "page": 305,
+   "scan": 326,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r390",
+   "title": "Matrimonio",
+   "pages": [
+    "305"
+   ],
+   "printed_pages_raw": "305",
+   "tavola_scan": 22,
+   "page": 305,
+   "scan": 326,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r391",
+   "title": "Mathematica",
+   "pages": [
+    "307"
+   ],
+   "printed_pages_raw": "307",
+   "tavola_scan": 22,
+   "page": 307,
+   "scan": 328,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r392",
+   "title": "Meditatione",
+   "pages": [
+    "309"
+   ],
+   "printed_pages_raw": "309",
+   "tavola_scan": 22,
+   "page": 309,
+   "scan": 330,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r393",
+   "title": "Meditatione spirituale",
+   "pages": [
+    "310"
+   ],
+   "printed_pages_raw": "310",
+   "tavola_scan": 22,
+   "page": 310,
+   "scan": 331,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r394",
+   "title": "Meditatione della morte",
+   "pages": [
+    "310"
+   ],
+   "printed_pages_raw": "310",
+   "tavola_scan": 22,
+   "page": 310,
+   "scan": 331,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r395",
+   "title": "Medicina",
+   "pages": [
+    "310",
+    "312"
+   ],
+   "printed_pages_raw": "310.312",
+   "tavola_scan": 22,
+   "page": 310,
+   "scan": 331,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r396",
+   "title": "Mediocrità",
+   "pages": [
+    "312"
+   ],
+   "printed_pages_raw": "312",
+   "tavola_scan": 22,
+   "page": 312,
+   "scan": 333,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r397",
+   "title": "Memoria",
+   "pages": [
+    "312",
+    "313"
+   ],
+   "printed_pages_raw": "312.313",
+   "tavola_scan": 22,
+   "page": 312,
+   "scan": 333,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r398",
+   "title": "Merito",
+   "pages": [
+    "313",
+    "314"
+   ],
+   "printed_pages_raw": "313.314",
+   "tavola_scan": 22,
+   "page": 313,
+   "scan": 334,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r399",
+   "title": "Mesi",
+   "pages": [
+    "315"
+   ],
+   "printed_pages_raw": "315",
+   "tavola_scan": 22,
+   "page": 315,
+   "scan": 336,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r400",
+   "title": "Mesi secondo l'agricoltura",
+   "pages": [
+    "321"
+   ],
+   "printed_pages_raw": "321",
+   "tavola_scan": 22,
+   "page": 321,
+   "scan": 342,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r401",
+   "title": "Mese in generale",
+   "pages": [
+    "326"
+   ],
+   "printed_pages_raw": "326",
+   "tavola_scan": 22,
+   "page": 326,
+   "scan": 347,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r402",
+   "title": "Metafisica",
+   "pages": [
+    "327"
+   ],
+   "printed_pages_raw": "327",
+   "tavola_scan": 22,
+   "page": 327,
+   "scan": 348,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r403",
+   "title": "Minaccie",
+   "pages": [
+    "327"
+   ],
+   "printed_pages_raw": "327",
+   "tavola_scan": 22,
+   "page": 327,
+   "scan": 348,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r404",
+   "title": "Miseria",
+   "pages": [
+    "328"
+   ],
+   "printed_pages_raw": "328",
+   "tavola_scan": 22,
+   "page": 328,
+   "scan": 349,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r405",
+   "title": "Miseria mondana",
+   "pages": [
+    "328"
+   ],
+   "printed_pages_raw": "328",
+   "tavola_scan": 22,
+   "page": 328,
+   "scan": 349,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r406",
+   "title": "Misericordia",
+   "pages": [
+    "328"
+   ],
+   "printed_pages_raw": "328",
+   "tavola_scan": 22,
+   "page": 328,
+   "scan": 349,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r407",
+   "title": "Mondo",
+   "pages": [
+    "330",
+    "332"
+   ],
+   "printed_pages_raw": "330.332",
+   "tavola_scan": 22,
+   "page": 330,
+   "scan": 351,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r408",
+   "title": "Europa",
+   "pages": [
+    "332"
+   ],
+   "printed_pages_raw": "332",
+   "tavola_scan": 22,
+   "page": 332,
+   "scan": 353,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r409",
+   "title": "Asia",
+   "pages": [
+    "334"
+   ],
+   "printed_pages_raw": "334",
+   "tavola_scan": 22,
+   "page": 334,
+   "scan": 355,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r410",
+   "title": "Africa",
+   "pages": [
+    "336"
+   ],
+   "printed_pages_raw": "336",
+   "tavola_scan": 22,
+   "page": 336,
+   "scan": 357,
+   "has_img": true,
+   "img_scan": 357
+  },
+  {
+   "id": "r411",
+   "title": "America",
+   "pages": [
+    "338"
+   ],
+   "printed_pages_raw": "338",
+   "tavola_scan": 22,
+   "page": 338,
+   "scan": 359,
+   "has_img": true,
+   "img_scan": 359
+  },
+  {
+   "id": "r412",
+   "title": "Morte",
+   "pages": [
+    "339",
+    "340"
+   ],
+   "printed_pages_raw": "339.340",
+   "tavola_scan": 22,
+   "page": 339,
+   "scan": 360,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r413",
+   "title": "Mormoratione",
+   "pages": [
+    "340"
+   ],
+   "printed_pages_raw": "340",
+   "tavola_scan": 22,
+   "page": 340,
+   "scan": 361,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r414",
+   "title": "Mostri",
+   "pages": [
+    "340"
+   ],
+   "printed_pages_raw": "340",
+   "tavola_scan": 22,
+   "page": 340,
+   "scan": 361,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r415",
+   "title": "Scilla",
+   "pages": [
+    "340",
+    "341"
+   ],
+   "printed_pages_raw": "340.341",
+   "tavola_scan": 22,
+   "page": 340,
+   "scan": 361,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r416",
+   "title": "Cariddi",
+   "pages": [
+    "341"
+   ],
+   "printed_pages_raw": "341",
+   "tavola_scan": 22,
+   "page": 341,
+   "scan": 362,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r417",
+   "title": "Chimera",
+   "pages": [
+    "342"
+   ],
+   "printed_pages_raw": "342",
+   "tavola_scan": 22,
+   "page": 342,
+   "scan": 363,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r418",
+   "title": "Griffo",
+   "pages": [
+    "342"
+   ],
+   "printed_pages_raw": "342",
+   "tavola_scan": 22,
+   "page": 342,
+   "scan": 363,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r419",
+   "title": "Sfinge",
+   "pages": [
+    "342"
+   ],
+   "printed_pages_raw": "342",
+   "tavola_scan": 22,
+   "page": 342,
+   "scan": 363,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r420",
+   "title": "Arpie",
+   "pages": [
+    "342"
+   ],
+   "printed_pages_raw": "342",
+   "tavola_scan": 22,
+   "page": 342,
+   "scan": 363,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r421",
+   "title": "Hidra",
+   "pages": [
+    "343"
+   ],
+   "printed_pages_raw": "343",
+   "tavola_scan": 22,
+   "page": 343,
+   "scan": 364,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r422",
+   "title": "Cerbero",
+   "pages": [
+    "343"
+   ],
+   "printed_pages_raw": "343",
+   "tavola_scan": 22,
+   "page": 343,
+   "scan": 364,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r423",
+   "title": "Musica",
+   "pages": [
+    "344",
+    "345"
+   ],
+   "printed_pages_raw": "344.345",
+   "tavola_scan": 22,
+   "page": 344,
+   "scan": 365,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r424",
+   "title": "Muse",
+   "pages": [
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351"
+   ],
+   "printed_pages_raw": "346.347.348.349.350.351",
+   "tavola_scan": 22,
+   "page": 346,
+   "scan": 367,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r425",
+   "title": "Natura",
+   "pages": [
+    "351"
+   ],
+   "printed_pages_raw": "351",
+   "tavola_scan": 22,
+   "page": 351,
+   "scan": 372,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r426",
+   "title": "Nauigatione",
+   "pages": [
+    "352"
+   ],
+   "printed_pages_raw": "352",
+   "tavola_scan": 22,
+   "page": 352,
+   "scan": 373,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r427",
+   "title": "Ninfe in commune",
+   "pages": [
+    "352"
+   ],
+   "printed_pages_raw": "352",
+   "tavola_scan": 22,
+   "page": 352,
+   "scan": 373,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r428",
+   "title": "Hinnedi, & Napee",
+   "pages": [
+    "353"
+   ],
+   "printed_pages_raw": "353",
+   "tavola_scan": 22,
+   "page": 353,
+   "scan": 374,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r429",
+   "title": "Driadi, & Hamadriadi",
+   "pages": [
+    "353"
+   ],
+   "printed_pages_raw": "353",
+   "tavola_scan": 22,
+   "page": 353,
+   "scan": 374,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r430",
+   "title": "Ninfe de Diana",
+   "pages": [
+    "353"
+   ],
+   "printed_pages_raw": "353",
+   "tavola_scan": 22,
+   "page": 353,
+   "scan": 374,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r431",
+   "title": "Naiadi Ninfe de fiumi",
+   "pages": [
+    "354"
+   ],
+   "printed_pages_raw": "354",
+   "tavola_scan": 22,
+   "page": 354,
+   "scan": 375,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r432",
+   "title": "Mare",
+   "pages": [
+    "354"
+   ],
+   "printed_pages_raw": "354",
+   "tavola_scan": 22,
+   "page": 354,
+   "scan": 375,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r433",
+   "title": "Theti Ninfa del Mare",
+   "pages": [
+    "454"
+   ],
+   "printed_pages_raw": "454",
+   "tavola_scan": 22,
+   "page": 454,
+   "scan": 475,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r434",
+   "title": "Galatea",
+   "pages": [
+    "355"
+   ],
+   "printed_pages_raw": "355",
+   "tavola_scan": 22,
+   "page": 355,
+   "scan": 376,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r435",
+   "title": "Ninfe dell'Aria",
+   "pages": [
+    "355"
+   ],
+   "printed_pages_raw": "355",
+   "tavola_scan": 22,
+   "page": 355,
+   "scan": 376,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r436",
+   "title": "Iride",
+   "pages": [
+    "355"
+   ],
+   "printed_pages_raw": "355",
+   "tavola_scan": 22,
+   "page": 355,
+   "scan": 376,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r437",
+   "title": "Serenità del giorno Ninfa dell'Aria",
+   "pages": [
+    "356"
+   ],
+   "printed_pages_raw": "356",
+   "tavola_scan": 22,
+   "page": 356,
+   "scan": 377,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r438",
+   "title": "Serenità della notte",
+   "pages": [
+    "356"
+   ],
+   "printed_pages_raw": "356",
+   "tavola_scan": 22,
+   "page": 356,
+   "scan": 377,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r439",
+   "title": "Pioggia Ninfa dell'aria",
+   "pages": [
+    "356"
+   ],
+   "printed_pages_raw": "356",
+   "tavola_scan": 22,
+   "page": 356,
+   "scan": 377,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r440",
+   "title": "Rugiada Ninfa dell'aria",
+   "pages": [
+    "357"
+   ],
+   "printed_pages_raw": "357",
+   "tavola_scan": 22,
+   "page": 357,
+   "scan": 378,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r441",
+   "title": "Cometa Ninfa dell'aria",
+   "pages": [
+    "357"
+   ],
+   "printed_pages_raw": "357",
+   "tavola_scan": 22,
+   "page": 357,
+   "scan": 378,
+   "has_img": null,
+   "img_scan": null,
+   "reading_B": {
+    "title": "Gometa Ninfa dell'aria",
+    "pages": [
+     "357"
+    ]
+   },
+   "uncertain": true
+  },
+  {
+   "id": "r442",
+   "title": "Necessità",
+   "pages": [
+    "358",
+    "359"
+   ],
+   "printed_pages_raw": "358.359",
+   "tavola_scan": 22,
+   "page": 358,
+   "scan": 379,
+   "has_img": true,
+   "img_scan": 379
+  },
+  {
+   "id": "r443",
+   "title": "Negligenza",
+   "pages": [
+    "359"
+   ],
+   "printed_pages_raw": "359",
+   "tavola_scan": 22,
+   "page": 359,
+   "scan": 380,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r444",
+   "title": "Nobiltà",
+   "pages": [
+    "359",
+    "360"
+   ],
+   "printed_pages_raw": "359.360",
+   "tavola_scan": 22,
+   "page": 359,
+   "scan": 380,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r445",
+   "title": "Notte con le sue 4. parti",
+   "pages": [
+    "360"
+   ],
+   "printed_pages_raw": "360",
+   "tavola_scan": 22,
+   "page": 360,
+   "scan": 381,
+   "has_img": true,
+   "img_scan": 381
+  },
+  {
+   "id": "r446",
+   "title": "Parte prima della notte",
+   "pages": [
+    "361"
+   ],
+   "printed_pages_raw": "361",
+   "tavola_scan": 22,
+   "page": 361,
+   "scan": 382,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r447",
+   "title": "Seconda parte della notte",
+   "pages": [
+    "361"
+   ],
+   "printed_pages_raw": "361",
+   "tavola_scan": 22,
+   "page": 361,
+   "scan": 382,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r448",
+   "title": "Terza parte della notte",
+   "pages": [
+    "362"
+   ],
+   "printed_pages_raw": "362",
+   "tavola_scan": 22,
+   "page": 362,
+   "scan": 383,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r449",
+   "title": "Quarta parte della notte",
+   "pages": [
+    "362"
+   ],
+   "printed_pages_raw": "362",
+   "tavola_scan": 22,
+   "page": 362,
+   "scan": 383,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r450",
+   "title": "Obedienza",
+   "pages": [
+    "363",
+    "364"
+   ],
+   "printed_pages_raw": "363.364",
+   "tavola_scan": 22,
+   "page": 363,
+   "scan": 384,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r451",
+   "title": "Obedienza verso Dio",
+   "pages": [
+    "364"
+   ],
+   "printed_pages_raw": "364",
+   "tavola_scan": 22,
+   "page": 364,
+   "scan": 385,
+   "has_img": true,
+   "img_scan": 385
+  },
+  {
+   "id": "r452",
+   "title": "Obligo",
+   "pages": [
+    "365"
+   ],
+   "printed_pages_raw": "365",
+   "tavola_scan": 22,
+   "page": 365,
+   "scan": 386,
+   "has_img": true,
+   "img_scan": 386
+  },
+  {
+   "id": "r453",
+   "title": "Occasione",
+   "pages": [
+    "366"
+   ],
+   "printed_pages_raw": "366",
+   "tavola_scan": 22,
+   "page": 366,
+   "scan": 387,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r454",
+   "title": "Odio capitale",
+   "pages": [
+    "366",
+    "367"
+   ],
+   "printed_pages_raw": "366.367",
+   "tavola_scan": 22,
+   "page": 366,
+   "scan": 387,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r455",
+   "title": "Opera vana",
+   "pages": [
+    "367"
+   ],
+   "printed_pages_raw": "367",
+   "tavola_scan": 22,
+   "page": 367,
+   "scan": 388,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r456",
+   "title": "Operatione manifesta",
+   "pages": [
+    "367"
+   ],
+   "printed_pages_raw": "367",
+   "tavola_scan": 22,
+   "page": 367,
+   "scan": 388,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r457",
+   "title": "Operatione perfetta",
+   "pages": [
+    "367"
+   ],
+   "printed_pages_raw": "367",
+   "tavola_scan": 22,
+   "page": 367,
+   "scan": 388,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r458",
+   "title": "Openione",
+   "pages": [
+    "369"
+   ],
+   "printed_pages_raw": "369",
+   "tavola_scan": 22,
+   "page": 369,
+   "scan": 390,
+   "has_img": true,
+   "img_scan": 390
+  },
+  {
+   "id": "r459",
+   "title": "Opulenza",
+   "pages": [
+    "370"
+   ],
+   "printed_pages_raw": "370",
+   "tavola_scan": 22,
+   "page": 370,
+   "scan": 391,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r460",
+   "title": "Oratione",
+   "pages": [
+    "370",
+    "371"
+   ],
+   "printed_pages_raw": "370.371",
+   "tavola_scan": 22,
+   "page": 370,
+   "scan": 391,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r461",
+   "title": "Ostinatione",
+   "pages": [
+    "373"
+   ],
+   "printed_pages_raw": "373",
+   "tavola_scan": 22,
+   "page": 373,
+   "scan": 394,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r462",
+   "title": "Otio",
+   "pages": [
+    "373",
+    "374",
+    "375"
+   ],
+   "printed_pages_raw": "373.374.375",
+   "tavola_scan": 22,
+   "page": 373,
+   "scan": 394,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r463",
+   "title": "Pace",
+   "pages": [
+    "375",
+    "376",
+    "377",
+    "378"
+   ],
+   "printed_pages_raw": "375.376.377.378",
+   "tavola_scan": 23,
+   "page": 375,
+   "scan": 396,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r464",
+   "title": "Pacifico",
+   "pages": [
+    "378"
+   ],
+   "printed_pages_raw": "378",
+   "tavola_scan": 23,
+   "page": 378,
+   "scan": 399,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r465",
+   "title": "Passione d'amore",
+   "pages": [
+    "378"
+   ],
+   "printed_pages_raw": "378",
+   "tavola_scan": 23,
+   "page": 378,
+   "scan": 399,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r466",
+   "title": "Patienza",
+   "pages": [
+    "379",
+    "380"
+   ],
+   "printed_pages_raw": "379.380",
+   "tavola_scan": 23,
+   "page": 379,
+   "scan": 400,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r467",
+   "title": "Pazzia",
+   "pages": [
+    "381",
+    "382"
+   ],
+   "printed_pages_raw": "381.382",
+   "tavola_scan": 23,
+   "page": 381,
+   "scan": 402,
+   "has_img": true,
+   "img_scan": 402
+  },
+  {
+   "id": "r468",
+   "title": "Paura",
+   "pages": [
+    "382"
+   ],
+   "printed_pages_raw": "382",
+   "tavola_scan": 23,
+   "page": 382,
+   "scan": 403,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r469",
+   "title": "Peccato",
+   "pages": [
+    "383"
+   ],
+   "printed_pages_raw": "383",
+   "tavola_scan": 23,
+   "page": 383,
+   "scan": 404,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r470",
+   "title": "Pecunia",
+   "pages": [
+    "384"
+   ],
+   "printed_pages_raw": "384",
+   "tavola_scan": 23,
+   "page": 384,
+   "scan": 405,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r471",
+   "title": "Peregrinaggio",
+   "pages": [
+    "384"
+   ],
+   "printed_pages_raw": "384",
+   "tavola_scan": 23,
+   "page": 384,
+   "scan": 405,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r472",
+   "title": "Parsimonia",
+   "pages": [
+    "385"
+   ],
+   "printed_pages_raw": "385",
+   "tavola_scan": 23,
+   "page": 385,
+   "scan": 406,
+   "has_img": true,
+   "img_scan": 406
+  },
+  {
+   "id": "r473",
+   "title": "Partialità",
+   "pages": [
+    "386"
+   ],
+   "printed_pages_raw": "386",
+   "tavola_scan": 23,
+   "page": 386,
+   "scan": 407,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r474",
+   "title": "Pena",
+   "pages": [
+    "387"
+   ],
+   "printed_pages_raw": "387",
+   "tavola_scan": 23,
+   "page": 387,
+   "scan": 408,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r475",
+   "title": "Penitenza",
+   "pages": [
+    "387",
+    "388",
+    "389"
+   ],
+   "printed_pages_raw": "387.388.389",
+   "tavola_scan": 23,
+   "page": 387,
+   "scan": 408,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r476",
+   "title": "Pensiero",
+   "pages": [
+    "389"
+   ],
+   "printed_pages_raw": "389",
+   "tavola_scan": 23,
+   "page": 389,
+   "scan": 410,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r477",
+   "title": "Pentimento",
+   "pages": [
+    "390"
+   ],
+   "printed_pages_raw": "390",
+   "tavola_scan": 23,
+   "page": 390,
+   "scan": 411,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r478",
+   "title": "Pentimento de peccati",
+   "pages": [
+    "390"
+   ],
+   "printed_pages_raw": "390",
+   "tavola_scan": 23,
+   "page": 390,
+   "scan": 411,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r479",
+   "title": "Perfettione",
+   "pages": [
+    "391"
+   ],
+   "printed_pages_raw": "391",
+   "tavola_scan": 23,
+   "page": 391,
+   "scan": 412,
+   "has_img": true,
+   "img_scan": 412
+  },
+  {
+   "id": "r480",
+   "title": "Perfidia",
+   "pages": [
+    "392"
+   ],
+   "printed_pages_raw": "392",
+   "tavola_scan": 23,
+   "page": 392,
+   "scan": 413,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r481",
+   "title": "Perpetuità",
+   "pages": [
+    "392"
+   ],
+   "printed_pages_raw": "392",
+   "tavola_scan": 23,
+   "page": 392,
+   "scan": 413,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r482",
+   "title": "Persecutione",
+   "pages": [
+    "392"
+   ],
+   "printed_pages_raw": "392",
+   "tavola_scan": 23,
+   "page": 392,
+   "scan": 413,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r483",
+   "title": "Perseueranza",
+   "pages": [
+    "393",
+    "394"
+   ],
+   "printed_pages_raw": "393.394",
+   "tavola_scan": 23,
+   "page": 393,
+   "scan": 414,
+   "has_img": true,
+   "img_scan": 414
+  },
+  {
+   "id": "r484",
+   "title": "Persuasione",
+   "pages": [
+    "394"
+   ],
+   "printed_pages_raw": "394",
+   "tavola_scan": 23,
+   "page": 394,
+   "scan": 415,
+   "has_img": true,
+   "img_scan": 415
+  },
+  {
+   "id": "r485",
+   "title": "Pertinacia",
+   "pages": [
+    "395"
+   ],
+   "printed_pages_raw": "395",
+   "tavola_scan": 23,
+   "page": 395,
+   "scan": 416,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r486",
+   "title": "Perturbatione",
+   "pages": [
+    "396"
+   ],
+   "printed_pages_raw": "396",
+   "tavola_scan": 23,
+   "page": 396,
+   "scan": 417,
+   "has_img": true,
+   "img_scan": 417
+  },
+  {
+   "id": "r487",
+   "title": "Peste, ouero pestilenza",
+   "pages": [
+    "397"
+   ],
+   "printed_pages_raw": "397",
+   "tavola_scan": 23,
+   "page": 397,
+   "scan": 418,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r488",
+   "title": "Phisica",
+   "pages": [
+    "397"
+   ],
+   "printed_pages_raw": "397",
+   "tavola_scan": 23,
+   "page": 397,
+   "scan": 418,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r489",
+   "title": "Piacere",
+   "pages": [
+    "398",
+    "399"
+   ],
+   "printed_pages_raw": "398.399",
+   "tavola_scan": 23,
+   "page": 398,
+   "scan": 419,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r490",
+   "title": "Piacere honesto",
+   "pages": [
+    "400"
+   ],
+   "printed_pages_raw": "400",
+   "tavola_scan": 23,
+   "page": 400,
+   "scan": 421,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r491",
+   "title": "Piacer vano",
+   "pages": [
+    "400"
+   ],
+   "printed_pages_raw": "400",
+   "tavola_scan": 23,
+   "page": 400,
+   "scan": 421,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r492",
+   "title": "Piaceuolezza",
+   "pages": [
+    "400"
+   ],
+   "printed_pages_raw": "400",
+   "tavola_scan": 23,
+   "page": 400,
+   "scan": 421,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r493",
+   "title": "Pianto",
+   "pages": [
+    "400"
+   ],
+   "printed_pages_raw": "400",
+   "tavola_scan": 23,
+   "page": 400,
+   "scan": 421,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r494",
+   "title": "Pietà",
+   "pages": [
+    "401",
+    "402",
+    "403"
+   ],
+   "printed_pages_raw": "401.402.403",
+   "tavola_scan": 23,
+   "page": 401,
+   "scan": 422,
+   "has_img": true,
+   "img_scan": 422
+  },
+  {
+   "id": "r495",
+   "title": "Pigritia",
+   "pages": [
+    "403"
+   ],
+   "printed_pages_raw": "403",
+   "tavola_scan": 23,
+   "page": 403,
+   "scan": 424,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r496",
+   "title": "Pittura",
+   "pages": [
+    "404"
+   ],
+   "printed_pages_raw": "404",
+   "tavola_scan": 23,
+   "page": 404,
+   "scan": 425,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r497",
+   "title": "Poesia",
+   "pages": [
+    "406",
+    "407"
+   ],
+   "printed_pages_raw": "406.407",
+   "tavola_scan": 23,
+   "page": 406,
+   "scan": 427,
+   "has_img": true,
+   "img_scan": 427
+  },
+  {
+   "id": "r498",
+   "title": "Poema Lirico",
+   "pages": [
+    "408"
+   ],
+   "printed_pages_raw": "408",
+   "tavola_scan": 23,
+   "page": 408,
+   "scan": 429,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r499",
+   "title": "Poema Eroico",
+   "pages": [
+    "408"
+   ],
+   "printed_pages_raw": "408",
+   "tavola_scan": 23,
+   "page": 408,
+   "scan": 429,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r500",
+   "title": "Poema Pastorale",
+   "pages": [
+    "403"
+   ],
+   "printed_pages_raw": "403",
+   "tavola_scan": 23,
+   "page": 403,
+   "scan": 424,
+   "has_img": null,
+   "img_scan": null,
+   "reading_B": {
+    "title": "Poema Pastorale",
+    "pages": [
+     "408"
+    ]
+   },
+   "uncertain": true
+  },
+  {
+   "id": "r501",
+   "title": "Poema Satirico",
+   "pages": [
+    "408"
+   ],
+   "printed_pages_raw": "408",
+   "tavola_scan": 23,
+   "page": 408,
+   "scan": 429,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r502",
+   "title": "Pouertà",
+   "pages": [
+    "408",
+    "409"
+   ],
+   "printed_pages_raw": "408.409",
+   "tavola_scan": 23,
+   "page": 408,
+   "scan": 429,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r503",
+   "title": "Pouertà in vno ch'habbia bello ingegno",
+   "pages": [
+    "409"
+   ],
+   "printed_pages_raw": "409.",
+   "tavola_scan": 23,
+   "page": 409,
+   "scan": 430,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r504",
+   "title": "Pouertà de spirito",
+   "pages": [
+    "410"
+   ],
+   "printed_pages_raw": "410",
+   "tavola_scan": 23,
+   "page": 410,
+   "scan": 431,
+   "has_img": null,
+   "img_candidates": [
+    431
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r505",
+   "title": "Perdono",
+   "pages": [
+    "410"
+   ],
+   "printed_pages_raw": "410",
+   "tavola_scan": 23,
+   "page": 410,
+   "scan": 431,
+   "has_img": null,
+   "img_candidates": [
+    431
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r506",
+   "title": "Politica",
+   "pages": [
+    "411"
+   ],
+   "printed_pages_raw": "411",
+   "tavola_scan": 23,
+   "page": 411,
+   "scan": 432,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r507",
+   "title": "Preghiere",
+   "pages": [
+    "411"
+   ],
+   "printed_pages_raw": "411",
+   "tavola_scan": 23,
+   "page": 411,
+   "scan": 432,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r508",
+   "title": "Preghiera à Dio",
+   "pages": [
+    "411"
+   ],
+   "printed_pages_raw": "411",
+   "tavola_scan": 23,
+   "page": 411,
+   "scan": 432,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r509",
+   "title": "Premio",
+   "pages": [
+    "411"
+   ],
+   "printed_pages_raw": "411",
+   "tavola_scan": 23,
+   "page": 411,
+   "scan": 432,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r510",
+   "title": "Preuidenza",
+   "pages": [
+    "412"
+   ],
+   "printed_pages_raw": "412",
+   "tavola_scan": 23,
+   "page": 412,
+   "scan": 433,
+   "has_img": true,
+   "img_scan": 433
+  },
+  {
+   "id": "r511",
+   "title": "Prodigalità",
+   "pages": [
+    "413",
+    "414"
+   ],
+   "printed_pages_raw": "413.414",
+   "tavola_scan": 23,
+   "page": 413,
+   "scan": 434,
+   "has_img": true,
+   "img_scan": 434
+  },
+  {
+   "id": "r512",
+   "title": "Promissione",
+   "pages": [
+    "414"
+   ],
+   "printed_pages_raw": "414",
+   "tavola_scan": 23,
+   "page": 414,
+   "scan": 435,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r513",
+   "title": "Prontezza",
+   "pages": [
+    "414"
+   ],
+   "printed_pages_raw": "414",
+   "tavola_scan": 23,
+   "page": 414,
+   "scan": 435,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r514",
+   "title": "Prouidenza dell'annona",
+   "pages": [
+    "414"
+   ],
+   "printed_pages_raw": "414",
+   "tavola_scan": 23,
+   "page": 414,
+   "scan": 435,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r515",
+   "title": "Prouidenza",
+   "pages": [
+    "415"
+   ],
+   "printed_pages_raw": "415",
+   "tavola_scan": 23,
+   "page": 415,
+   "scan": 436,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r516",
+   "title": "Prudenza",
+   "pages": [
+    "416",
+    "417",
+    "418"
+   ],
+   "printed_pages_raw": "416.417.418",
+   "tavola_scan": 23,
+   "page": 416,
+   "scan": 437,
+   "has_img": true,
+   "img_scan": 437
+  },
+  {
+   "id": "r517",
+   "title": "Profetia",
+   "pages": [
+    "49"
+   ],
+   "printed_pages_raw": "49",
+   "tavola_scan": 23,
+   "page": 49,
+   "scan": 74,
+   "has_img": true,
+   "img_scan": 74
+  },
+  {
+   "id": "r518",
+   "title": "Prospettiua",
+   "pages": [
+    "419"
+   ],
+   "printed_pages_raw": "419",
+   "tavola_scan": 23,
+   "page": 419,
+   "scan": 440,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r519",
+   "title": "Pudicitia",
+   "pages": [
+    "420"
+   ],
+   "printed_pages_raw": "420",
+   "tavola_scan": 23,
+   "page": 420,
+   "scan": 441,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r520",
+   "title": "Pueritia",
+   "pages": [
+    "421"
+   ],
+   "printed_pages_raw": "421",
+   "tavola_scan": 23,
+   "page": 421,
+   "scan": 442,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r521",
+   "title": "Punitione",
+   "pages": [
+    "421"
+   ],
+   "printed_pages_raw": "421",
+   "tavola_scan": 23,
+   "page": 421,
+   "scan": 442,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r522",
+   "title": "Purità",
+   "pages": [
+    "421"
+   ],
+   "printed_pages_raw": "421",
+   "tavola_scan": 23,
+   "page": 421,
+   "scan": 442,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r523",
+   "title": "Purità, & sinceritá d'animo",
+   "pages": [
+    "421"
+   ],
+   "printed_pages_raw": "421",
+   "tavola_scan": 23,
+   "page": 421,
+   "scan": 442,
+   "has_img": null,
+   "img_scan": null,
+   "reading_B": {
+    "title": "Purità, & sinceritàd'animo",
+    "pages": [
+     "421"
+    ]
+   },
+   "uncertain": true
+  },
+  {
+   "id": "r524",
+   "title": "Querela à Dio",
+   "pages": [
+    "422"
+   ],
+   "printed_pages_raw": "422",
+   "tavola_scan": 23,
+   "page": 422,
+   "scan": 443,
+   "has_img": true,
+   "img_scan": 443
+  },
+  {
+   "id": "r525",
+   "title": "Querela",
+   "pages": [
+    "423"
+   ],
+   "printed_pages_raw": "423",
+   "tavola_scan": 23,
+   "page": 423,
+   "scan": 444,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r526",
+   "title": "Quiete",
+   "pages": [
+    "423"
+   ],
+   "printed_pages_raw": "423",
+   "tavola_scan": 23,
+   "page": 423,
+   "scan": 444,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r527",
+   "title": "Rabbia",
+   "pages": [
+    "424"
+   ],
+   "printed_pages_raw": "424",
+   "tavola_scan": 23,
+   "page": 424,
+   "scan": 445,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r528",
+   "title": "Ragione",
+   "pages": [
+    "424",
+    "426"
+   ],
+   "printed_pages_raw": "424.426",
+   "tavola_scan": 23,
+   "page": 424,
+   "scan": 445,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r529",
+   "title": "Ragion di Stato",
+   "pages": [
+    "426"
+   ],
+   "printed_pages_raw": "426",
+   "tavola_scan": 23,
+   "page": 426,
+   "scan": 447,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r530",
+   "title": "Ramarico del bene altrui",
+   "pages": [
+    "428"
+   ],
+   "printed_pages_raw": "428",
+   "tavola_scan": 23,
+   "page": 428,
+   "scan": 449,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r531",
+   "title": "Rapina",
+   "pages": [
+    "428"
+   ],
+   "printed_pages_raw": "428",
+   "tavola_scan": 23,
+   "page": 428,
+   "scan": 449,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r532",
+   "title": "Realtà",
+   "pages": [
+    "429"
+   ],
+   "printed_pages_raw": "429",
+   "tavola_scan": 23,
+   "page": 429,
+   "scan": 450,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r533",
+   "title": "Regalità",
+   "pages": [
+    "429"
+   ],
+   "printed_pages_raw": "429",
+   "tavola_scan": 23,
+   "page": 429,
+   "scan": 450,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r534",
+   "title": "Religione",
+   "pages": [
+    "429"
+   ],
+   "printed_pages_raw": "429",
+   "tavola_scan": 23,
+   "page": 429,
+   "scan": 450,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r535",
+   "title": "Religione vera Christiana",
+   "pages": [
+    "429"
+   ],
+   "printed_pages_raw": "429",
+   "tavola_scan": 23,
+   "page": 429,
+   "scan": 450,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r536",
+   "title": "Religione",
+   "pages": [
+    "430",
+    "432"
+   ],
+   "printed_pages_raw": "430.432",
+   "tavola_scan": 23,
+   "page": 430,
+   "scan": 451,
+   "has_img": true,
+   "img_scan": 451
+  },
+  {
+   "id": "r537",
+   "title": "Religione finta",
+   "pages": [
+    "432"
+   ],
+   "printed_pages_raw": "432",
+   "tavola_scan": 23,
+   "page": 432,
+   "scan": 453,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r538",
+   "title": "Restitutione",
+   "pages": [
+    "433"
+   ],
+   "printed_pages_raw": "433",
+   "tavola_scan": 23,
+   "page": 433,
+   "scan": 454,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r539",
+   "title": "Resurrettione",
+   "pages": [
+    "433"
+   ],
+   "printed_pages_raw": "433",
+   "tavola_scan": 23,
+   "page": 433,
+   "scan": 454,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r540",
+   "title": "Rettorica",
+   "pages": [
+    "433"
+   ],
+   "printed_pages_raw": "433",
+   "tavola_scan": 23,
+   "page": 433,
+   "scan": 454,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r541",
+   "title": "Ricchezza",
+   "pages": [
+    "434"
+   ],
+   "printed_pages_raw": "434",
+   "tavola_scan": 23,
+   "page": 434,
+   "scan": 455,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r542",
+   "title": "Rigore",
+   "pages": [
+    "434"
+   ],
+   "printed_pages_raw": "434",
+   "tavola_scan": 24,
+   "page": 434,
+   "scan": 455,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r543",
+   "title": "Riprensione",
+   "pages": [
+    "434"
+   ],
+   "printed_pages_raw": "434",
+   "tavola_scan": 24,
+   "page": 434,
+   "scan": 455,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r544",
+   "title": "Riforma",
+   "pages": [
+    "435",
+    "436"
+   ],
+   "printed_pages_raw": "435.436",
+   "tavola_scan": 24,
+   "page": 435,
+   "scan": 456,
+   "has_img": true,
+   "img_scan": 456
+  },
+  {
+   "id": "r545",
+   "title": "Riso",
+   "pages": [
+    "437"
+   ],
+   "printed_pages_raw": "437",
+   "tavola_scan": 24,
+   "page": 437,
+   "scan": 458,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r546",
+   "title": "Rumore",
+   "pages": [
+    "438"
+   ],
+   "printed_pages_raw": "438",
+   "tavola_scan": 24,
+   "page": 438,
+   "scan": 459,
+   "has_img": null,
+   "img_candidates": [
+    459
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r547",
+   "title": "Salute",
+   "pages": [
+    "438",
+    "439"
+   ],
+   "printed_pages_raw": "438.439",
+   "tavola_scan": 24,
+   "page": 438,
+   "scan": 459,
+   "has_img": null,
+   "img_candidates": [
+    459
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r548",
+   "title": "Sanità",
+   "pages": [
+    "440"
+   ],
+   "printed_pages_raw": "440",
+   "tavola_scan": 24,
+   "page": 440,
+   "scan": 461,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r549",
+   "title": "Sapienza",
+   "pages": [
+    "440",
+    "441",
+    "442"
+   ],
+   "printed_pages_raw": "440.441.442",
+   "tavola_scan": 24,
+   "page": 440,
+   "scan": 461,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r550",
+   "title": "Sapienza humana",
+   "pages": [
+    "442"
+   ],
+   "printed_pages_raw": "442",
+   "tavola_scan": 24,
+   "page": 442,
+   "scan": 463,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r551",
+   "title": "Sapienza vera",
+   "pages": [
+    "442"
+   ],
+   "printed_pages_raw": "442",
+   "tavola_scan": 24,
+   "page": 442,
+   "scan": 463,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r552",
+   "title": "Sceleratezza, ò vitio",
+   "pages": [
+    "443"
+   ],
+   "printed_pages_raw": "443",
+   "tavola_scan": 24,
+   "page": 443,
+   "scan": 464,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r553",
+   "title": "Scienza",
+   "pages": [
+    "444",
+    "445"
+   ],
+   "printed_pages_raw": "444.445",
+   "tavola_scan": 24,
+   "page": 444,
+   "scan": 465,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r554",
+   "title": "Sciocchezza",
+   "pages": [
+    "445"
+   ],
+   "printed_pages_raw": "445",
+   "tavola_scan": 24,
+   "page": 445,
+   "scan": 466,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r555",
+   "title": "Scoltura",
+   "pages": [
+    "445"
+   ],
+   "printed_pages_raw": "445",
+   "tavola_scan": 24,
+   "page": 445,
+   "scan": 466,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r556",
+   "title": "Scorno",
+   "pages": [
+    "446"
+   ],
+   "printed_pages_raw": "446",
+   "tavola_scan": 24,
+   "page": 446,
+   "scan": 467,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r557",
+   "title": "Sdegno",
+   "pages": [
+    "446"
+   ],
+   "printed_pages_raw": "446",
+   "tavola_scan": 24,
+   "page": 446,
+   "scan": 467,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r558",
+   "title": "Secretezza",
+   "pages": [
+    "446"
+   ],
+   "printed_pages_raw": "446",
+   "tavola_scan": 24,
+   "page": 446,
+   "scan": 467,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r559",
+   "title": "Secolo",
+   "pages": [
+    "447"
+   ],
+   "printed_pages_raw": "447",
+   "tavola_scan": 24,
+   "page": 447,
+   "scan": 468,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r560",
+   "title": "Sentimenti",
+   "pages": [
+    "447"
+   ],
+   "printed_pages_raw": "447",
+   "tavola_scan": 24,
+   "page": 447,
+   "scan": 468,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r561",
+   "title": "Viso",
+   "pages": [
+    "447"
+   ],
+   "printed_pages_raw": "447",
+   "tavola_scan": 24,
+   "page": 447,
+   "scan": 468,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r562",
+   "title": "Vdito",
+   "pages": [
+    "447",
+    "448"
+   ],
+   "printed_pages_raw": "447.448",
+   "tavola_scan": 24,
+   "page": 447,
+   "scan": 468,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r563",
+   "title": "Odorato",
+   "pages": [
+    "448"
+   ],
+   "printed_pages_raw": "448",
+   "tavola_scan": 24,
+   "page": 448,
+   "scan": 469,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r564",
+   "title": "Gusto",
+   "pages": [
+    "448"
+   ],
+   "printed_pages_raw": "448",
+   "tavola_scan": 24,
+   "page": 448,
+   "scan": 469,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r565",
+   "title": "Tatto",
+   "pages": [
+    "448"
+   ],
+   "printed_pages_raw": "448",
+   "tavola_scan": 24,
+   "page": 448,
+   "scan": 469,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r566",
+   "title": "Senso",
+   "pages": [
+    "448"
+   ],
+   "printed_pages_raw": "448",
+   "tavola_scan": 24,
+   "page": 448,
+   "scan": 469,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r567",
+   "title": "Sensi come si possano rappresentare in vna figura sola",
+   "pages": [
+    "449"
+   ],
+   "printed_pages_raw": "449",
+   "tavola_scan": 24,
+   "page": 449,
+   "scan": 470,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r568",
+   "title": "Seruitio",
+   "pages": [
+    "450"
+   ],
+   "printed_pages_raw": "450",
+   "tavola_scan": 24,
+   "page": 450,
+   "scan": 471,
+   "has_img": true,
+   "img_scan": 471
+  },
+  {
+   "id": "r569",
+   "title": "Seruitù per forza",
+   "pages": [
+    "451",
+    "452"
+   ],
+   "printed_pages_raw": "451.452",
+   "tavola_scan": 24,
+   "page": 451,
+   "scan": 472,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r570",
+   "title": "Sete di giustitia",
+   "pages": [
+    "452"
+   ],
+   "printed_pages_raw": "452",
+   "tavola_scan": 24,
+   "page": 452,
+   "scan": 473,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r571",
+   "title": "Sfacciataggine",
+   "pages": [
+    "452"
+   ],
+   "printed_pages_raw": "452",
+   "tavola_scan": 24,
+   "page": 452,
+   "scan": 473,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r572",
+   "title": "Sforzo con inganno",
+   "pages": [
+    "452"
+   ],
+   "printed_pages_raw": "452",
+   "tavola_scan": 24,
+   "page": 452,
+   "scan": 473,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r573",
+   "title": "Sicurezza, & tranquillità",
+   "pages": [
+    "452"
+   ],
+   "printed_pages_raw": "452",
+   "tavola_scan": 24,
+   "page": 452,
+   "scan": 473,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r574",
+   "title": "Sicurtà, ò sicurezza",
+   "pages": [
+    "453"
+   ],
+   "printed_pages_raw": "453",
+   "tavola_scan": 24,
+   "page": 453,
+   "scan": 474,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r575",
+   "title": "Silentio",
+   "pages": [
+    "453",
+    "454"
+   ],
+   "printed_pages_raw": "453.454",
+   "tavola_scan": 24,
+   "page": 453,
+   "scan": 474,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r576",
+   "title": "Simplicità",
+   "pages": [
+    "455"
+   ],
+   "printed_pages_raw": "455",
+   "tavola_scan": 24,
+   "page": 455,
+   "scan": 476,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r577",
+   "title": "Simulatione",
+   "pages": [
+    "455"
+   ],
+   "printed_pages_raw": "455",
+   "tavola_scan": 24,
+   "page": 455,
+   "scan": 476,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r578",
+   "title": "Signoria",
+   "pages": [
+    "455"
+   ],
+   "printed_pages_raw": "455",
+   "tavola_scan": 24,
+   "page": 455,
+   "scan": 476,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r579",
+   "title": "Sincerità",
+   "pages": [
+    "455",
+    "456"
+   ],
+   "printed_pages_raw": "455.456",
+   "tavola_scan": 24,
+   "page": 455,
+   "scan": 476,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r580",
+   "title": "Sobrietà",
+   "pages": [
+    "456"
+   ],
+   "printed_pages_raw": "456",
+   "tavola_scan": 24,
+   "page": 456,
+   "scan": 477,
+   "has_img": true,
+   "img_scan": 477
+  },
+  {
+   "id": "r581",
+   "title": "Soccorso",
+   "pages": [
+    "457"
+   ],
+   "printed_pages_raw": "457",
+   "tavola_scan": 24,
+   "page": 457,
+   "scan": 478,
+   "has_img": true,
+   "img_scan": 478
+  },
+  {
+   "id": "r582",
+   "title": "Solitudine",
+   "pages": [
+    "458"
+   ],
+   "printed_pages_raw": "458",
+   "tavola_scan": 24,
+   "page": 458,
+   "scan": 479,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r583",
+   "title": "Sollecitudine",
+   "pages": [
+    "459",
+    "460"
+   ],
+   "printed_pages_raw": "459.460",
+   "tavola_scan": 24,
+   "page": 459,
+   "scan": 480,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r584",
+   "title": "Solstitio estiuo",
+   "pages": [
+    "461"
+   ],
+   "printed_pages_raw": "461",
+   "tavola_scan": 24,
+   "page": 461,
+   "scan": 482,
+   "has_img": true,
+   "img_scan": 482
+  },
+  {
+   "id": "r585",
+   "title": "Solstitio hiemale",
+   "pages": [
+    "463"
+   ],
+   "printed_pages_raw": "463",
+   "tavola_scan": 24,
+   "page": 463,
+   "scan": 484,
+   "has_img": true,
+   "img_scan": 484
+  },
+  {
+   "id": "r586",
+   "title": "Sonno",
+   "pages": [
+    "464"
+   ],
+   "printed_pages_raw": "464",
+   "tavola_scan": 24,
+   "page": 464,
+   "scan": 485,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r587",
+   "title": "Sorte",
+   "pages": [
+    "465",
+    "466"
+   ],
+   "printed_pages_raw": "465.466",
+   "tavola_scan": 24,
+   "page": 465,
+   "scan": 486,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r588",
+   "title": "Sospitione",
+   "pages": [
+    "467"
+   ],
+   "printed_pages_raw": "467",
+   "tavola_scan": 24,
+   "page": 467,
+   "scan": 488,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r589",
+   "title": "Sostanza",
+   "pages": [
+    "468"
+   ],
+   "printed_pages_raw": "468",
+   "tavola_scan": 24,
+   "page": 468,
+   "scan": 489,
+   "has_img": null,
+   "img_candidates": [
+    489
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r590",
+   "title": "Sottilità",
+   "pages": [
+    "568"
+   ],
+   "printed_pages_raw": "568",
+   "tavola_scan": 24,
+   "page": 568,
+   "scan": null,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r591",
+   "title": "Spauento",
+   "pages": [
+    "468"
+   ],
+   "printed_pages_raw": "468",
+   "tavola_scan": 24,
+   "page": 468,
+   "scan": 489,
+   "has_img": null,
+   "img_candidates": [
+    489
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r592",
+   "title": "Speranza",
+   "pages": [
+    "469",
+    "470"
+   ],
+   "printed_pages_raw": "469.470",
+   "tavola_scan": 24,
+   "page": 469,
+   "scan": 490,
+   "has_img": true,
+   "img_scan": 490
+  },
+  {
+   "id": "r593",
+   "title": "Speranza delle fatiche",
+   "pages": [
+    "470",
+    "471"
+   ],
+   "printed_pages_raw": "470.471",
+   "tavola_scan": 24,
+   "page": 470,
+   "scan": 491,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r594",
+   "title": "Speranza diuina, & certa",
+   "pages": [
+    "471"
+   ],
+   "printed_pages_raw": "471",
+   "tavola_scan": 24,
+   "page": 471,
+   "scan": 492,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r595",
+   "title": "Speranza fallace",
+   "pages": [
+    "472"
+   ],
+   "printed_pages_raw": "472",
+   "tavola_scan": 24,
+   "page": 472,
+   "scan": 493,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r596",
+   "title": "Stabilità",
+   "pages": [
+    "472"
+   ],
+   "printed_pages_raw": "472",
+   "tavola_scan": 24,
+   "page": 472,
+   "scan": 493,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r597",
+   "title": "Stagioni dell'anno",
+   "pages": [
+    "473"
+   ],
+   "printed_pages_raw": "473",
+   "tavola_scan": 24,
+   "page": 473,
+   "scan": 494,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r598",
+   "title": "Primauera",
+   "pages": [
+    "473",
+    "476"
+   ],
+   "printed_pages_raw": "473.476",
+   "tavola_scan": 24,
+   "page": 473,
+   "scan": 494,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r599",
+   "title": "Estate",
+   "pages": [
+    "474"
+   ],
+   "printed_pages_raw": "474",
+   "tavola_scan": 24,
+   "page": 474,
+   "scan": 495,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r600",
+   "title": "Autunno",
+   "pages": [
+    "475"
+   ],
+   "printed_pages_raw": "475",
+   "tavola_scan": 24,
+   "page": 475,
+   "scan": 496,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r601",
+   "title": "Inuerno",
+   "pages": [
+    "475"
+   ],
+   "printed_pages_raw": "475",
+   "tavola_scan": 24,
+   "page": 475,
+   "scan": 496,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r602",
+   "title": "Sterilità",
+   "pages": [
+    "477"
+   ],
+   "printed_pages_raw": "477",
+   "tavola_scan": 24,
+   "page": 477,
+   "scan": 498,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r603",
+   "title": "Stultitia",
+   "pages": [
+    "478"
+   ],
+   "printed_pages_raw": "478",
+   "tavola_scan": 24,
+   "page": 478,
+   "scan": 499,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r604",
+   "title": "Studio dell'agricoltura",
+   "pages": [
+    "478"
+   ],
+   "printed_pages_raw": "478",
+   "tavola_scan": 24,
+   "page": 478,
+   "scan": 499,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r605",
+   "title": "Studio",
+   "pages": [
+    "478"
+   ],
+   "printed_pages_raw": "478",
+   "tavola_scan": 24,
+   "page": 478,
+   "scan": 499,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r606",
+   "title": "Supplicatione",
+   "pages": [
+    "478"
+   ],
+   "printed_pages_raw": "478",
+   "tavola_scan": 24,
+   "page": 478,
+   "scan": 499,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r607",
+   "title": "Superbia",
+   "pages": [
+    "479"
+   ],
+   "printed_pages_raw": "479",
+   "tavola_scan": 24,
+   "page": 479,
+   "scan": 500,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r608",
+   "title": "Tardità",
+   "pages": [
+    "480"
+   ],
+   "printed_pages_raw": "480",
+   "tavola_scan": 24,
+   "page": 480,
+   "scan": 501,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r609",
+   "title": "Temperanza",
+   "pages": [
+    "480",
+    "481",
+    "482"
+   ],
+   "printed_pages_raw": "480.481.482",
+   "tavola_scan": 24,
+   "page": 480,
+   "scan": 501,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r610",
+   "title": "Tempesta Ninfa dell'aria",
+   "pages": [
+    "482"
+   ],
+   "printed_pages_raw": "482",
+   "tavola_scan": 24,
+   "page": 482,
+   "scan": 503,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r611",
+   "title": "Tempo",
+   "pages": [
+    "482",
+    "483"
+   ],
+   "printed_pages_raw": "482.483",
+   "tavola_scan": 24,
+   "page": 482,
+   "scan": 503,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r612",
+   "title": "Tentatione",
+   "pages": [
+    "483"
+   ],
+   "printed_pages_raw": "483",
+   "tavola_scan": 24,
+   "page": 483,
+   "scan": 504,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r613",
+   "title": "Tentatione d'amore",
+   "pages": [
+    "483"
+   ],
+   "printed_pages_raw": "483",
+   "tavola_scan": 24,
+   "page": 483,
+   "scan": 504,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r614",
+   "title": "Teologia",
+   "pages": [
+    "484"
+   ],
+   "printed_pages_raw": "484",
+   "tavola_scan": 24,
+   "page": 484,
+   "scan": 505,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r615",
+   "title": "Terrore",
+   "pages": [
+    "484"
+   ],
+   "printed_pages_raw": "484",
+   "tavola_scan": 24,
+   "page": 484,
+   "scan": 505,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r616",
+   "title": "Terrrmoto",
+   "pages": [
+    "486"
+   ],
+   "printed_pages_raw": "486",
+   "tavola_scan": 24,
+   "page": 486,
+   "scan": 507,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r617",
+   "title": "Timidità, ò timore",
+   "pages": [
+    "486"
+   ],
+   "printed_pages_raw": "486",
+   "tavola_scan": 24,
+   "page": 486,
+   "scan": 507,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r618",
+   "title": "Timore",
+   "pages": [
+    "487"
+   ],
+   "printed_pages_raw": "487",
+   "tavola_scan": 24,
+   "page": 487,
+   "scan": 508,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r619",
+   "title": "Tirannide",
+   "pages": [
+    "487"
+   ],
+   "printed_pages_raw": "487",
+   "tavola_scan": 24,
+   "page": 487,
+   "scan": 508,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r620",
+   "title": "Tolleranza",
+   "pages": [
+    "488"
+   ],
+   "printed_pages_raw": "488",
+   "tavola_scan": 24,
+   "page": 488,
+   "scan": 509,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r621",
+   "title": "Tormento d'amore",
+   "pages": [
+    "488"
+   ],
+   "printed_pages_raw": "488",
+   "tavola_scan": 24,
+   "page": 488,
+   "scan": 509,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r622",
+   "title": "Tradimento",
+   "pages": [
+    "489"
+   ],
+   "printed_pages_raw": "489",
+   "tavola_scan": 24,
+   "page": 489,
+   "scan": 510,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r623",
+   "title": "Tragedia",
+   "pages": [
+    "489"
+   ],
+   "printed_pages_raw": "489",
+   "tavola_scan": 24,
+   "page": 489,
+   "scan": 510,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r624",
+   "title": "Tranquillità",
+   "pages": [
+    "491"
+   ],
+   "printed_pages_raw": "491",
+   "tavola_scan": 24,
+   "page": 491,
+   "scan": 512,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r625",
+   "title": "Valore",
+   "pages": [
+    "492"
+   ],
+   "printed_pages_raw": "492",
+   "tavola_scan": 25,
+   "page": 492,
+   "scan": 513,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r626",
+   "title": "Vanità",
+   "pages": [
+    "493"
+   ],
+   "printed_pages_raw": "493",
+   "tavola_scan": 25,
+   "page": 493,
+   "scan": 514,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r627",
+   "title": "Vbriacchezza",
+   "pages": [
+    "493"
+   ],
+   "printed_pages_raw": "493",
+   "tavola_scan": 25,
+   "page": 493,
+   "scan": 514,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r628",
+   "title": "Vecchiezza",
+   "pages": [
+    "493"
+   ],
+   "printed_pages_raw": "493",
+   "tavola_scan": 25,
+   "page": 493,
+   "scan": 514,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r629",
+   "title": "Velocità",
+   "pages": [
+    "494"
+   ],
+   "printed_pages_raw": "494",
+   "tavola_scan": 25,
+   "page": 494,
+   "scan": 515,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r630",
+   "title": "Vendetta",
+   "pages": [
+    "494",
+    "495"
+   ],
+   "printed_pages_raw": "494.495",
+   "tavola_scan": 25,
+   "page": 494,
+   "scan": 515,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r631",
+   "title": "Venti",
+   "pages": [
+    "495",
+    "496"
+   ],
+   "printed_pages_raw": "495.496",
+   "tavola_scan": 25,
+   "page": 495,
+   "scan": 516,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r632",
+   "title": "Eolo Re de venti",
+   "pages": [
+    "495",
+    "496"
+   ],
+   "printed_pages_raw": "495.496",
+   "tavola_scan": 25,
+   "page": 495,
+   "scan": 516,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r633",
+   "title": "Euro",
+   "pages": [
+    "496"
+   ],
+   "printed_pages_raw": "496",
+   "tavola_scan": 25,
+   "page": 496,
+   "scan": 517,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r634",
+   "title": "Fauonio, ò Zefiro",
+   "pages": [
+    "497"
+   ],
+   "printed_pages_raw": "497",
+   "tavola_scan": 25,
+   "page": 497,
+   "scan": 518,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r635",
+   "title": "Borea, ouero Aquilone",
+   "pages": [
+    "497"
+   ],
+   "printed_pages_raw": "497",
+   "tavola_scan": 25,
+   "page": 497,
+   "scan": 518,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r636",
+   "title": "Austro",
+   "pages": [
+    "498"
+   ],
+   "printed_pages_raw": "498",
+   "tavola_scan": 25,
+   "page": 498,
+   "scan": 519,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r637",
+   "title": "Aura",
+   "pages": [
+    "499"
+   ],
+   "printed_pages_raw": "499",
+   "tavola_scan": 25,
+   "page": 499,
+   "scan": 520,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r638",
+   "title": "Verità",
+   "pages": [
+    "499",
+    "501"
+   ],
+   "printed_pages_raw": "499.501",
+   "tavola_scan": 25,
+   "page": 499,
+   "scan": 520,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r639",
+   "title": "Vigilanza",
+   "pages": [
+    "502",
+    "503"
+   ],
+   "printed_pages_raw": "502.503",
+   "tavola_scan": 25,
+   "page": 502,
+   "scan": 523,
+   "has_img": true,
+   "img_scan": 523
+  },
+  {
+   "id": "r640",
+   "title": "Vigilanza per difendersi, & oppugnar altri",
+   "pages": [
+    "504"
+   ],
+   "printed_pages_raw": "504",
+   "tavola_scan": 25,
+   "page": 504,
+   "scan": 525,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r641",
+   "title": "Viltà",
+   "pages": [
+    "504"
+   ],
+   "printed_pages_raw": "504",
+   "tavola_scan": 25,
+   "page": 504,
+   "scan": 525,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r642",
+   "title": "Violenza",
+   "pages": [
+    "504"
+   ],
+   "printed_pages_raw": "504",
+   "tavola_scan": 25,
+   "page": 504,
+   "scan": 525,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r643",
+   "title": "Virginità",
+   "pages": [
+    "504",
+    "505",
+    "506"
+   ],
+   "printed_pages_raw": "504.505.506",
+   "tavola_scan": 25,
+   "page": 504,
+   "scan": 525,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r644",
+   "title": "Virilità",
+   "pages": [
+    "506"
+   ],
+   "printed_pages_raw": "506",
+   "tavola_scan": 25,
+   "page": 506,
+   "scan": 527,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r645",
+   "title": "Virtù heroica",
+   "pages": [
+    "506",
+    "507",
+    "508"
+   ],
+   "printed_pages_raw": "506.507.508",
+   "tavola_scan": 25,
+   "page": 506,
+   "scan": 527,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r646",
+   "title": "Virtù",
+   "pages": [
+    "508",
+    "509",
+    "510",
+    "511"
+   ],
+   "printed_pages_raw": "508.509.510.511",
+   "tavola_scan": 25,
+   "page": 508,
+   "scan": 529,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r647",
+   "title": "Virtù insuperabile",
+   "pages": [
+    "509"
+   ],
+   "printed_pages_raw": "509",
+   "tavola_scan": 25,
+   "page": 509,
+   "scan": 530,
+   "has_img": true,
+   "img_scan": 530
+  },
+  {
+   "id": "r648",
+   "title": "Vita",
+   "pages": [
+    "512"
+   ],
+   "printed_pages_raw": "512",
+   "tavola_scan": 25,
+   "page": 512,
+   "scan": 533,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r649",
+   "title": "Vita attiua",
+   "pages": [
+    "513"
+   ],
+   "printed_pages_raw": "513",
+   "tavola_scan": 25,
+   "page": 513,
+   "scan": 534,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r650",
+   "title": "Vita contemplatiua",
+   "pages": [
+    "513",
+    "514"
+   ],
+   "printed_pages_raw": "513.514",
+   "tavola_scan": 25,
+   "page": 513,
+   "scan": 534,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r651",
+   "title": "Vita humana",
+   "pages": [
+    "514"
+   ],
+   "printed_pages_raw": "514",
+   "tavola_scan": 25,
+   "page": 514,
+   "scan": 535,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r652",
+   "title": "Vita inquieta",
+   "pages": [
+    "514"
+   ],
+   "printed_pages_raw": "514",
+   "tavola_scan": 25,
+   "page": 514,
+   "scan": 535,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r653",
+   "title": "Vitio",
+   "pages": [
+    "515"
+   ],
+   "printed_pages_raw": "515",
+   "tavola_scan": 25,
+   "page": 515,
+   "scan": 536,
+   "has_img": null,
+   "img_candidates": [
+    536
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r654",
+   "title": "Vittoria",
+   "pages": [
+    "515",
+    "516",
+    "517",
+    "518"
+   ],
+   "printed_pages_raw": "515.516.517.518",
+   "tavola_scan": 25,
+   "page": 515,
+   "scan": 536,
+   "has_img": null,
+   "img_candidates": [
+    536
+   ],
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+  },
+  {
+   "id": "r655",
+   "title": "Vittoria nauale",
+   "pages": [
+    "516",
+    "517"
+   ],
+   "printed_pages_raw": "516.517",
+   "tavola_scan": 25,
+   "page": 516,
+   "scan": 537,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r656",
+   "title": "Volontà",
+   "pages": [
+    "518",
+    "519",
+    "520"
+   ],
+   "printed_pages_raw": "518.519.520",
+   "tavola_scan": 25,
+   "page": 518,
+   "scan": 539,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r657",
+   "title": "Voluttà",
+   "pages": [
+    "520"
+   ],
+   "printed_pages_raw": "520",
+   "tavola_scan": 25,
+   "page": 520,
+   "scan": 541,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r658",
+   "title": "Voracità",
+   "pages": [
+    "520"
+   ],
+   "printed_pages_raw": "520",
+   "tavola_scan": 25,
+   "page": 520,
+   "scan": 541,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r659",
+   "title": "Vsanza",
+   "pages": [
+    "521"
+   ],
+   "printed_pages_raw": "521",
+   "tavola_scan": 25,
+   "page": 521,
+   "scan": 542,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r660",
+   "title": "Vsura",
+   "pages": [
+    "521"
+   ],
+   "printed_pages_raw": "521",
+   "tavola_scan": 25,
+   "page": 521,
+   "scan": 542,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r661",
+   "title": "Vtilità",
+   "pages": [
+    "521"
+   ],
+   "printed_pages_raw": "521",
+   "tavola_scan": 25,
+   "page": 521,
+   "scan": 542,
+   "has_img": null,
+   "img_scan": null
+  },
+  {
+   "id": "r662",
+   "title": "Zelo",
+   "pages": [
+    "522"
+   ],
+   "printed_pages_raw": "522",
+   "tavola_scan": 25,
+   "page": 522,
+   "scan": 543,
+   "has_img": true,
+   "img_scan": 543
+  }
+ ]
+}

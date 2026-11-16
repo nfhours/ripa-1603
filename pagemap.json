@@ -1,0 +1,5572 @@
+[
+{
+"scan": 1,
+"label": "Einbandvorne",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "cover",
+"src": "H",
+"ia_leaf": 3
+},
+{
+"scan": 2,
+"label": "Titelblatt",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "front",
+"src": "H",
+"ia_leaf": 4
+},
+{
+"scan": 3,
+"label": "Titelblatt_a",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "front",
+"src": "H",
+"ia_leaf": 5
+},
+{
+"scan": 4,
+"label": "Widmung_1",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "front",
+"src": "H",
+"ia_leaf": 6
+},
+{
+"scan": 5,
+"label": "Widmung_2",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "front",
+"src": "H",
+"ia_leaf": 7
+},
+{
+"scan": 6,
+"label": "Widmung_3",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "front",
+"src": "H",
+"ia_leaf": 8
+},
+{
+"scan": 7,
+"label": "Widmung_4",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "front",
+"src": "H",
+"ia_leaf": 9
+},
+{
+"scan": 8,
+"label": "Proemio_1",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "proemio",
+"src": "H",
+"ia_leaf": 10
+},
+{
+"scan": 9,
+"label": "Proemio_2",
+"printed": null,
+"head": "PROEMIO",
+"flag": "",
+"kind": "proemio",
+"src": "H",
+"ia_leaf": 11
+},
+{
+"scan": 10,
+"label": "Proemio_3",
+"printed": null,
+"head": "PROEMIO",
+"flag": "",
+"kind": "proemio",
+"src": "H",
+"ia_leaf": 12
+},
+{
+"scan": 11,
+"label": "Proemio_4",
+"printed": null,
+"head": "PROEMIO",
+"flag": "",
+"kind": "proemio",
+"src": "H",
+"ia_leaf": 13
+},
+{
+"scan": 12,
+"label": "Proemio_5",
+"printed": null,
+"head": "PROEMIO",
+"flag": "",
+"kind": "proemio",
+"src": "H",
+"ia_leaf": 14
+},
+{
+"scan": 13,
+"label": "Proemio_6",
+"printed": null,
+"head": "PROEMIO",
+"flag": "",
+"kind": "proemio",
+"src": "H",
+"ia_leaf": 15
+},
+{
+"scan": 14,
+"label": "Proemio_7",
+"printed": null,
+"head": "PROEMIO",
+"flag": "",
+"kind": "proemio",
+"src": "H",
+"ia_leaf": 16
+},
+{
+"scan": 15,
+"label": "Proemio_8",
+"printed": null,
+"head": "PROEMIO",
+"flag": "",
+"kind": "proemio",
+"src": "H",
+"ia_leaf": 17
+},
+{
+"scan": 16,
+"label": "Tavola_01",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 18
+},
+{
+"scan": 17,
+"label": "Tavola_02",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 19
+},
+{
+"scan": 18,
+"label": "Tavola_03",
+"printed": null,
+"head": "TAVOLA",
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 20
+},
+{
+"scan": 19,
+"label": "Tavola_04",
+"printed": null,
+"head": "TAVOLA",
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 21
+},
+{
+"scan": 20,
+"label": "Tavola_05",
+"printed": null,
+"head": "TAVOLA",
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 22
+},
+{
+"scan": 21,
+"label": "Tavola_06",
+"printed": null,
+"head": "TAVOLA",
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 23
+},
+{
+"scan": 22,
+"label": "Tavola_07",
+"printed": null,
+"head": "TAVOLA",
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 24
+},
+{
+"scan": 23,
+"label": "Tavola_08",
+"printed": null,
+"head": "TAVOLA",
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 25
+},
+{
+"scan": 24,
+"label": "Tavola_09",
+"printed": null,
+"head": "TAVOLA",
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 26
+},
+{
+"scan": 25,
+"label": "Tavola_10",
+"printed": null,
+"head": "TAVOLA",
+"flag": "",
+"kind": "tavola",
+"src": "H",
+"ia_leaf": 27
+},
+{
+"scan": 26,
+"label": "1",
+"printed": "1",
+"head": null,
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 28
+},
+{
+"scan": 27,
+"label": "2",
+"printed": "2",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 29
+},
+{
+"scan": 28,
+"label": "3",
+"printed": "3",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 30
+},
+{
+"scan": 29,
+"label": "4",
+"printed": "4",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 31
+},
+{
+"scan": 30,
+"label": "5",
+"printed": "5",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 32
+},
+{
+"scan": 31,
+"label": "6",
+"printed": "6",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 33
+},
+{
+"scan": 32,
+"label": "7",
+"printed": "7",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 34
+},
+{
+"scan": 33,
+"label": "8",
+"printed": "8",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 35
+},
+{
+"scan": 34,
+"label": "9",
+"printed": "9",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 36
+},
+{
+"scan": 35,
+"label": "10",
+"printed": "10",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 37
+},
+{
+"scan": 36,
+"label": "11",
+"printed": "11",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 38
+},
+{
+"scan": 37,
+"label": "12",
+"printed": "12",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 39
+},
+{
+"scan": 38,
+"label": "13",
+"printed": "13",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 40
+},
+{
+"scan": 39,
+"label": "14",
+"printed": "14",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 41
+},
+{
+"scan": 40,
+"label": "15",
+"printed": "15",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 42
+},
+{
+"scan": 41,
+"label": "16",
+"printed": "16",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 43
+},
+{
+"scan": 42,
+"label": "17",
+"printed": "17",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 44
+},
+{
+"scan": 43,
+"label": "18",
+"printed": "18",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 45
+},
+{
+"scan": 44,
+"label": "19",
+"printed": "19",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 46
+},
+{
+"scan": 45,
+"label": "20",
+"printed": "20",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 47
+},
+{
+"scan": 46,
+"label": "21",
+"printed": "21",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 48
+},
+{
+"scan": 47,
+"label": "22",
+"printed": "22",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 49
+},
+{
+"scan": 48,
+"label": "23",
+"printed": "23",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 50
+},
+{
+"scan": 49,
+"label": "24",
+"printed": "24",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 51
+},
+{
+"scan": 50,
+"label": "25",
+"printed": "25",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 52
+},
+{
+"scan": 51,
+"label": "26",
+"printed": "26",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 53
+},
+{
+"scan": 52,
+"label": "27",
+"printed": "27",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 54
+},
+{
+"scan": 53,
+"label": "28",
+"printed": "28",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 55
+},
+{
+"scan": 54,
+"label": "29",
+"printed": "29",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 56
+},
+{
+"scan": 55,
+"label": "30",
+"printed": "30",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 57
+},
+{
+"scan": 56,
+"label": "31",
+"printed": "31",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 58
+},
+{
+"scan": 57,
+"label": "32",
+"printed": "32",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 59
+},
+{
+"scan": 58,
+"label": "33",
+"printed": "33",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 60
+},
+{
+"scan": 59,
+"label": "34",
+"printed": "34",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 61
+},
+{
+"scan": 60,
+"label": "35",
+"printed": "35",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 62
+},
+{
+"scan": 61,
+"label": "36",
+"printed": "36",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 63
+},
+{
+"scan": 62,
+"label": "37",
+"printed": "37",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 64
+},
+{
+"scan": 63,
+"label": "38",
+"printed": "38",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 65
+},
+{
+"scan": 64,
+"label": "39",
+"printed": "39",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 66
+},
+{
+"scan": 65,
+"label": "40",
+"printed": "40",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 67
+},
+{
+"scan": 66,
+"label": "41",
+"printed": "41",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 68
+},
+{
+"scan": 67,
+"label": "42",
+"printed": "42",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 69
+},
+{
+"scan": 68,
+"label": "43",
+"printed": "43",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 70
+},
+{
+"scan": 69,
+"label": "44",
+"printed": "44",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 71
+},
+{
+"scan": 70,
+"label": "45",
+"printed": "45",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 72
+},
+{
+"scan": 71,
+"label": "46",
+"printed": "46",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 73
+},
+{
+"scan": 72,
+"label": "47",
+"printed": "47",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 74
+},
+{
+"scan": 73,
+"label": "48",
+"printed": "48",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 75
+},
+{
+"scan": 74,
+"label": "49",
+"printed": "49",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 76
+},
+{
+"scan": 75,
+"label": "50",
+"printed": "50",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 77
+},
+{
+"scan": 76,
+"label": "51",
+"printed": "51",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 78
+},
+{
+"scan": 77,
+"label": "52",
+"printed": "52",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 79
+},
+{
+"scan": 78,
+"label": "53",
+"printed": "53",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 80
+},
+{
+"scan": 79,
+"label": "54",
+"printed": "54",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 81
+},
+{
+"scan": 80,
+"label": "55",
+"printed": "55",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 82
+},
+{
+"scan": 81,
+"label": "56",
+"printed": "56",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 83
+},
+{
+"scan": 82,
+"label": "57",
+"printed": "57",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 84
+},
+{
+"scan": 83,
+"label": "58",
+"printed": "58",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 85
+},
+{
+"scan": 84,
+"label": "59",
+"printed": "59",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 86
+},
+{
+"scan": 85,
+"label": "60",
+"printed": "60",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 87
+},
+{
+"scan": 86,
+"label": "61",
+"printed": "61",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 88
+},
+{
+"scan": 87,
+"label": "62",
+"printed": "62",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 89
+},
+{
+"scan": 88,
+"label": "63",
+"printed": "63",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 90
+},
+{
+"scan": 89,
+"label": "64",
+"printed": "64",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 91
+},
+{
+"scan": 90,
+"label": "65",
+"printed": "65",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 92
+},
+{
+"scan": 91,
+"label": "66",
+"printed": "66",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 93
+},
+{
+"scan": 92,
+"label": "67",
+"printed": "67",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 94
+},
+{
+"scan": 93,
+"label": "68",
+"printed": "68",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 95
+},
+{
+"scan": 94,
+"label": "69",
+"printed": "69",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 96
+},
+{
+"scan": 95,
+"label": "70",
+"printed": "70",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 97
+},
+{
+"scan": 96,
+"label": "71",
+"printed": "71",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 98
+},
+{
+"scan": 97,
+"label": "72",
+"printed": "72",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 99
+},
+{
+"scan": 98,
+"label": "73",
+"printed": "73",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 100
+},
+{
+"scan": 99,
+"label": "74",
+"printed": "74",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 101
+},
+{
+"scan": 100,
+"label": "75",
+"printed": "75",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 102
+},
+{
+"scan": 101,
+"label": "76",
+"printed": "76",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 103
+},
+{
+"scan": 102,
+"label": "77",
+"printed": "77",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 104
+},
+{
+"scan": 103,
+"label": "78",
+"printed": "78",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 105
+},
+{
+"scan": 104,
+"label": "79",
+"printed": "79",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 106
+},
+{
+"scan": 105,
+"label": "80",
+"printed": "80",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 107
+},
+{
+"scan": 106,
+"label": "81",
+"printed": "81",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 108
+},
+{
+"scan": 107,
+"label": "82",
+"printed": "82",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 109
+},
+{
+"scan": 108,
+"label": "83",
+"printed": "83",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 110
+},
+{
+"scan": 109,
+"label": "84",
+"printed": "84",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 111
+},
+{
+"scan": 110,
+"label": "85",
+"printed": "85",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 112
+},
+{
+"scan": 111,
+"label": "86",
+"printed": "86",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 113
+},
+{
+"scan": 112,
+"label": "87",
+"printed": "87",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 114
+},
+{
+"scan": 113,
+"label": "88",
+"printed": "88",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 115
+},
+{
+"scan": 114,
+"label": "89",
+"printed": "89",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 116
+},
+{
+"scan": 115,
+"label": "90",
+"printed": "90",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 117
+},
+{
+"scan": 116,
+"label": "91",
+"printed": "91",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 118
+},
+{
+"scan": 117,
+"label": "92",
+"printed": "92",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 119
+},
+{
+"scan": 118,
+"label": "93",
+"printed": "93",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 120
+},
+{
+"scan": 119,
+"label": "94",
+"printed": "94",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 121
+},
+{
+"scan": 120,
+"label": "95",
+"printed": "95",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 122
+},
+{
+"scan": 121,
+"label": "96",
+"printed": "96",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 123
+},
+{
+"scan": 122,
+"label": "97",
+"printed": "97",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 124
+},
+{
+"scan": 123,
+"label": "98",
+"printed": "98",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 125
+},
+{
+"scan": 124,
+"label": "99",
+"printed": "99",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 126
+},
+{
+"scan": 125,
+"label": "100",
+"printed": "100",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 127
+},
+{
+"scan": 126,
+"label": "101",
+"printed": "101",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 128
+},
+{
+"scan": 127,
+"label": "102",
+"printed": "102",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 129
+},
+{
+"scan": 128,
+"label": "103",
+"printed": "103",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 130
+},
+{
+"scan": 129,
+"label": "104",
+"printed": "104",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 131
+},
+{
+"scan": 130,
+"label": "105",
+"printed": "105",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 132
+},
+{
+"scan": 131,
+"label": "106",
+"printed": "106",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 133
+},
+{
+"scan": 132,
+"label": "107",
+"printed": "107",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 134
+},
+{
+"scan": 133,
+"label": "108",
+"printed": "108",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 135
+},
+{
+"scan": 134,
+"label": "109",
+"printed": "109",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 136
+},
+{
+"scan": 135,
+"label": "109a",
+"printed": "102",
+"head": "ICONOLOGIA",
+"flag": "numbering-break",
+"kind": "text",
+"src": "H",
+"ia_leaf": 137
+},
+{
+"scan": 136,
+"label": "109b",
+"printed": "103",
+"head": "DI CESARE RIPA",
+"flag": "numbering-break",
+"kind": "text",
+"src": "H",
+"ia_leaf": 138
+},
+{
+"scan": 137,
+"label": "110",
+"printed": "112",
+"head": "ICONOLOGIA",
+"flag": "numbering-break",
+"kind": "text",
+"src": "H",
+"ia_leaf": 139
+},
+{
+"scan": 138,
+"label": "111",
+"printed": "111",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 140
+},
+{
+"scan": 139,
+"label": "118",
+"printed": "118",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 141
+},
+{
+"scan": 140,
+"label": "119",
+"printed": "119",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 142
+},
+{
+"scan": 141,
+"label": "120",
+"printed": "120",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 143
+},
+{
+"scan": 142,
+"label": "121",
+"printed": "121",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 144
+},
+{
+"scan": 143,
+"label": "122",
+"printed": "122",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 145
+},
+{
+"scan": 144,
+"label": "123",
+"printed": "123",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 146
+},
+{
+"scan": 145,
+"label": "124",
+"printed": "124",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 147
+},
+{
+"scan": 146,
+"label": "125",
+"printed": "125",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 148
+},
+{
+"scan": 147,
+"label": "126",
+"printed": "126",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 149
+},
+{
+"scan": 148,
+"label": "127",
+"printed": "127",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 150
+},
+{
+"scan": 149,
+"label": "128",
+"printed": "128",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 151
+},
+{
+"scan": 150,
+"label": "129",
+"printed": "129",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 152
+},
+{
+"scan": 151,
+"label": "130",
+"printed": "130",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 153
+},
+{
+"scan": 152,
+"label": "131",
+"printed": "131",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 154
+},
+{
+"scan": 153,
+"label": "132",
+"printed": "132",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 155
+},
+{
+"scan": 154,
+"label": "133",
+"printed": "133",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 156
+},
+{
+"scan": 155,
+"label": "134",
+"printed": "134",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 157
+},
+{
+"scan": 156,
+"label": "135",
+"printed": "135",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 158
+},
+{
+"scan": 157,
+"label": "136",
+"printed": "136",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 159
+},
+{
+"scan": 158,
+"label": "137",
+"printed": "137",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 160
+},
+{
+"scan": 159,
+"label": "138",
+"printed": "138",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 161
+},
+{
+"scan": 160,
+"label": "139",
+"printed": "139",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 162
+},
+{
+"scan": 161,
+"label": "140",
+"printed": "140",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 163
+},
+{
+"scan": 162,
+"label": "141",
+"printed": "141",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 164
+},
+{
+"scan": 163,
+"label": "142",
+"printed": "142",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 165
+},
+{
+"scan": 164,
+"label": "143",
+"printed": "143",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 166
+},
+{
+"scan": 165,
+"label": "144",
+"printed": "144",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 167
+},
+{
+"scan": 166,
+"label": "145",
+"printed": "145",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 168
+},
+{
+"scan": 167,
+"label": "146",
+"printed": "146",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 169
+},
+{
+"scan": 168,
+"label": "147",
+"printed": "147",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 170
+},
+{
+"scan": 169,
+"label": "148",
+"printed": "148",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 171
+},
+{
+"scan": 170,
+"label": "149",
+"printed": "149",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 172
+},
+{
+"scan": 171,
+"label": "150",
+"printed": "150",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 173
+},
+{
+"scan": 172,
+"label": "151",
+"printed": "151",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 174
+},
+{
+"scan": 173,
+"label": "152",
+"printed": "152",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 175
+},
+{
+"scan": 174,
+"label": "153",
+"printed": "153",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 176
+},
+{
+"scan": 175,
+"label": "154",
+"printed": "154",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 177
+},
+{
+"scan": 176,
+"label": "155",
+"printed": "155",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 178
+},
+{
+"scan": 177,
+"label": "156",
+"printed": "156",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 179
+},
+{
+"scan": 178,
+"label": "157",
+"printed": "157",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 180
+},
+{
+"scan": 179,
+"label": "158",
+"printed": "158",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 181
+},
+{
+"scan": 180,
+"label": "159",
+"printed": "159",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 182
+},
+{
+"scan": 181,
+"label": "160",
+"printed": "160",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 183
+},
+{
+"scan": 182,
+"label": "161",
+"printed": "161",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 184
+},
+{
+"scan": 183,
+"label": "162",
+"printed": "162",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 185
+},
+{
+"scan": 184,
+"label": "163",
+"printed": "163",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 186
+},
+{
+"scan": 185,
+"label": "164",
+"printed": "164",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 187
+},
+{
+"scan": 186,
+"label": "165",
+"printed": "165",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 188
+},
+{
+"scan": 187,
+"label": "166",
+"printed": "165",
+"head": "ICONOLOGIA",
+"flag": "misprint",
+"kind": "text",
+"src": "H",
+"ia_leaf": 189
+},
+{
+"scan": 188,
+"label": "167",
+"printed": "167",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 190
+},
+{
+"scan": 189,
+"label": "168",
+"printed": "168",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 191
+},
+{
+"scan": 190,
+"label": "169",
+"printed": "169",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 192
+},
+{
+"scan": 191,
+"label": "170",
+"printed": "170",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 193
+},
+{
+"scan": 192,
+"label": "171",
+"printed": "171",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 194
+},
+{
+"scan": 193,
+"label": "172",
+"printed": "172",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 195
+},
+{
+"scan": 194,
+"label": "173",
+"printed": "173",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 196
+},
+{
+"scan": 195,
+"label": "174",
+"printed": "174",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 197
+},
+{
+"scan": 196,
+"label": "175",
+"printed": "175",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 198
+},
+{
+"scan": 197,
+"label": "176",
+"printed": "176",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 199
+},
+{
+"scan": 198,
+"label": "177",
+"printed": "177",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 200
+},
+{
+"scan": 199,
+"label": "178",
+"printed": "178",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 201
+},
+{
+"scan": 200,
+"label": "179",
+"printed": "179",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 202
+},
+{
+"scan": 201,
+"label": "180",
+"printed": "180",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 203
+},
+{
+"scan": 202,
+"label": "181",
+"printed": "181",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 204
+},
+{
+"scan": 203,
+"label": "182",
+"printed": "182",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 205
+},
+{
+"scan": 204,
+"label": "183",
+"printed": "183",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 206
+},
+{
+"scan": 205,
+"label": "184",
+"printed": "184",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 207
+},
+{
+"scan": 206,
+"label": "185",
+"printed": "185",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 208
+},
+{
+"scan": 207,
+"label": "186",
+"printed": "186",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 209
+},
+{
+"scan": 208,
+"label": "187",
+"printed": "187",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 210
+},
+{
+"scan": 209,
+"label": "188",
+"printed": "188",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 211
+},
+{
+"scan": 210,
+"label": "189",
+"printed": "198",
+"head": "DI CESARE RIPA",
+"flag": "misprint",
+"kind": "text",
+"src": "H",
+"ia_leaf": 212
+},
+{
+"scan": 211,
+"label": "190",
+"printed": "190",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 213
+},
+{
+"scan": 212,
+"label": "191",
+"printed": "191",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 214
+},
+{
+"scan": 213,
+"label": "192",
+"printed": "192",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 215
+},
+{
+"scan": 214,
+"label": "193",
+"printed": "193",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 216
+},
+{
+"scan": 215,
+"label": "194",
+"printed": "194",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 217
+},
+{
+"scan": 216,
+"label": "195",
+"printed": "195",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 218
+},
+{
+"scan": 217,
+"label": "196",
+"printed": "196",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 219
+},
+{
+"scan": 218,
+"label": "197",
+"printed": "197",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 220
+},
+{
+"scan": 219,
+"label": "198",
+"printed": "198",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 221
+},
+{
+"scan": 220,
+"label": "199",
+"printed": "199",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 222
+},
+{
+"scan": 221,
+"label": "200",
+"printed": "200",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 223
+},
+{
+"scan": 222,
+"label": "201",
+"printed": "201",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 224
+},
+{
+"scan": 223,
+"label": "202",
+"printed": "202",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 225
+},
+{
+"scan": 224,
+"label": "203",
+"printed": "203",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 226
+},
+{
+"scan": 225,
+"label": "204",
+"printed": "204",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 227
+},
+{
+"scan": 226,
+"label": "205",
+"printed": "205",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 228
+},
+{
+"scan": 227,
+"label": "206",
+"printed": "206",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 229
+},
+{
+"scan": 228,
+"label": "207",
+"printed": "207",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 230
+},
+{
+"scan": 229,
+"label": "208",
+"printed": "208",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 231
+},
+{
+"scan": 230,
+"label": "209",
+"printed": "209",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 232
+},
+{
+"scan": 231,
+"label": "210",
+"printed": "210",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 233
+},
+{
+"scan": 232,
+"label": "211",
+"printed": "211",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 234
+},
+{
+"scan": 233,
+"label": "212",
+"printed": "212",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 235
+},
+{
+"scan": 234,
+"label": "213",
+"printed": "213",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 236
+},
+{
+"scan": 235,
+"label": "214",
+"printed": "214",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 237
+},
+{
+"scan": 236,
+"label": "215",
+"printed": "215",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 238
+},
+{
+"scan": 237,
+"label": "216",
+"printed": "216",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 239
+},
+{
+"scan": 238,
+"label": "217",
+"printed": "217",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 240
+},
+{
+"scan": 239,
+"label": "218",
+"printed": "218",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 241
+},
+{
+"scan": 240,
+"label": "219",
+"printed": "219",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 242
+},
+{
+"scan": 241,
+"label": "220",
+"printed": "220",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 243
+},
+{
+"scan": 242,
+"label": "221",
+"printed": "221",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 244
+},
+{
+"scan": 243,
+"label": "222",
+"printed": "222",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 245
+},
+{
+"scan": 244,
+"label": "223",
+"printed": "223",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 246
+},
+{
+"scan": 245,
+"label": "224",
+"printed": "224",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 247
+},
+{
+"scan": 246,
+"label": "225",
+"printed": "225",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 248
+},
+{
+"scan": 247,
+"label": "226",
+"printed": "226",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 249
+},
+{
+"scan": 248,
+"label": "227",
+"printed": "227",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 250
+},
+{
+"scan": 249,
+"label": "228",
+"printed": "228",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 251
+},
+{
+"scan": 250,
+"label": "229",
+"printed": "229",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 252
+},
+{
+"scan": 251,
+"label": "230",
+"printed": "230",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 253
+},
+{
+"scan": 252,
+"label": "231",
+"printed": "231",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 254
+},
+{
+"scan": 253,
+"label": "232",
+"printed": "232",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 255
+},
+{
+"scan": 254,
+"label": "233",
+"printed": "233",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 256
+},
+{
+"scan": 255,
+"label": "234",
+"printed": "234",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 257
+},
+{
+"scan": 256,
+"label": "235",
+"printed": "235",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 258
+},
+{
+"scan": 257,
+"label": "236",
+"printed": "236",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 259
+},
+{
+"scan": 258,
+"label": "237",
+"printed": "237",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 260
+},
+{
+"scan": 259,
+"label": "238",
+"printed": "238",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 261
+},
+{
+"scan": 260,
+"label": "239",
+"printed": "239",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 262
+},
+{
+"scan": 261,
+"label": "240",
+"printed": "240",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 263
+},
+{
+"scan": 262,
+"label": "241",
+"printed": "241",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 264
+},
+{
+"scan": 263,
+"label": "242",
+"printed": "242",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 265
+},
+{
+"scan": 264,
+"label": "243",
+"printed": "243",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 266
+},
+{
+"scan": 265,
+"label": "244",
+"printed": "244",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 267
+},
+{
+"scan": 266,
+"label": "245",
+"printed": "245",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 268
+},
+{
+"scan": 267,
+"label": "246",
+"printed": "246",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 269
+},
+{
+"scan": 268,
+"label": "247",
+"printed": "247",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 270
+},
+{
+"scan": 269,
+"label": "248",
+"printed": "248",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 271
+},
+{
+"scan": 270,
+"label": "249",
+"printed": "249",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 272
+},
+{
+"scan": 271,
+"label": "250",
+"printed": "250",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 273
+},
+{
+"scan": 272,
+"label": "251",
+"printed": "251",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 274
+},
+{
+"scan": 273,
+"label": "252",
+"printed": "252",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 275
+},
+{
+"scan": 274,
+"label": "253",
+"printed": "253",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 276
+},
+{
+"scan": 275,
+"label": "254",
+"printed": "254",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 277
+},
+{
+"scan": 276,
+"label": "255",
+"printed": "255",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 278
+},
+{
+"scan": 277,
+"label": "256",
+"printed": "256",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 279
+},
+{
+"scan": 278,
+"label": "257",
+"printed": "257",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 280
+},
+{
+"scan": 279,
+"label": "258",
+"printed": "258",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 281
+},
+{
+"scan": 280,
+"label": "259",
+"printed": "259",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 282
+},
+{
+"scan": 281,
+"label": "260",
+"printed": "260",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 283
+},
+{
+"scan": 282,
+"label": "261",
+"printed": "261",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 284
+},
+{
+"scan": 283,
+"label": "262",
+"printed": "462",
+"head": "ICONOLOGIA",
+"flag": "misprint",
+"kind": "text",
+"src": "H",
+"ia_leaf": 285
+},
+{
+"scan": 284,
+"label": "263",
+"printed": "263",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 286
+},
+{
+"scan": 285,
+"label": "264",
+"printed": "264",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 287
+},
+{
+"scan": 286,
+"label": "265",
+"printed": "265",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 288
+},
+{
+"scan": 287,
+"label": "266",
+"printed": "266",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 289
+},
+{
+"scan": 288,
+"label": "267",
+"printed": "267",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 290
+},
+{
+"scan": 289,
+"label": "268",
+"printed": "268",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 291
+},
+{
+"scan": 290,
+"label": "269",
+"printed": "269",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 292
+},
+{
+"scan": 291,
+"label": "270",
+"printed": "270",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 293
+},
+{
+"scan": 292,
+"label": "271",
+"printed": "271",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 294
+},
+{
+"scan": 293,
+"label": "272",
+"printed": "272",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 295
+},
+{
+"scan": 294,
+"label": "273",
+"printed": "273",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 296
+},
+{
+"scan": 295,
+"label": "274",
+"printed": "274",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 297
+},
+{
+"scan": 296,
+"label": "275",
+"printed": "275",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 298
+},
+{
+"scan": 297,
+"label": "276",
+"printed": "276",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 299
+},
+{
+"scan": 298,
+"label": "277",
+"printed": "277",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 300
+},
+{
+"scan": 299,
+"label": "278",
+"printed": "278",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 301
+},
+{
+"scan": 300,
+"label": "279",
+"printed": "279",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 302
+},
+{
+"scan": 301,
+"label": "280",
+"printed": "280",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 303
+},
+{
+"scan": 302,
+"label": "281",
+"printed": "281",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 304
+},
+{
+"scan": 303,
+"label": "282",
+"printed": "282",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 305
+},
+{
+"scan": 304,
+"label": "283",
+"printed": "283",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 306
+},
+{
+"scan": 305,
+"label": "284",
+"printed": "284",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 307
+},
+{
+"scan": 306,
+"label": "285",
+"printed": "285",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 308
+},
+{
+"scan": 307,
+"label": "286",
+"printed": "286",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 309
+},
+{
+"scan": 308,
+"label": "287",
+"printed": "287",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 310
+},
+{
+"scan": 309,
+"label": "288",
+"printed": "288",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 311
+},
+{
+"scan": 310,
+"label": "289",
+"printed": "289",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 312
+},
+{
+"scan": 311,
+"label": "290",
+"printed": "290",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 313
+},
+{
+"scan": 312,
+"label": "291",
+"printed": "291",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 314
+},
+{
+"scan": 313,
+"label": "292",
+"printed": "292",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 315
+},
+{
+"scan": 314,
+"label": "293",
+"printed": "293",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 316
+},
+{
+"scan": 315,
+"label": "294",
+"printed": "294",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 317
+},
+{
+"scan": 316,
+"label": "295",
+"printed": "295",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 318
+},
+{
+"scan": 317,
+"label": "296",
+"printed": "296",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 319
+},
+{
+"scan": 318,
+"label": "297",
+"printed": "297",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 320
+},
+{
+"scan": 319,
+"label": "298",
+"printed": "298",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 321
+},
+{
+"scan": 320,
+"label": "299",
+"printed": "299",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 322
+},
+{
+"scan": 321,
+"label": "300",
+"printed": "300",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 323
+},
+{
+"scan": 322,
+"label": "301",
+"printed": "301",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 324
+},
+{
+"scan": 323,
+"label": "302",
+"printed": "302",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 325
+},
+{
+"scan": 324,
+"label": "303",
+"printed": "303",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 326
+},
+{
+"scan": 325,
+"label": "304",
+"printed": "304",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 327
+},
+{
+"scan": 326,
+"label": "305",
+"printed": "305",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 328
+},
+{
+"scan": 327,
+"label": "306",
+"printed": "306",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 329
+},
+{
+"scan": 328,
+"label": "307",
+"printed": "307",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 330
+},
+{
+"scan": 329,
+"label": "308",
+"printed": "308",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 331
+},
+{
+"scan": 330,
+"label": "309",
+"printed": "309",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 332
+},
+{
+"scan": 331,
+"label": "310",
+"printed": "310",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 333
+},
+{
+"scan": 332,
+"label": "311",
+"printed": "311",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 334
+},
+{
+"scan": 333,
+"label": "312",
+"printed": "312",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 335
+},
+{
+"scan": 334,
+"label": "313",
+"printed": "313",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 336
+},
+{
+"scan": 335,
+"label": "314",
+"printed": "314",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 337
+},
+{
+"scan": 336,
+"label": "315",
+"printed": "315",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 338
+},
+{
+"scan": 337,
+"label": "316",
+"printed": "316",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 339
+},
+{
+"scan": 338,
+"label": "317",
+"printed": "317",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 340
+},
+{
+"scan": 339,
+"label": "318",
+"printed": "318",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 341
+},
+{
+"scan": 340,
+"label": "319",
+"printed": "319",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 342
+},
+{
+"scan": 341,
+"label": "320",
+"printed": "320",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 343
+},
+{
+"scan": 342,
+"label": "321",
+"printed": "321",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 344
+},
+{
+"scan": 343,
+"label": "322",
+"printed": "322",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 345
+},
+{
+"scan": 344,
+"label": "323",
+"printed": "323",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 346
+},
+{
+"scan": 345,
+"label": "324",
+"printed": "324",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 347
+},
+{
+"scan": 346,
+"label": "325",
+"printed": "325",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 348
+},
+{
+"scan": 347,
+"label": "326",
+"printed": "326",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 349
+},
+{
+"scan": 348,
+"label": "327",
+"printed": "327",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 350
+},
+{
+"scan": 349,
+"label": "328",
+"printed": "328",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 351
+},
+{
+"scan": 350,
+"label": "329",
+"printed": "329",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 352
+},
+{
+"scan": 351,
+"label": "330",
+"printed": "330",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 353
+},
+{
+"scan": 352,
+"label": "331",
+"printed": "331",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 354
+},
+{
+"scan": 353,
+"label": "332",
+"printed": "332",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 355
+},
+{
+"scan": 354,
+"label": "333",
+"printed": "333",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 356
+},
+{
+"scan": 355,
+"label": "334",
+"printed": "334",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 357
+},
+{
+"scan": 356,
+"label": "335",
+"printed": "335",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 358
+},
+{
+"scan": 357,
+"label": "336",
+"printed": "336",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 359
+},
+{
+"scan": 358,
+"label": "337",
+"printed": "337",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 360
+},
+{
+"scan": 359,
+"label": "338",
+"printed": "338",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 361
+},
+{
+"scan": 360,
+"label": "339",
+"printed": "339",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 362
+},
+{
+"scan": 361,
+"label": "340",
+"printed": "340",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 363
+},
+{
+"scan": 362,
+"label": "341",
+"printed": "341",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 364
+},
+{
+"scan": 363,
+"label": "342",
+"printed": "342",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 365
+},
+{
+"scan": 364,
+"label": "343",
+"printed": "343",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 366
+},
+{
+"scan": 365,
+"label": "344",
+"printed": "344",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 367
+},
+{
+"scan": 366,
+"label": "345",
+"printed": "345",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 368
+},
+{
+"scan": 367,
+"label": "346",
+"printed": "346",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 369
+},
+{
+"scan": 368,
+"label": "347",
+"printed": "347",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 370
+},
+{
+"scan": 369,
+"label": "348",
+"printed": "348",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 371
+},
+{
+"scan": 370,
+"label": "349",
+"printed": "349",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 372
+},
+{
+"scan": 371,
+"label": "350",
+"printed": "350",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 373
+},
+{
+"scan": 372,
+"label": "351",
+"printed": "351",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 374
+},
+{
+"scan": 373,
+"label": "352",
+"printed": "352",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 375
+},
+{
+"scan": 374,
+"label": "353",
+"printed": "353",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 376
+},
+{
+"scan": 375,
+"label": "354",
+"printed": "354",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 377
+},
+{
+"scan": 376,
+"label": "355",
+"printed": "355",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 378
+},
+{
+"scan": 377,
+"label": "356",
+"printed": "356",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 379
+},
+{
+"scan": 378,
+"label": "357",
+"printed": "357",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 380
+},
+{
+"scan": 379,
+"label": "358",
+"printed": "358",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 381
+},
+{
+"scan": 380,
+"label": "359",
+"printed": "359",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 382
+},
+{
+"scan": 381,
+"label": "360",
+"printed": "360",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 383
+},
+{
+"scan": 382,
+"label": "361",
+"printed": "361",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 384
+},
+{
+"scan": 383,
+"label": "362",
+"printed": "362",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 385
+},
+{
+"scan": 384,
+"label": "363",
+"printed": "363",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 386
+},
+{
+"scan": 385,
+"label": "364",
+"printed": "364",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 387
+},
+{
+"scan": 386,
+"label": "365",
+"printed": "365",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 388
+},
+{
+"scan": 387,
+"label": "366",
+"printed": "366",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 389
+},
+{
+"scan": 388,
+"label": "367",
+"printed": "367",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 390
+},
+{
+"scan": 389,
+"label": "368",
+"printed": "368",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 391
+},
+{
+"scan": 390,
+"label": "369",
+"printed": "369",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 392
+},
+{
+"scan": 391,
+"label": "370",
+"printed": "370",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 393
+},
+{
+"scan": 392,
+"label": "371",
+"printed": "371",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 394
+},
+{
+"scan": 393,
+"label": "372",
+"printed": "372",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 395
+},
+{
+"scan": 394,
+"label": "373",
+"printed": "373",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 396
+},
+{
+"scan": 395,
+"label": "374",
+"printed": "374",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 397
+},
+{
+"scan": 396,
+"label": "375",
+"printed": "375",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 398
+},
+{
+"scan": 397,
+"label": "376",
+"printed": "376",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 399
+},
+{
+"scan": 398,
+"label": "377",
+"printed": "377",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 400
+},
+{
+"scan": 399,
+"label": "378",
+"printed": "378",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 401
+},
+{
+"scan": 400,
+"label": "379",
+"printed": "379",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 402
+},
+{
+"scan": 401,
+"label": "380",
+"printed": "380",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 403
+},
+{
+"scan": 402,
+"label": "381",
+"printed": "381",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 404
+},
+{
+"scan": 403,
+"label": "382",
+"printed": "382",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 405
+},
+{
+"scan": 404,
+"label": "383",
+"printed": "383",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 406
+},
+{
+"scan": 405,
+"label": "384",
+"printed": "384",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 407
+},
+{
+"scan": 406,
+"label": "385",
+"printed": "385",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 408
+},
+{
+"scan": 407,
+"label": "386",
+"printed": "386",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 409
+},
+{
+"scan": 408,
+"label": "387",
+"printed": "387",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 410
+},
+{
+"scan": 409,
+"label": "388",
+"printed": "388",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 411
+},
+{
+"scan": 410,
+"label": "389",
+"printed": "389",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 412
+},
+{
+"scan": 411,
+"label": "390",
+"printed": "390",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 413
+},
+{
+"scan": 412,
+"label": "391",
+"printed": "391",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 414
+},
+{
+"scan": 413,
+"label": "392",
+"printed": "392",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 415
+},
+{
+"scan": 414,
+"label": "393",
+"printed": "393",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 416
+},
+{
+"scan": 415,
+"label": "394",
+"printed": "394",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 417
+},
+{
+"scan": 416,
+"label": "395",
+"printed": "395",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 418
+},
+{
+"scan": 417,
+"label": "396",
+"printed": "396",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 419
+},
+{
+"scan": 418,
+"label": "397",
+"printed": "397",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 420
+},
+{
+"scan": 419,
+"label": "398",
+"printed": "398",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 421
+},
+{
+"scan": 420,
+"label": "399",
+"printed": "399",
+"head": "DI CESARE RIPA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 422
+},
+{
+"scan": 421,
+"label": "400",
+"printed": "400",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 423
+},
+{
+"scan": 422,
+"label": "401",
+"printed": "401",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 424
+},
+{
+"scan": 423,
+"label": "402",
+"printed": "402",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 425
+},
+{
+"scan": 424,
+"label": "403",
+"printed": "403",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 426
+},
+{
+"scan": 425,
+"label": "404",
+"printed": "404",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 427
+},
+{
+"scan": 426,
+"label": "405",
+"printed": "405",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 428
+},
+{
+"scan": 427,
+"label": "406",
+"printed": "406",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 429
+},
+{
+"scan": 428,
+"label": "407",
+"printed": "407",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 430
+},
+{
+"scan": 429,
+"label": "408",
+"printed": "408",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 431
+},
+{
+"scan": 430,
+"label": "409",
+"printed": "409",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 432
+},
+{
+"scan": 431,
+"label": "410",
+"printed": "410",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 433
+},
+{
+"scan": 432,
+"label": "411",
+"printed": "411",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 434
+},
+{
+"scan": 433,
+"label": "412",
+"printed": "412",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 435
+},
+{
+"scan": 434,
+"label": "413",
+"printed": "413",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 436
+},
+{
+"scan": 435,
+"label": "414",
+"printed": "414",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 437
+},
+{
+"scan": 436,
+"label": "415",
+"printed": "415",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 438
+},
+{
+"scan": 437,
+"label": "416",
+"printed": "416",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 439
+},
+{
+"scan": 438,
+"label": "417",
+"printed": "417",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 440
+},
+{
+"scan": 439,
+"label": "418",
+"printed": "418",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 441
+},
+{
+"scan": 440,
+"label": "419",
+"printed": "419",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 442
+},
+{
+"scan": 441,
+"label": "420",
+"printed": "420",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 443
+},
+{
+"scan": 442,
+"label": "421",
+"printed": "421",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 444
+},
+{
+"scan": 443,
+"label": "422",
+"printed": "422",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 445
+},
+{
+"scan": 444,
+"label": "423",
+"printed": "423",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 446
+},
+{
+"scan": 445,
+"label": "424",
+"printed": "424",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 447
+},
+{
+"scan": 446,
+"label": "425",
+"printed": "425",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 448
+},
+{
+"scan": 447,
+"label": "426",
+"printed": "426",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 449
+},
+{
+"scan": 448,
+"label": "427",
+"printed": "427",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 450
+},
+{
+"scan": 449,
+"label": "428",
+"printed": "428",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 451
+},
+{
+"scan": 450,
+"label": "429",
+"printed": "429",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 452
+},
+{
+"scan": 451,
+"label": "430",
+"printed": "430",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 453
+},
+{
+"scan": 452,
+"label": "431",
+"printed": "431",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 454
+},
+{
+"scan": 453,
+"label": "432",
+"printed": "432",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 455
+},
+{
+"scan": 454,
+"label": "433",
+"printed": "433",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 456
+},
+{
+"scan": 455,
+"label": "434",
+"printed": "434",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 457
+},
+{
+"scan": 456,
+"label": "435",
+"printed": "435",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 458
+},
+{
+"scan": 457,
+"label": "436",
+"printed": "436",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 459
+},
+{
+"scan": 458,
+"label": "437",
+"printed": "437",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 460
+},
+{
+"scan": 459,
+"label": "438",
+"printed": "438",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 461
+},
+{
+"scan": 460,
+"label": "439",
+"printed": "439",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 462
+},
+{
+"scan": 461,
+"label": "440",
+"printed": "440",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 463
+},
+{
+"scan": 462,
+"label": "441",
+"printed": "441",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 464
+},
+{
+"scan": 463,
+"label": "442",
+"printed": "442",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 465
+},
+{
+"scan": 464,
+"label": "443",
+"printed": "443",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 466
+},
+{
+"scan": 465,
+"label": "444",
+"printed": "444",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 467
+},
+{
+"scan": 466,
+"label": "445",
+"printed": "445",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 468
+},
+{
+"scan": 467,
+"label": "446",
+"printed": "446",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 469
+},
+{
+"scan": 468,
+"label": "447",
+"printed": "447",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 470
+},
+{
+"scan": 469,
+"label": "448",
+"printed": "448",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 471
+},
+{
+"scan": 470,
+"label": "449",
+"printed": "449",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 472
+},
+{
+"scan": 471,
+"label": "450",
+"printed": "450",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 473
+},
+{
+"scan": 472,
+"label": "451",
+"printed": "451",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 474
+},
+{
+"scan": 473,
+"label": "452",
+"printed": "452",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 475
+},
+{
+"scan": 474,
+"label": "453",
+"printed": "453",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 476
+},
+{
+"scan": 475,
+"label": "454",
+"printed": "454",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 477
+},
+{
+"scan": 476,
+"label": "455",
+"printed": "455",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 478
+},
+{
+"scan": 477,
+"label": "456",
+"printed": "456",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 479
+},
+{
+"scan": 478,
+"label": "457",
+"printed": "457",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 480
+},
+{
+"scan": 479,
+"label": "458",
+"printed": "458",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 481
+},
+{
+"scan": 480,
+"label": "459",
+"printed": "459",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 482
+},
+{
+"scan": 481,
+"label": "460",
+"printed": "460",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 483
+},
+{
+"scan": 482,
+"label": "461",
+"printed": "461",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 484
+},
+{
+"scan": 483,
+"label": "462",
+"printed": "462",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 485
+},
+{
+"scan": 484,
+"label": "463",
+"printed": "463",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 486
+},
+{
+"scan": 485,
+"label": "464",
+"printed": "464",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 487
+},
+{
+"scan": 486,
+"label": "465",
+"printed": "465",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 488
+},
+{
+"scan": 487,
+"label": "466",
+"printed": "466",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 489
+},
+{
+"scan": 488,
+"label": "467",
+"printed": "467",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 490
+},
+{
+"scan": 489,
+"label": "468",
+"printed": "468",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 491
+},
+{
+"scan": 490,
+"label": "469",
+"printed": "469",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 492
+},
+{
+"scan": 491,
+"label": "470",
+"printed": "470",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 493
+},
+{
+"scan": 492,
+"label": "471",
+"printed": "471",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 494
+},
+{
+"scan": 493,
+"label": "472",
+"printed": "472",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 495
+},
+{
+"scan": 494,
+"label": "473",
+"printed": "473",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 496
+},
+{
+"scan": 495,
+"label": "474",
+"printed": "474",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 497
+},
+{
+"scan": 496,
+"label": "475",
+"printed": "475",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 498
+},
+{
+"scan": 497,
+"label": "476",
+"printed": "476",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 499
+},
+{
+"scan": 498,
+"label": "477",
+"printed": "477",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 500
+},
+{
+"scan": 499,
+"label": "478",
+"printed": "478",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 501
+},
+{
+"scan": 500,
+"label": "479",
+"printed": "479",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 502
+},
+{
+"scan": 501,
+"label": "480",
+"printed": "480",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 503
+},
+{
+"scan": 502,
+"label": "481",
+"printed": "481",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 504
+},
+{
+"scan": 503,
+"label": "482",
+"printed": "482",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 505
+},
+{
+"scan": 504,
+"label": "483",
+"printed": "483",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 506
+},
+{
+"scan": 505,
+"label": "484",
+"printed": "484",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 507
+},
+{
+"scan": 506,
+"label": "485",
+"printed": "485",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 508
+},
+{
+"scan": 507,
+"label": "486",
+"printed": "486",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 509
+},
+{
+"scan": 508,
+"label": "487",
+"printed": "487",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 510
+},
+{
+"scan": 509,
+"label": "488",
+"printed": "488",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 511
+},
+{
+"scan": 510,
+"label": "489",
+"printed": "489",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 512
+},
+{
+"scan": 511,
+"label": "490",
+"printed": "490",
+"head": "ICONOLOGIA",
+"flag": "uncertain",
+"kind": "text",
+"src": "H",
+"ia_leaf": 513
+},
+{
+"scan": 512,
+"label": "491",
+"printed": "491",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 514
+},
+{
+"scan": 513,
+"label": "492",
+"printed": "492",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 515
+},
+{
+"scan": 514,
+"label": "493",
+"printed": "493",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 516
+},
+{
+"scan": 515,
+"label": "494",
+"printed": "494",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 517
+},
+{
+"scan": 516,
+"label": "495",
+"printed": "495",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 518
+},
+{
+"scan": 517,
+"label": "496",
+"printed": "496",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 519
+},
+{
+"scan": 518,
+"label": "497",
+"printed": "497",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 520
+},
+{
+"scan": 519,
+"label": "498",
+"printed": "498",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 521
+},
+{
+"scan": 520,
+"label": "499",
+"printed": "499",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 522
+},
+{
+"scan": 521,
+"label": "500",
+"printed": "500",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 523
+},
+{
+"scan": 522,
+"label": "501",
+"printed": "501",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 524
+},
+{
+"scan": 523,
+"label": "502",
+"printed": "502",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 525
+},
+{
+"scan": 524,
+"label": "503",
+"printed": "503",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 526
+},
+{
+"scan": 525,
+"label": "504",
+"printed": "504",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 527
+},
+{
+"scan": 526,
+"label": "505",
+"printed": "505",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 528
+},
+{
+"scan": 527,
+"label": "506",
+"printed": "506",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 529
+},
+{
+"scan": 528,
+"label": "507",
+"printed": "507",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 530
+},
+{
+"scan": 529,
+"label": "508",
+"printed": "508",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 531
+},
+{
+"scan": 530,
+"label": "509",
+"printed": "509",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 532
+},
+{
+"scan": 531,
+"label": "510",
+"printed": "510",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 533
+},
+{
+"scan": 532,
+"label": "511",
+"printed": "511",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 534
+},
+{
+"scan": 533,
+"label": "512",
+"printed": "512",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 535
+},
+{
+"scan": 534,
+"label": "513",
+"printed": "513",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 536
+},
+{
+"scan": 535,
+"label": "514",
+"printed": "514",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 537
+},
+{
+"scan": 536,
+"label": "515",
+"printed": "515",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 538
+},
+{
+"scan": 537,
+"label": "516",
+"printed": "516",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 539
+},
+{
+"scan": 538,
+"label": "517",
+"printed": "517",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 540
+},
+{
+"scan": 539,
+"label": "518",
+"printed": "518",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 541
+},
+{
+"scan": 540,
+"label": "519",
+"printed": "519",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 542
+},
+{
+"scan": 541,
+"label": "520",
+"printed": "520",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 543
+},
+{
+"scan": 542,
+"label": "521",
+"printed": "521",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 544
+},
+{
+"scan": 543,
+"label": "522",
+"printed": "522",
+"head": "ICONOLOGIA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 545
+},
+{
+"scan": 544,
+"label": "523",
+"printed": "523",
+"head": "DI CESARE RIPA",
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 546
+},
+{
+"scan": 545,
+"label": "524",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "text",
+"src": "H",
+"ia_leaf": 547
+},
+{
+"scan": 546,
+"label": "525",
+"printed": null,
+"head": "ERRORI COMMESSI NELL'INTAGLIO",
+"flag": "",
+"kind": "errata",
+"src": "H",
+"ia_leaf": 548
+},
+{
+"scan": 547,
+"label": "526",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "errata",
+"src": "H",
+"ia_leaf": 549
+},
+{
+"scan": 548,
+"label": "527",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "errata",
+"src": "H",
+"ia_leaf": 550
+},
+{
+"scan": 549,
+"label": "528",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "blank",
+"src": "H",
+"ia_leaf": 551
+},
+{
+"scan": 550,
+"label": "529",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "blank",
+"src": "H",
+"ia_leaf": 552
+},
+{
+"scan": 551,
+"label": "530",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "blank",
+"src": "H",
+"ia_leaf": 553
+},
+{
+"scan": 552,
+"label": "531",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "blank",
+"src": "H",
+"ia_leaf": 554
+},
+{
+"scan": 553,
+"label": "532",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "blank",
+"src": "H",
+"ia_leaf": 555
+},
+{
+"scan": 554,
+"label": "533",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "blank",
+"src": "H",
+"ia_leaf": 554
+},
+{
+"scan": 555,
+"label": "534",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "blank",
+"src": "H",
+"ia_leaf": 555
+},
+{
+"scan": 556,
+"label": "535",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "blank",
+"src": "H",
+"ia_leaf": 558
+},
+{
+"scan": 557,
+"label": "536",
+"printed": null,
+"head": null,
+"flag": "",
+"kind": "cover",
+"src": "H",
+"ia_leaf": 559
+}
+]
