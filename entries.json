@@ -4199,7 +4199,9 @@
    "img_candidates": [
     219
    ],
-   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна",
+   "title_printed": "Giustitia retta, che non si pieghi per amicitia, né per odio.",
+   "text_scan": 210
   },
   {
    "id": "r273",
@@ -4215,7 +4217,9 @@
    "img_candidates": [
     219
    ],
-   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна",
+   "title_printed": "Giustitia rigorosa.",
+   "text_scan": 210
   },
   {
    "id": "r274",
@@ -4231,7 +4235,9 @@
    "img_candidates": [
     219
    ],
-   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна",
+   "title_printed": "GLORIA DE' PRINCIPI.",
+   "text_scan": 210
   },
   {
    "id": "r275",
@@ -4245,7 +4251,9 @@
    "page": 192,
    "scan": 213,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Gloria.",
+   "text_scan": 214
   },
   {
    "id": "r276",
@@ -4258,7 +4266,9 @@
    "page": 193,
    "scan": 214,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Gloria,& Honore.",
+   "text_scan": 214
   },
   {
    "id": "r277",
@@ -4271,7 +4281,9 @@
    "page": 193,
    "scan": 214,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GOLA.",
+   "text_scan": 214
   },
   {
    "id": "r278",
@@ -4284,7 +4296,9 @@
    "page": 194,
    "scan": 215,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GOVERNO DELLA REPVBLICA.",
+   "text_scan": 215
   },
   {
    "id": "r279",
@@ -4297,7 +4311,9 @@
    "page": 194,
    "scan": 215,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GOVERNO DELLA REPVBLICA.",
+   "text_scan": 215
   },
   {
    "id": "r280",
@@ -4310,7 +4326,9 @@
    "page": 194,
    "scan": 215,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GVARDIA.",
+   "text_scan": 215
   },
   {
    "id": "r281",
@@ -4323,7 +4341,9 @@
    "page": 195,
    "scan": 216,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GRATIA.",
+   "text_scan": 216
   },
   {
    "id": "r282",
@@ -4336,7 +4356,9 @@
    "page": 195,
    "scan": 216,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GRATIA DIVINA.",
+   "text_scan": 216
   },
   {
    "id": "r283",
@@ -4349,7 +4371,9 @@
    "page": 195,
    "scan": 216,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GRATIA DI DIO.",
+   "text_scan": 216
   },
   {
    "id": "r284",
@@ -4362,7 +4386,9 @@
    "page": 196,
    "scan": 217,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GRATIE.",
+   "text_scan": 217
   },
   {
    "id": "r285",
@@ -4375,7 +4401,9 @@
    "page": 196,
    "scan": 217,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GRATITVDINE.",
+   "text_scan": 217
   },
   {
    "id": "r286",
@@ -4388,7 +4416,9 @@
    "page": 196,
    "scan": 217,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GRAVITA.",
+   "text_scan": 217
   },
   {
    "id": "r287",
@@ -4401,7 +4431,9 @@
    "page": 196,
    "scan": 217,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Grauità nell'huomo .",
+   "text_scan": 217
   },
   {
    "id": "r288",
@@ -4414,7 +4446,9 @@
    "page": 197,
    "scan": 218,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Grauità dell'oratione .",
+   "text_scan": 218
   },
   {
    "id": "r289",
@@ -4427,7 +4461,9 @@
    "page": 197,
    "scan": 218,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GVERRA.",
+   "text_scan": 220
   },
   {
    "id": "r290",
@@ -4443,7 +4479,13 @@
    "img_candidates": [
     219
    ],
-   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 4 статей — привязка к статье неоднозначна",
+   "title_printed": "GRASSEZZA.",
+   "text_scan": 219,
+   "img": [
+    "0219_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r291",
@@ -4456,7 +4498,9 @@
    "page": 199,
    "scan": 220,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GVIDA SICVRA de veri honori.",
+   "text_scan": 220
   },
   {
    "id": "r292",
@@ -4469,7 +4513,13 @@
    "page": 199,
    "scan": 220,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HIPPOCRESIA.",
+   "text_scan": 221,
+   "img": [
+    "0221_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r293",
@@ -4482,7 +4532,13 @@
    "page": 200,
    "scan": 221,
    "has_img": true,
-   "img_scan": 221
+   "img_scan": 221,
+   "title_printed": "HIPPOCRESIA.",
+   "text_scan": 221,
+   "img": [
+    "0221_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r294",
@@ -4495,7 +4551,9 @@
    "page": 201,
    "scan": 222,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HOMICIDIO.",
+   "text_scan": 222
   },
   {
    "id": "r295",
@@ -4508,7 +4566,9 @@
    "page": 202,
    "scan": 223,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HONESTA.",
+   "text_scan": 223
   },
   {
    "id": "r296",
@@ -4522,7 +4582,9 @@
    "page": 202,
    "scan": 223,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HONORE.",
+   "text_scan": 223
   },
   {
    "id": "r297",
@@ -4535,7 +4597,9 @@
    "page": 203,
    "scan": 224,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "HORE DEL GIORNO.",
+   "text_scan": 224
   },
   {
    "id": "r298",
