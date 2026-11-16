@@ -789,7 +789,9 @@
    "page": 45,
    "scan": 70,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "BONTA.",
+   "text_scan": 70
   },
   {
    "id": "r54",
@@ -802,7 +804,9 @@
    "page": 46,
    "scan": 71,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "BVGIA.",
+   "text_scan": 71
   },
   {
    "id": "r55",
@@ -815,7 +819,9 @@
    "page": 46,
    "scan": 71,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "BVIO.",
+   "text_scan": 71
   },
   {
    "id": "r56",
@@ -828,7 +834,9 @@
    "page": 47,
    "scan": 72,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CALAMITA.",
+   "text_scan": 72
   },
   {
    "id": "r57",
@@ -841,7 +849,9 @@
    "page": 47,
    "scan": 72,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CALAMITA.",
+   "text_scan": 72
   },
   {
    "id": "r58",
@@ -854,7 +864,13 @@
    "page": 48,
    "scan": 73,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CAPRICCIO.",
+   "text_scan": 74,
+   "img": [
+    "0074_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r59",
@@ -867,7 +883,9 @@
    "page": 48,
    "scan": 73,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CAPRICCIO.",
+   "text_scan": 73
   },
   {
    "id": "r60",
@@ -880,7 +898,9 @@
    "page": 48,
    "scan": 73,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELLA LVNA",
+   "text_scan": 73
   },
   {
    "id": "r61",
@@ -893,7 +913,9 @@
    "page": 50,
    "scan": 75,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DI MERCVRIO.",
+   "text_scan": 75
   },
   {
    "id": "r62",
@@ -906,7 +928,9 @@
    "page": 51,
    "scan": 76,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DI VENERE.",
+   "text_scan": 76
   },
   {
    "id": "r63",
@@ -919,7 +943,9 @@
    "page": 51,
    "scan": 76,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DEL SOLE.",
+   "text_scan": 76
   },
   {
    "id": "r64",
@@ -932,7 +958,9 @@
    "page": 52,
    "scan": 77,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DI MARTE.",
+   "text_scan": 77
   },
   {
    "id": "r65",
@@ -945,7 +973,9 @@
    "page": 53,
    "scan": 78,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DI GIOVE.",
+   "text_scan": 78
   },
   {
    "id": "r66",
@@ -958,7 +988,9 @@
    "page": 53,
    "scan": 78,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DI SATVRNO",
+   "text_scan": 78
   },
   {
    "id": "r67",
@@ -971,7 +1003,9 @@
    "page": 54,
    "scan": 79,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DI MINERVA.",
+   "text_scan": 79
   },
   {
    "id": "r68",
@@ -984,7 +1018,9 @@
    "page": 55,
    "scan": 80,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DI PLVTONE.",
+   "text_scan": 80
   },
   {
    "id": "r69",
@@ -997,7 +1033,9 @@
    "page": 56,
    "scan": 81,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRI DE I QVATTRO ELEMENTI",
+   "text_scan": 81
   },
   {
    "id": "r70",
@@ -1023,7 +1061,9 @@
    "page": 57,
    "scan": 82,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELL' ARIA.",
+   "text_scan": 82
   },
   {
    "id": "r72",
@@ -1036,7 +1076,9 @@
    "page": 57,
    "scan": 82,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELL' ACQVA.",
+   "text_scan": 82
   },
   {
    "id": "r73",
@@ -1049,7 +1091,9 @@
    "page": 58,
    "scan": 83,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Carro della Terra.",
+   "text_scan": 83
   },
   {
    "id": "r74",
@@ -1062,7 +1106,9 @@
    "page": 59,
    "scan": 84,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELLA NOTTE.",
+   "text_scan": 84
   },
   {
    "id": "r75",
@@ -1075,7 +1121,9 @@
    "page": 59,
    "scan": 84,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DI BACCO.",
+   "text_scan": 84
   },
   {
    "id": "r76",
@@ -1088,7 +1136,9 @@
    "page": 60,
    "scan": 85,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELL' AVRORA.",
+   "text_scan": 85
   },
   {
    "id": "r77",
@@ -1101,7 +1151,9 @@
    "page": 60,
    "scan": 85,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DEL GIORNO NATVRALE",
+   "text_scan": 85
   },
   {
    "id": "r78",
@@ -1114,7 +1166,9 @@
    "page": 61,
    "scan": 86,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DEL GIORNO ARTIFITIALE",
+   "text_scan": 86
   },
   {
    "id": "r79",
@@ -1127,7 +1181,9 @@
    "page": 61,
    "scan": 86,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELL' ANNO.",
+   "text_scan": 86
   },
   {
    "id": "r80",
@@ -1140,7 +1196,9 @@
    "page": 61,
    "scan": 86,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DI CERERE",
+   "text_scan": 86
   },
   {
    "id": "r81",
@@ -1153,7 +1211,9 @@
    "page": 61,
    "scan": 86,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELL' OCEANO.",
+   "text_scan": 86
   },
   {
    "id": "r82",
@@ -1166,7 +1226,9 @@
    "page": 62,
    "scan": 87,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO D' AMORE.",
+   "text_scan": 87
   },
   {
    "id": "r83",
@@ -1179,7 +1241,9 @@
    "page": 62,
    "scan": 87,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELLA CASTITA.",
+   "text_scan": 87
   },
   {
    "id": "r84",
@@ -1192,7 +1256,9 @@
    "page": 62,
    "scan": 87,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELLA MORTE.",
+   "text_scan": 87
   },
   {
    "id": "r85",
@@ -1205,7 +1271,9 @@
    "page": 62,
    "scan": 87,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELLA FAMA.",
+   "text_scan": 87
   },
   {
    "id": "r86",
@@ -1218,7 +1286,9 @@
    "page": 62,
    "scan": 87,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DEL TEMPO.",
+   "text_scan": 87
   },
   {
    "id": "r87",
@@ -1231,7 +1301,9 @@
    "page": 62,
    "scan": 87,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARRO DELLA DIVINITA.",
+   "text_scan": 87
   },
   {
    "id": "r88",
@@ -1244,7 +1316,9 @@
    "page": 63,
    "scan": 88,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARESTIA.",
+   "text_scan": 88
   },
   {
    "id": "r89",
@@ -1258,7 +1332,9 @@
    "page": 63,
    "scan": 88,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CARITA.",
+   "text_scan": 88
   },
   {
    "id": "r90",
@@ -2306,7 +2382,9 @@
    "img_candidates": [
     140
    ],
-   "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 3 статей — привязка к статье неоднозначна",
+   "title_printed": "FVOCO.",
+   "text_scan": 81
   },
   {
    "id": "r168",
