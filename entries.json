@@ -2981,7 +2981,9 @@
    "page": 144,
    "scan": 165,
    "has_img": true,
-   "img_scan": 165
+   "img_scan": 165,
+   "title_printed": "Fame.",
+   "text_scan": 165
   },
   {
    "id": "r193",
@@ -3080,7 +3082,9 @@
    "page": 149,
    "scan": 170,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FEDE CHRISTIANA.",
+   "text_scan": 170
   },
   {
    "id": "r200",
@@ -3094,7 +3098,9 @@
    "page": 149,
    "scan": 170,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Fede Cattolica .",
+   "text_scan": 171
   },
   {
    "id": "r201",
@@ -3107,7 +3113,9 @@
    "page": 152,
    "scan": 173,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FEDE NELL' AMICITIA.",
+   "text_scan": 173
   },
   {
    "id": "r202",
@@ -3120,7 +3128,9 @@
    "page": 152,
    "scan": 173,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FEDE MARITALE.",
+   "text_scan": 173
   },
   {
    "id": "r203",
@@ -3134,7 +3144,9 @@
    "page": 152,
    "scan": 173,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Fedeltà .",
+   "text_scan": 175
   },
   {
    "id": "r204",
@@ -3160,7 +3172,9 @@
    "page": 154,
    "scan": 175,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FELICITA ETERNA.",
+   "text_scan": 175
   },
   {
    "id": "r206",
@@ -3173,7 +3187,9 @@
    "page": 155,
    "scan": 176,
    "has_img": true,
-   "img_scan": 176
+   "img_scan": 176,
+   "title_printed": "FELICITA BREVE.",
+   "text_scan": 176
   },
   {
    "id": "r207",
@@ -3186,7 +3202,9 @@
    "page": 156,
    "scan": 177,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FERMEZZA.",
+   "text_scan": 177
   },
   {
    "id": "r208",
@@ -3212,7 +3230,9 @@
    "page": 156,
    "scan": 177,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FERMEZZA D' AMORE.",
+   "text_scan": 177
   },
   {
    "id": "r210",
@@ -3225,7 +3245,9 @@
    "page": 156,
    "scan": 177,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FIVMI.",
+   "text_scan": 177
   },
   {
    "id": "r211",
@@ -3239,7 +3261,9 @@
    "page": 156,
    "scan": 177,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TEVERE.",
+   "text_scan": 177
   },
   {
    "id": "r212",
@@ -3252,7 +3276,9 @@
    "page": 158,
    "scan": 179,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ARNO.",
+   "text_scan": 179
   },
   {
    "id": "r213",
@@ -3265,7 +3291,9 @@
    "page": 158,
    "scan": 179,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PO.",
+   "text_scan": 179
   },
   {
    "id": "r214",
@@ -3278,7 +3306,9 @@
    "page": 159,
    "scan": 180,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ADIGE.",
+   "text_scan": 180
   },
   {
    "id": "r215",
@@ -3291,7 +3321,9 @@
    "page": 160,
    "scan": 181,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "NILO.",
+   "text_scan": 181
   },
   {
    "id": "r216",
@@ -3304,7 +3336,9 @@
    "page": 160,
    "scan": 181,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TIGRE.",
+   "text_scan": 181
   },
   {
    "id": "r217",
@@ -3317,7 +3351,9 @@
    "page": 160,
    "scan": 181,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DANVBIO.",
+   "text_scan": 181
   },
   {
    "id": "r218",
@@ -3330,7 +3366,9 @@
    "page": 161,
    "scan": 182,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ACHEOLO.",
+   "text_scan": 182
   },
   {
    "id": "r219",
@@ -3343,7 +3381,9 @@
    "page": 161,
    "scan": 182,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ACI.",
+   "text_scan": 182
   },
   {
    "id": "r220",
@@ -3408,7 +3448,9 @@
    "page": 162,
    "scan": 183,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INDO.",
+   "text_scan": 183
   },
   {
    "id": "r225",
@@ -3421,7 +3463,9 @@
    "page": 162,
    "scan": 183,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GANGE.",
+   "text_scan": 183
   },
   {
    "id": "r226",
@@ -3434,7 +3478,9 @@
    "page": 162,
    "scan": 183,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "NIGER.",
+   "text_scan": 183
   },
   {
    "id": "r227",
@@ -3448,7 +3494,13 @@
    "page": 162,
    "scan": 183,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "FILOSOFIA.",
+   "text_scan": 185,
+   "img": [
+    "0185_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r228",
@@ -3461,7 +3513,13 @@
    "page": 165,
    "scan": 186,
    "has_img": true,
-   "img_scan": 186
+   "img_scan": 186,
+   "title_printed": "FLAGELLO DI DIO.",
+   "text_scan": 186,
+   "img": [
+    "0186_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r229",
@@ -3475,7 +3533,13 @@
    "page": 166,
    "scan": null,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Fortezza.",
+   "text_scan": 189,
+   "img": [
+    "0188_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r230",
@@ -3488,7 +3552,9 @@
    "page": 168,
    "scan": 189,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Fortezza d'animo , & di corpo .",
+   "text_scan": 189
   },
   {
    "id": "r231",
