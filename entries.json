@@ -5416,7 +5416,13 @@
    "page": 249,
    "scan": 270,
    "has_img": true,
-   "img_scan": 270
+   "img_scan": 270,
+   "title_printed": "LIGVRIA.",
+   "text_scan": 270,
+   "img": [
+    "0270_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r349",
@@ -5429,7 +5435,13 @@
    "page": 252,
    "scan": 273,
    "has_img": true,
-   "img_scan": 273
+   "img_scan": 273,
+   "title_printed": "TOSCANA.",
+   "text_scan": 273,
+   "img": [
+    "0273_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r350",
@@ -5442,7 +5454,13 @@
    "page": 255,
    "scan": 276,
    "has_img": true,
-   "img_scan": 276
+   "img_scan": 276,
+   "title_printed": "VMBRIA.",
+   "text_scan": 276,
+   "img": [
+    "0276_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r351",
@@ -5455,7 +5473,13 @@
    "page": 259,
    "scan": 280,
    "has_img": true,
-   "img_scan": 280
+   "img_scan": 280,
+   "title_printed": "LATIO.",
+   "text_scan": 280,
+   "img": [
+    "0280_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r352",
@@ -5469,7 +5493,13 @@
    "page": 261,
    "scan": 282,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CAMPAGNA FELICE, OVERO TERRA DI LAVORO.",
+   "text_scan": 283,
+   "img": [
+    "0283_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r353",
@@ -5482,7 +5512,13 @@
    "page": 263,
    "scan": 284,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CALABRIA.",
+   "text_scan": 285,
+   "img": [
+    "0285_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r354",
@@ -5495,7 +5531,9 @@
    "page": 265,
    "scan": 286,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PVGLIA.",
+   "text_scan": 286
   },
   {
    "id": "r355",
@@ -5508,7 +5546,13 @@
    "page": 267,
    "scan": 288,
    "has_img": true,
-   "img_scan": 288
+   "img_scan": 288,
+   "title_printed": "ABRVZZO",
+   "text_scan": 288,
+   "img": [
+    "0288_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r356",
