@@ -10188,8 +10188,12 @@
    "scan": 529,
    "has_img": null,
    "img_scan": null,
-   "title_printed": "VIRTV'",
-   "text_scan": 529
+   "title_printed": "VIRTV'.",
+   "text_scan": 532,
+   "img": [
+    "0532_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r647",
@@ -10215,7 +10219,9 @@
    "page": 512,
    "scan": 533,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VITA.",
+   "text_scan": 533
   },
   {
    "id": "r649",
@@ -10228,7 +10234,9 @@
    "page": 513,
    "scan": 534,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VITA ATTIVA.",
+   "text_scan": 534
   },
   {
    "id": "r650",
@@ -10242,7 +10250,9 @@
    "page": 513,
    "scan": 534,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VITA CONTEMPLATIVA.",
+   "text_scan": 535
   },
   {
    "id": "r651",
@@ -10255,7 +10265,9 @@
    "page": 514,
    "scan": 535,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VITA HVMANA.",
+   "text_scan": 535
   },
   {
    "id": "r652",
@@ -10268,7 +10280,9 @@
    "page": 514,
    "scan": 535,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VITA INQVIETA.",
+   "text_scan": 535
   },
   {
    "id": "r653",
@@ -10284,7 +10298,13 @@
    "img_candidates": [
     536
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "VITIO.",
+   "text_scan": 536,
+   "img": [
+    "0536_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r654",
@@ -10303,7 +10323,9 @@
    "img_candidates": [
     536
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "VITTORIA.",
+   "text_scan": 539
   },
   {
    "id": "r655",
@@ -10317,7 +10339,9 @@
    "page": 516,
    "scan": 537,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VITTORIA NAVALE",
+   "text_scan": 538
   },
   {
    "id": "r656",
@@ -10332,7 +10356,13 @@
    "page": 518,
    "scan": 539,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VOLONTA'",
+   "text_scan": 540,
+   "img": [
+    "0540_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r657",
@@ -10358,7 +10388,9 @@
    "page": 520,
    "scan": 541,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VORACITA'",
+   "text_scan": 541
   },
   {
    "id": "r659",
@@ -10371,7 +10403,9 @@
    "page": 521,
    "scan": 542,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VSANZA.",
+   "text_scan": 542
   },
   {
    "id": "r660",
@@ -10384,7 +10418,9 @@
    "page": 521,
    "scan": 542,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VSVRA.",
+   "text_scan": 542
   },
   {
    "id": "r661",
@@ -10397,7 +10433,9 @@
    "page": 521,
    "scan": 542,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VTILITA'",
+   "text_scan": 542
   },
   {
    "id": "r662",
@@ -10410,7 +10448,13 @@
    "page": 522,
    "scan": 543,
    "has_img": true,
-   "img_scan": 543
+   "img_scan": 543,
+   "title_printed": "ZELO.",
+   "text_scan": 543,
+   "img": [
+    "0543_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   }
  ]
 }
