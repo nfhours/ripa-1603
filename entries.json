@@ -1788,7 +1788,9 @@
    "page": 85,
    "scan": 110,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONSIDERATIONE.",
+   "text_scan": 110
   },
   {
    "id": "r119",
@@ -1801,7 +1803,9 @@
    "page": 85,
    "scan": 110,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONSIGLIO.",
+   "text_scan": 110
   },
   {
    "id": "r120",
@@ -1814,7 +1818,9 @@
    "page": 86,
    "scan": 111,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "COSTANZA.",
+   "text_scan": 111
   },
   {
    "id": "r121",
@@ -1827,7 +1833,9 @@
    "page": 86,
    "scan": 111,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Costanza, & Intrepidità.",
+   "text_scan": 111
   },
   {
    "id": "r122",
@@ -1840,7 +1848,9 @@
    "page": 86,
    "scan": 111,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONSVETVDINE.",
+   "text_scan": 111
   },
   {
    "id": "r123",
@@ -1853,7 +1863,9 @@
    "page": 87,
    "scan": 112,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONTENTO.",
+   "text_scan": 112
   },
   {
    "id": "r124",
@@ -1866,7 +1878,9 @@
    "page": 87,
    "scan": 112,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Contento Amoroso.",
+   "text_scan": 112
   },
   {
    "id": "r125",
@@ -1880,7 +1894,13 @@
    "page": 88,
    "scan": 113,
    "has_img": true,
-   "img_scan": 113
+   "img_scan": 113,
+   "title_printed": "Contrasto.",
+   "text_scan": 114,
+   "img": [
+    "0113_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r126",
@@ -1893,7 +1913,9 @@
    "page": 89,
    "scan": 114,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Contrasto.",
+   "text_scan": 114
   },
   {
    "id": "r127",
@@ -1906,7 +1928,9 @@
    "page": 90,
    "scan": 115,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONTINENZA.",
+   "text_scan": 115
   },
   {
    "id": "r128",
@@ -1919,7 +1943,9 @@
    "page": 90,
    "scan": 115,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONTINENZA MILITARE",
+   "text_scan": 115
   },
   {
    "id": "r129",
@@ -1932,7 +1958,9 @@
    "page": 90,
    "scan": 115,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CONVITO.",
+   "text_scan": 115
   },
   {
    "id": "r130",
@@ -1945,7 +1973,9 @@
    "page": 90,
    "scan": 115,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CORDOGLIO.",
+   "text_scan": 115
   },
   {
    "id": "r131",
@@ -1959,7 +1989,13 @@
    "page": 91,
    "scan": 116,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CORRETTIONE.",
+   "text_scan": 117,
+   "img": [
+    "0117_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r132",
@@ -1972,7 +2008,9 @@
    "page": 91,
    "scan": 116,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CORPO HVMANO.",
+   "text_scan": 116
   },
   {
    "id": "r133",
@@ -1985,7 +2023,9 @@
    "page": 93,
    "scan": 118,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CORRVTTELA NE GIVDICI.",
+   "text_scan": 118
   },
   {
    "id": "r134",
@@ -1998,7 +2038,9 @@
    "page": 93,
    "scan": 118,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CORTE.",
+   "text_scan": 118
   },
   {
    "id": "r135",
@@ -2011,7 +2053,9 @@
    "page": 95,
    "scan": 120,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CORTESIA.",
+   "text_scan": 120
   },
   {
    "id": "r136",
@@ -2024,7 +2068,13 @@
    "page": 95,
    "scan": 120,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CREPVSCVLO DELLA MATTINA.",
+   "text_scan": 121,
+   "img": [
+    "0121_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r137",
@@ -2037,7 +2087,13 @@
    "page": 97,
    "scan": 122,
    "has_img": true,
-   "img_scan": 122
+   "img_scan": 122,
+   "title_printed": "CREPVSCVLO DELLA SERA.",
+   "text_scan": 122,
+   "img": [
+    "0122_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r138",
@@ -2050,7 +2106,9 @@
    "page": 98,
    "scan": 123,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CRAPVLA.",
+   "text_scan": 123
   },
   {
    "id": "r139",
@@ -2063,7 +2121,9 @@
    "page": 99,
    "scan": 124,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CRVDELTA.",
+   "text_scan": 124
   },
   {
    "id": "r140",
@@ -2076,7 +2136,9 @@
    "page": 99,
    "scan": 124,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CVPIDITA.",
+   "text_scan": 124
   },
   {
    "id": "r141",
@@ -2089,7 +2151,9 @@
    "page": 99,
    "scan": 124,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CVRIOSITA.",
+   "text_scan": 124
   },
   {
    "id": "r142",
@@ -2102,7 +2166,9 @@
    "page": 100,
    "scan": 125,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "CVSTODIA.",
+   "text_scan": 125
   },
   {
    "id": "r143",
@@ -2115,7 +2181,9 @@
    "page": 100,
    "scan": 125,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DAPOCAGGINE.",
+   "text_scan": 125
   },
   {
    "id": "r144",
@@ -2128,7 +2196,9 @@
    "page": 101,
    "scan": 126,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DERISIONE.",
+   "text_scan": 126
   },
   {
    "id": "r145",
@@ -2141,7 +2211,13 @@
    "page": 101,
    "scan": 126,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DESIDERIO VERS'IDDIO.",
+   "text_scan": 127,
+   "img": [
+    "0127_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r146",
@@ -2154,7 +2230,9 @@
    "page": 101,
    "scan": 126,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DESIDERIO.",
+   "text_scan": 126
   },
   {
    "id": "r147",
@@ -2167,7 +2245,9 @@
    "page": 103,
    "scan": 128,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DETRATTIONE.",
+   "text_scan": 128
   },
   {
    "id": "r148",
@@ -2180,7 +2260,9 @@
    "page": 103,
    "scan": 128,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DIVOTIONE.",
+   "text_scan": 128
   },
   {
    "id": "r149",
@@ -2193,7 +2275,9 @@
    "page": 103,
    "scan": 128,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DETRATTIONE.",
+   "text_scan": 128
   },
   {
    "id": "r150",
@@ -2206,7 +2290,9 @@
    "page": 104,
    "scan": 129,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DIGNITA.",
+   "text_scan": 129
   },
   {
    "id": "r151",
@@ -2219,7 +2305,9 @@
    "page": 104,
    "scan": 129,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DILIGENZA.",
+   "text_scan": 129
   },
   {
    "id": "r152",
@@ -2233,7 +2321,9 @@
    "page": 104,
    "scan": 129,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "DISCORDIA.",
+   "text_scan": 129
   },
   {
    "id": "r153",
