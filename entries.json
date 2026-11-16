@@ -5565,7 +5565,13 @@
    "page": 269,
    "scan": 290,
    "has_img": true,
-   "img_scan": 290
+   "img_scan": 290,
+   "title_printed": "MARCA.",
+   "text_scan": 290,
+   "img": [
+    "0290_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r357",
@@ -5578,7 +5584,13 @@
    "page": 270,
    "scan": 291,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ROMAGNA.",
+   "text_scan": 292,
+   "img": [
+    "0292_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r358",
@@ -5591,7 +5603,13 @@
    "page": 273,
    "scan": 294,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "LOMBARDIA.",
+   "text_scan": 295,
+   "img": [
+    "0295_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r359",
@@ -5604,7 +5622,13 @@
    "page": 276,
    "scan": 297,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MARCA TRIVISANA.",
+   "text_scan": 298,
+   "img": [
+    "0298_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r360",
@@ -5643,7 +5667,9 @@
    "page": 248,
    "scan": 269,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SARDEGNA.",
+   "text_scan": 305
   },
   {
    "id": "r363",
@@ -5656,7 +5682,9 @@
    "page": 286,
    "scan": 307,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SICILIA.",
+   "text_scan": 307
   },
   {
    "id": "r364",
