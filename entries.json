@@ -7887,8 +7887,12 @@
    "scan": 429,
    "has_img": null,
    "img_scan": null,
-   "title_printed": "Pouertà.",
-   "text_scan": 429
+   "title_printed": "POVERTA'",
+   "text_scan": 431,
+   "img": [
+    "0431_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r503",
@@ -7917,7 +7921,9 @@
    "img_candidates": [
     431
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "POVERTA' DI SPIRITO.",
+   "text_scan": 431
   },
   {
    "id": "r505",
@@ -7933,7 +7939,9 @@
    "img_candidates": [
     431
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "PERDONO.",
+   "text_scan": 431
   },
   {
    "id": "r506",
@@ -7946,7 +7954,9 @@
    "page": 411,
    "scan": 432,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "POLITICA.",
+   "text_scan": 432
   },
   {
    "id": "r507",
@@ -7959,7 +7969,9 @@
    "page": 411,
    "scan": 432,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PREGHIERE.",
+   "text_scan": 432
   },
   {
    "id": "r508",
@@ -7972,7 +7984,9 @@
    "page": 411,
    "scan": 432,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PREGHIERA A DIO.",
+   "text_scan": 432
   },
   {
    "id": "r509",
@@ -7985,7 +7999,13 @@
    "page": 411,
    "scan": 432,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PREMIO.",
+   "text_scan": 433,
+   "img": [
+    "0433_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r510",
@@ -7998,7 +8018,9 @@
    "page": 412,
    "scan": 433,
    "has_img": true,
-   "img_scan": 433
+   "img_scan": 433,
+   "title_printed": "PREVIDENZA.",
+   "text_scan": 433
   },
   {
    "id": "r511",
@@ -8012,7 +8034,13 @@
    "page": 413,
    "scan": 434,
    "has_img": true,
-   "img_scan": 434
+   "img_scan": 434,
+   "title_printed": "PRODIGALITA'.",
+   "text_scan": 434,
+   "img": [
+    "0434_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r512",
@@ -8025,7 +8053,9 @@
    "page": 414,
    "scan": 435,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PROMISSIONE.",
+   "text_scan": 435
   },
   {
    "id": "r513",
@@ -8038,7 +8068,9 @@
    "page": 414,
    "scan": 435,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PRONTEZZA.",
+   "text_scan": 435
   },
   {
    "id": "r514",
@@ -8051,7 +8083,9 @@
    "page": 414,
    "scan": 435,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PROVIDENZA DELL' ANNONA",
+   "text_scan": 435
   },
   {
    "id": "r515",
@@ -8064,7 +8098,9 @@
    "page": 415,
    "scan": 436,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PROVIDENZA",
+   "text_scan": 436
   },
   {
    "id": "r516",
@@ -8079,7 +8115,13 @@
    "page": 416,
    "scan": 437,
    "has_img": true,
-   "img_scan": 437
+   "img_scan": 437,
+   "title_printed": "Prudenza.",
+   "text_scan": 439,
+   "img": [
+    "0437_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r517",
@@ -8105,7 +8147,9 @@
    "page": 419,
    "scan": 440,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PROSPETTIVA.",
+   "text_scan": 440
   },
   {
    "id": "r519",
@@ -8118,7 +8162,9 @@
    "page": 420,
    "scan": 441,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PVDICITIA.",
+   "text_scan": 441
   },
   {
    "id": "r520",
@@ -8131,7 +8177,9 @@
    "page": 421,
    "scan": 442,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PVERITIA.",
+   "text_scan": 442
   },
   {
    "id": "r521",
@@ -8144,7 +8192,9 @@
    "page": 421,
    "scan": 442,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PVNITIONE.",
+   "text_scan": 442
   },
   {
    "id": "r522",
@@ -8157,7 +8207,9 @@
    "page": 421,
    "scan": 442,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PVRITA'",
+   "text_scan": 442
   },
   {
    "id": "r523",
@@ -8177,7 +8229,9 @@
      "421"
     ]
    },
-   "uncertain": true
+   "uncertain": true,
+   "title_printed": "PVERITIA.",
+   "text_scan": 442
   },
   {
    "id": "r524",
@@ -8190,7 +8244,13 @@
    "page": 422,
    "scan": 443,
    "has_img": true,
-   "img_scan": 443
+   "img_scan": 443,
+   "title_printed": "QVERELA A DIO.",
+   "text_scan": 443,
+   "img": [
+    "0443_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r525",
@@ -8203,7 +8263,9 @@
    "page": 423,
    "scan": 444,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Querela.",
+   "text_scan": 444
   },
   {
    "id": "r526",
@@ -8216,7 +8278,9 @@
    "page": 423,
    "scan": 444,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "QVIETE.",
+   "text_scan": 444
   },
   {
    "id": "r527",
@@ -8229,7 +8293,9 @@
    "page": 424,
    "scan": 445,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RABBIA.",
+   "text_scan": 445
   },
   {
    "id": "r528",
@@ -8243,7 +8309,13 @@
    "page": 424,
    "scan": 445,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Ragione.",
+   "text_scan": 447,
+   "img": [
+    "0446_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r529",
@@ -8256,7 +8328,13 @@
    "page": 426,
    "scan": 447,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RAGIONE DI STATO.",
+   "text_scan": 448,
+   "img": [
+    "0448_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r530",
@@ -8269,7 +8347,9 @@
    "page": 428,
    "scan": 449,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RAMMARICO DEL BENE ALTRVI.",
+   "text_scan": 449
   },
   {
    "id": "r531",
@@ -8282,7 +8362,9 @@
    "page": 428,
    "scan": 449,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RAPINA.",
+   "text_scan": 449
   },
   {
    "id": "r532",
