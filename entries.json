@@ -427,7 +427,13 @@
    "page": 24,
    "scan": 49,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ARDIRE MAGNANIMO, E GENEROSO.",
+   "text_scan": 50,
+   "img": [
+    "0050_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r32",
@@ -472,7 +478,13 @@
    "img_candidates": [
     51
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "ARMONIA.",
+   "text_scan": 51,
+   "img": [
+    "0051_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r35",
@@ -485,7 +497,9 @@
    "page": 27,
    "scan": 52,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ARROGANZA.",
+   "text_scan": 52
   },
   {
    "id": "r36",
@@ -498,7 +512,9 @@
    "page": 27,
    "scan": 52,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ARITMETICA.",
+   "text_scan": 52
   },
   {
    "id": "r37",
@@ -512,7 +528,9 @@
    "page": 27,
    "scan": 52,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Arte.",
+   "text_scan": 53
   },
   {
    "id": "r38",
@@ -525,7 +543,9 @@
    "page": 28,
    "scan": 53,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ASTINENZA.",
+   "text_scan": 53
   },
   {
    "id": "r39",
@@ -538,7 +558,9 @@
    "page": 28,
    "scan": 53,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ASSIDVITA.",
+   "text_scan": 53
   },
   {
    "id": "r40",
@@ -552,7 +574,9 @@
    "page": 28,
    "scan": 53,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Astrologia.",
+   "text_scan": 54
   },
   {
    "id": "r41",
@@ -565,7 +589,9 @@
    "page": 29,
    "scan": 54,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ASTVTIA.",
+   "text_scan": 54
   },
   {
    "id": "r42",
@@ -581,7 +607,13 @@
    "page": 29,
    "scan": 54,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Auaritia.",
+   "text_scan": 57,
+   "img": [
+    "0056_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r43",
@@ -594,7 +626,9 @@
    "page": 33,
    "scan": 58,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AVDACIA.",
+   "text_scan": 58
   },
   {
    "id": "r44",
@@ -607,7 +641,9 @@
    "page": 33,
    "scan": 58,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AVGVRIO BVONO.",
+   "text_scan": 58
   },
   {
    "id": "r45",
@@ -621,7 +657,9 @@
    "page": 33,
    "scan": 58,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Augurio cattiuo.",
+   "text_scan": 58
   },
   {
    "id": "r46",
@@ -634,7 +672,9 @@
    "page": 34,
    "scan": 59,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AVRORA.",
+   "text_scan": 59
   },
   {
    "id": "r47",
@@ -647,7 +687,13 @@
    "page": 34,
    "scan": 59,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AVTTORITA O POTESTA.",
+   "text_scan": 60,
+   "img": [
+    "0060_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r48",
@@ -677,7 +723,13 @@
    "page": 40,
    "scan": 65,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "BELLEZZA.",
+   "text_scan": 66,
+   "img": [
+    "0066_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r50",
@@ -690,7 +742,9 @@
    "page": 42,
    "scan": 67,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "BELLEZZA FEMINILE.",
+   "text_scan": 67
   },
   {
    "id": "r51",
@@ -703,7 +757,13 @@
    "page": 43,
    "scan": 68,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "BENIGNITA.",
+   "text_scan": 69,
+   "img": [
+    "0069_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r52",
