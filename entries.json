@@ -8929,7 +8929,9 @@
    "page": 449,
    "scan": 470,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "*Sensi , come si possono rappresentare in vna figura sola .*",
+   "text_scan": 470
   },
   {
    "id": "r568",
@@ -8956,7 +8958,9 @@
    "page": 451,
    "scan": 472,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SERVITV' PER FORZA.",
+   "text_scan": 472
   },
   {
    "id": "r570",
@@ -8969,7 +8973,9 @@
    "page": 452,
    "scan": 473,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SETE DI GIVSTITIA.",
+   "text_scan": 473
   },
   {
    "id": "r571",
@@ -8982,7 +8988,9 @@
    "page": 452,
    "scan": 473,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SFACCIATAGGINE.",
+   "text_scan": 473
   },
   {
    "id": "r572",
@@ -8995,7 +9003,9 @@
    "page": 452,
    "scan": 473,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SFORZO CON INGANNO.",
+   "text_scan": 473
   },
   {
    "id": "r573",
@@ -9008,7 +9018,9 @@
    "page": 452,
    "scan": 473,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Seruitù.",
+   "text_scan": 473
   },
   {
    "id": "r574",
@@ -9021,7 +9033,9 @@
    "page": 453,
    "scan": 474,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SICVRTA', O SICVREZZA.",
+   "text_scan": 474
   },
   {
    "id": "r575",
@@ -9035,7 +9049,9 @@
    "page": 453,
    "scan": 474,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Silentio.",
+   "text_scan": 475
   },
   {
    "id": "r576",
@@ -9048,7 +9064,9 @@
    "page": 455,
    "scan": 476,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SIMPLICITA'.",
+   "text_scan": 476
   },
   {
    "id": "r577",
@@ -9061,7 +9079,9 @@
    "page": 455,
    "scan": 476,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SIMVLATIONE.",
+   "text_scan": 476
   },
   {
    "id": "r578",
@@ -9074,7 +9094,9 @@
    "page": 455,
    "scan": 476,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SIGNORIA.",
+   "text_scan": 476
   },
   {
    "id": "r579",
@@ -9088,7 +9110,13 @@
    "page": 455,
    "scan": 476,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SINCERITA'.",
+   "text_scan": 477,
+   "img": [
+    "0477_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r580",
@@ -9101,7 +9129,9 @@
    "page": 456,
    "scan": 477,
    "has_img": true,
-   "img_scan": 477
+   "img_scan": 477,
+   "title_printed": "SOBRIETA'",
+   "text_scan": 477
   },
   {
    "id": "r581",
@@ -9114,7 +9144,13 @@
    "page": 457,
    "scan": 478,
    "has_img": true,
-   "img_scan": 478
+   "img_scan": 478,
+   "title_printed": "SOCCORSO.",
+   "text_scan": 478,
+   "img": [
+    "0478_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r582",
@@ -9141,7 +9177,13 @@
    "page": 459,
    "scan": 480,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SOLLECITVDINE.",
+   "text_scan": 481,
+   "img": [
+    "0481_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r584",
@@ -9154,7 +9196,13 @@
    "page": 461,
    "scan": 482,
    "has_img": true,
-   "img_scan": 482
+   "img_scan": 482,
+   "title_printed": "SOLSTITIO ESTIVO.",
+   "text_scan": 482,
+   "img": [
+    "0482_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r585",
@@ -9167,7 +9215,13 @@
    "page": 463,
    "scan": 484,
    "has_img": true,
-   "img_scan": 484
+   "img_scan": 484,
+   "title_printed": "SOLSTITIO HIEMALE.",
+   "text_scan": 484,
+   "img": [
+    "0484_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r586",
@@ -9180,7 +9234,9 @@
    "page": 464,
    "scan": 485,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Sonno.",
+   "text_scan": 486
   },
   {
    "id": "r587",
@@ -9194,7 +9250,13 @@
    "page": 465,
    "scan": 486,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SORTE.",
+   "text_scan": 487,
+   "img": [
+    "0487_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r588",
@@ -9207,7 +9269,9 @@
    "page": 467,
    "scan": 488,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SOSTITIONE.",
+   "text_scan": 488
   },
   {
    "id": "r589",
@@ -9223,7 +9287,13 @@
    "img_candidates": [
     489
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "SOSTANZA.",
+   "text_scan": 489,
+   "img": [
+    "0489_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r590",
