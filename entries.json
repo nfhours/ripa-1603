@@ -5002,7 +5002,11 @@
    "has_img": null,
    "img_scan": null,
    "title_printed": "INGANNO.",
-   "text_scan": 249
+   "text_scan": 250,
+   "img": [
+    "0250_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r324",
@@ -5015,7 +5019,9 @@
    "page": 230,
    "scan": 251,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INGIVRIA.",
+   "text_scan": 251
   },
   {
    "id": "r325",
@@ -5029,7 +5035,13 @@
    "page": 230,
    "scan": 251,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INGIVSTITIA.",
+   "text_scan": 252,
+   "img": [
+    "0252_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r326",
@@ -5042,7 +5054,9 @@
    "page": 232,
    "scan": 253,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INGORDIGIA.",
+   "text_scan": 253
   },
   {
    "id": "r327",
@@ -5056,7 +5070,9 @@
    "page": 232,
    "scan": 253,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Ingratitudine.",
+   "text_scan": 254
   },
   {
    "id": "r328",
@@ -5069,7 +5085,9 @@
    "page": 233,
    "scan": 254,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INIMICITIA.",
+   "text_scan": 254
   },
   {
    "id": "r329",
@@ -5082,7 +5100,9 @@
    "page": 234,
    "scan": 255,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INIQVITA.",
+   "text_scan": 255
   },
   {
    "id": "r330",
@@ -5095,7 +5115,9 @@
    "page": 234,
    "scan": 255,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INQVIETVDINE.",
+   "text_scan": 255
   },
   {
    "id": "r331",
@@ -5108,7 +5130,9 @@
    "page": 234,
    "scan": 255,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Inquietudine d'animo.",
+   "text_scan": 255
   },
   {
    "id": "r332",
@@ -5121,7 +5145,13 @@
    "page": 234,
    "scan": 255,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "IRRESOLVTIONE.",
+   "text_scan": 256,
+   "img": [
+    "0256_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r333",
@@ -5147,7 +5177,9 @@
    "page": 236,
    "scan": 257,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Innocenza, ò Purità.",
+   "text_scan": 257
   },
   {
    "id": "r335",
@@ -5160,7 +5192,9 @@
    "page": 236,
    "scan": 257,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INVBIDIENZA.",
+   "text_scan": 257
   },
   {
    "id": "r336",
@@ -5173,7 +5207,9 @@
    "page": 237,
    "scan": 258,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INSIDIA.",
+   "text_scan": 258
   },
   {
    "id": "r337",
@@ -5186,7 +5222,9 @@
    "page": 237,
    "scan": 258,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Instabilità, ouero Incostanza.",
+   "text_scan": 258
   },
   {
    "id": "r338",
@@ -5200,7 +5238,9 @@
    "page": 237,
    "scan": 258,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INTELLETTO.] [ГРАВЮРА: без подписи",
+   "text_scan": 259
   },
   {
    "id": "r339",
@@ -5213,7 +5253,13 @@
    "page": 239,
    "scan": 260,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INTELLIGENZA.",
+   "text_scan": 261,
+   "img": [
+    "0261_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r340",
@@ -5226,7 +5272,13 @@
    "page": 239,
    "scan": 260,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INTREPIDITA ET COSTANZA.",
+   "text_scan": 262,
+   "img": [
+    "0262_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r341",
@@ -5242,7 +5294,13 @@
    "img_candidates": [
     261
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "INTELLIGENZA.",
+   "text_scan": 261,
+   "img": [
+    "0261_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r342",
@@ -5273,7 +5331,9 @@
    "page": 241,
    "scan": 262,
    "has_img": true,
-   "img_scan": 262
+   "img_scan": 262,
+   "title_printed": "Inuidia.",
+   "text_scan": 264
   },
   {
    "id": "r344",
@@ -5286,7 +5346,9 @@
    "page": 243,
    "scan": 264,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INVOCATIONE.",
+   "text_scan": 264
   },
   {
    "id": "r345",
@@ -5300,7 +5362,13 @@
    "page": 243,
    "scan": 264,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Ira .",
+   "text_scan": 266,
+   "img": [
+    "0265_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r346",
@@ -5314,7 +5382,9 @@
    "page": 245,
    "scan": 266,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INTERESSE PROPRIO.",
+   "text_scan": 266
   },
   {
    "id": "r347",
@@ -5327,7 +5397,13 @@
    "page": 246,
    "scan": 267,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ITALIA CON LE SVE PROVINCIE, E PARTI DE L' ISOLE.",
+   "text_scan": 268,
+   "img": [
+    "0268_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r348",
@@ -8661,7 +8737,9 @@
    "page": 472,
    "scan": 493,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "INSIDIA.",
+   "text_scan": 258
   },
   {
    "id": "r597",
