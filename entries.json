@@ -6352,8 +6352,12 @@
    "scan": 349,
    "has_img": null,
    "img_scan": null,
-   "title_printed": "MISERICORDIA.",
-   "text_scan": 349
+   "title_printed": "MISERICORDIA. / 329",
+   "text_scan": 350,
+   "img": [
+    "0350_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r407",
@@ -6367,7 +6371,9 @@
    "page": 330,
    "scan": 351,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MONDO.",
+   "text_scan": 351
   },
   {
    "id": "r408",
@@ -6380,7 +6386,9 @@
    "page": 332,
    "scan": 353,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "EVROPA.",
+   "text_scan": 353
   },
   {
    "id": "r409",
@@ -6393,7 +6401,9 @@
    "page": 334,
    "scan": 355,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ASIA.",
+   "text_scan": 355
   },
   {
    "id": "r410",
@@ -6433,7 +6443,9 @@
    "page": 339,
    "scan": 360,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Morte.",
+   "text_scan": 361
   },
   {
    "id": "r413",
@@ -6446,7 +6458,9 @@
    "page": 340,
    "scan": 361,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MORMORATIONE.",
+   "text_scan": 361
   },
   {
    "id": "r414",
@@ -6459,7 +6473,9 @@
    "page": 340,
    "scan": 361,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MOSTRI.",
+   "text_scan": 361
   },
   {
    "id": "r415",
@@ -6473,7 +6489,9 @@
    "page": 340,
    "scan": 361,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SCILLA.",
+   "text_scan": 362
   },
   {
    "id": "r416",
@@ -6486,7 +6504,9 @@
    "page": 341,
    "scan": 362,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Cariddi.",
+   "text_scan": 362
   },
   {
    "id": "r417",
@@ -6499,7 +6519,9 @@
    "page": 342,
    "scan": 363,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Chimera.",
+   "text_scan": 363
   },
   {
    "id": "r418",
@@ -6512,7 +6534,9 @@
    "page": 342,
    "scan": 363,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Griffo.",
+   "text_scan": 363
   },
   {
    "id": "r419",
@@ -6525,7 +6549,9 @@
    "page": 342,
    "scan": 363,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Sfinge.",
+   "text_scan": 363
   },
   {
    "id": "r420",
@@ -6538,7 +6564,9 @@
    "page": 342,
    "scan": 363,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Arpie.",
+   "text_scan": 363
   },
   {
    "id": "r421",
@@ -6551,7 +6579,9 @@
    "page": 343,
    "scan": 364,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Hidra.",
+   "text_scan": 364
   },
   {
    "id": "r422",
@@ -6564,7 +6594,9 @@
    "page": 343,
    "scan": 364,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Cerbero.",
+   "text_scan": 364
   },
   {
    "id": "r423",
@@ -6578,7 +6610,9 @@
    "page": 344,
    "scan": 365,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Musica.",
+   "text_scan": 366
   },
   {
    "id": "r424",
@@ -6596,7 +6630,9 @@
    "page": 346,
    "scan": 367,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "MVSE.",
+   "text_scan": 367
   },
   {
    "id": "r425",
