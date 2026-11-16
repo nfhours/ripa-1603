@@ -16,7 +16,13 @@
    "img_candidates": [
     26
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "Abondanza.",
+   "text_scan": 27,
+   "img": [
+    "0026_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r2",
@@ -34,7 +40,13 @@
    "img_candidates": [
     26
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "Accidia .",
+   "text_scan": 29,
+   "img": [
+    "0028_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r3",
@@ -47,7 +59,9 @@
    "page": 4,
    "scan": 29,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ACQVISTO CATTIVO.",
+   "text_scan": 29
   },
   {
    "id": "r4",
@@ -60,7 +74,9 @@
    "page": 4,
    "scan": 29,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ADOLESCENZA.",
+   "text_scan": 29
   },
   {
    "id": "r5",
@@ -75,7 +91,13 @@
    "page": 5,
    "scan": 30,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Adulatione .",
+   "text_scan": 32,
+   "img": [
+    "0031_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r6",
@@ -88,7 +110,9 @@
    "page": 7,
    "scan": 32,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AFFANNO.",
+   "text_scan": 32
   },
   {
    "id": "r7",
@@ -101,7 +125,9 @@
    "page": 7,
    "scan": 32,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Adulatione .",
+   "text_scan": 32
   },
   {
    "id": "r8",
@@ -114,7 +140,9 @@
    "page": 8,
    "scan": 33,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AFFABILITA, PIACEVOLEZZA, AMABILITA.",
+   "text_scan": 33
   },
   {
    "id": "r9",
@@ -127,7 +155,9 @@
    "page": 8,
    "scan": 33,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AGILITA",
+   "text_scan": 33
   },
   {
    "id": "r10",
@@ -156,7 +186,13 @@
    "page": 9,
    "scan": 34,
    "has_img": true,
-   "img_scan": 34
+   "img_scan": 34,
+   "title_printed": "Agricoltura .",
+   "text_scan": 35,
+   "img": [
+    "0034_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r12",
@@ -171,7 +207,13 @@
    "page": 10,
    "scan": 35,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Allegrezza.",
+   "text_scan": 37,
+   "img": [
+    "0036_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r13",
@@ -197,7 +239,9 @@
    "page": 12,
    "scan": 37,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Allegrezza, Letitia, & Giubilo.",
+   "text_scan": 37
   },
   {
    "id": "r15",
@@ -210,7 +254,9 @@
    "page": 12,
    "scan": 37,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AMARITVDINE.",
+   "text_scan": 37
   },
   {
    "id": "r16",
@@ -224,7 +270,13 @@
    "page": 12,
    "scan": 37,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AMBITIONE.",
+   "text_scan": 39,
+   "img": [
+    "0039_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r17",
@@ -237,7 +289,9 @@
    "page": 15,
    "scan": 40,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AMPIEZZA DELLA GLORIA.",
+   "text_scan": 40
   },
   {
    "id": "r18",
@@ -252,7 +306,13 @@
    "page": 15,
    "scan": 40,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Amicitia.",
+   "text_scan": 42,
+   "img": [
+    "0041_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r19",
@@ -272,7 +332,9 @@
      "17"
     ]
    },
-   "uncertain": true
+   "uncertain": true,
+   "title_printed": "Amicitia senza giouamento .",
+   "text_scan": 42
   },
   {
    "id": "r20",
@@ -285,7 +347,9 @@
    "page": 18,
    "scan": 43,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AMMAESTRAMENTO.",
+   "text_scan": 43
   },
   {
    "id": "r21",
@@ -298,7 +362,13 @@
    "page": 18,
    "scan": 43,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AMOR DI VIRTV.",
+   "text_scan": 44,
+   "img": [
+    "0044_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r22",
@@ -311,7 +381,9 @@
    "page": 18,
    "scan": 43,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "AMMAESTRAMENTO.",
+   "text_scan": 43
   },
   {
    "id": "r23",
@@ -324,7 +396,9 @@
    "page": 18,
    "scan": 43,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Amor del prossimo .",
+   "text_scan": 43
   },
   {
    "id": "r24",
@@ -337,7 +411,9 @@
    "page": 18,
    "scan": 43,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Amor di se stesso.",
+   "text_scan": 43
   },
   {
    "id": "r25",
@@ -363,7 +439,9 @@
    "page": 20,
    "scan": 45,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Amor di Fama.",
+   "text_scan": 45
   },
   {
    "id": "r27",
@@ -377,7 +455,9 @@
    "page": 20,
    "scan": 45,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Anno.",
+   "text_scan": 46
   },
   {
    "id": "r28",
@@ -390,7 +470,13 @@
    "page": 21,
    "scan": 46,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ANIMA RAGIONEVOLE E BEATA.",
+   "text_scan": 47,
+   "img": [
+    "0047_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r29",
@@ -416,7 +502,9 @@
    "page": 23,
    "scan": 48,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ARCHITETTVRA.",
+   "text_scan": 48
   },
   {
    "id": "r31",
@@ -448,7 +536,9 @@
    "page": 24,
    "scan": 49,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ARDIRE MAGNANIMO & generoso.",
+   "text_scan": 49
   },
   {
    "id": "r33",
