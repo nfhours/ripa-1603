@@ -7437,8 +7437,8 @@
    "scan": 408,
    "has_img": null,
    "img_scan": null,
-   "title_printed": "PENITENZA.",
-   "text_scan": 409,
+   "title_printed": "Penitenza.",
+   "text_scan": 410,
    "img": [
     "0409_1"
    ],
@@ -7455,7 +7455,9 @@
    "page": 389,
    "scan": 410,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PENSIERO.",
+   "text_scan": 410
   },
   {
    "id": "r477",
@@ -7468,7 +7470,9 @@
    "page": 390,
    "scan": 411,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PENTIMENTO.",
+   "text_scan": 411
   },
   {
    "id": "r478",
@@ -7481,7 +7485,9 @@
    "page": 390,
    "scan": 411,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Pentimento de Peccati.",
+   "text_scan": 411
   },
   {
    "id": "r479",
@@ -7494,7 +7500,13 @@
    "page": 391,
    "scan": 412,
    "has_img": true,
-   "img_scan": 412
+   "img_scan": 412,
+   "title_printed": "PERFETTIONE.",
+   "text_scan": 412,
+   "img": [
+    "0412_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r480",
@@ -7507,7 +7519,9 @@
    "page": 392,
    "scan": 413,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PERFIDIA.",
+   "text_scan": 413
   },
   {
    "id": "r481",
@@ -7520,7 +7534,9 @@
    "page": 392,
    "scan": 413,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PERPETVITÀ.",
+   "text_scan": 413
   },
   {
    "id": "r482",
@@ -7533,7 +7549,13 @@
    "page": 392,
    "scan": 413,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PERSECVTIONE.",
+   "text_scan": 414,
+   "img": [
+    "0414_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r483",
@@ -7547,7 +7569,9 @@
    "page": 393,
    "scan": 414,
    "has_img": true,
-   "img_scan": 414
+   "img_scan": 414,
+   "title_printed": "PERSEVERANZA.",
+   "text_scan": 414
   },
   {
    "id": "r484",
@@ -7560,7 +7584,13 @@
    "page": 394,
    "scan": 415,
    "has_img": true,
-   "img_scan": 415
+   "img_scan": 415,
+   "title_printed": "PERSVASIONE.",
+   "text_scan": 415,
+   "img": [
+    "0415_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r485",
@@ -7573,7 +7603,13 @@
    "page": 395,
    "scan": 416,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PERTINACIA.",
+   "text_scan": 417,
+   "img": [
+    "0417_1"
+   ],
+   "bind_method": "бегущий заголовок"
   },
   {
    "id": "r486",
@@ -7586,7 +7622,9 @@
    "page": 396,
    "scan": 417,
    "has_img": true,
-   "img_scan": 417
+   "img_scan": 417,
+   "title_printed": "PERTVRBATIONE.",
+   "text_scan": 417
   },
   {
    "id": "r487",
@@ -7599,7 +7637,9 @@
    "page": 397,
    "scan": 418,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PESTE ouero PESTILENTIA.",
+   "text_scan": 418
   },
   {
    "id": "r488",
@@ -7612,7 +7652,9 @@
    "page": 397,
    "scan": 418,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PHISICA.",
+   "text_scan": 418
   },
   {
    "id": "r489",
@@ -7626,7 +7668,13 @@
    "page": 398,
    "scan": 419,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PIACERE.",
+   "text_scan": 420,
+   "img": [
+    "0420_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r490",
@@ -7639,7 +7687,9 @@
    "page": 400,
    "scan": 421,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PIACERE HONESTO.",
+   "text_scan": 421
   },
   {
    "id": "r491",
@@ -7652,7 +7702,9 @@
    "page": 400,
    "scan": 421,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PIACERE HONESTO.",
+   "text_scan": 421
   },
   {
    "id": "r492",
@@ -7665,7 +7717,9 @@
    "page": 400,
    "scan": 421,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PIACEVOLEZZA.",
+   "text_scan": 421
   },
   {
    "id": "r493",
@@ -7678,7 +7732,9 @@
    "page": 400,
    "scan": 421,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PIANTO.",
+   "text_scan": 421
   },
   {
    "id": "r494",
@@ -7693,7 +7749,13 @@
    "page": 401,
    "scan": 422,
    "has_img": true,
-   "img_scan": 422
+   "img_scan": 422,
+   "title_printed": "PIETA'",
+   "text_scan": 424,
+   "img": [
+    "0422_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r495",
@@ -7706,7 +7768,9 @@
    "page": 403,
    "scan": 424,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PIGRITIA.",
+   "text_scan": 424
   },
   {
    "id": "r496",
@@ -7719,7 +7783,9 @@
    "page": 404,
    "scan": 425,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "PITTVRA.",
+   "text_scan": 425
   },
   {
    "id": "r497",
@@ -7733,7 +7799,13 @@
    "page": 406,
    "scan": 427,
    "has_img": true,
-   "img_scan": 427
+   "img_scan": 427,
+   "title_printed": "Poesia.",
+   "text_scan": 429,
+   "img": [
+    "0427_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r498",
@@ -7746,7 +7818,9 @@
    "page": 408,
    "scan": 429,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "POEMA LIRICO.",
+   "text_scan": 429
   },
   {
    "id": "r499",
@@ -7759,7 +7833,9 @@
    "page": 408,
    "scan": 429,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "POEMA EROICO.",
+   "text_scan": 429
   },
   {
    "id": "r500",
@@ -7779,7 +7855,9 @@
      "408"
     ]
    },
-   "uncertain": true
+   "uncertain": true,
+   "title_printed": "POEMA PASTORALE.",
+   "text_scan": 429
   },
   {
    "id": "r501",
@@ -7792,7 +7870,9 @@
    "page": 408,
    "scan": 429,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "POEMA SATIRICO.",
+   "text_scan": 429
   },
   {
    "id": "r502",
@@ -7806,7 +7886,9 @@
    "page": 408,
    "scan": 429,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Pouertà.",
+   "text_scan": 429
   },
   {
    "id": "r503",
