@@ -5495,9 +5495,11 @@
 "printed": null,
 "head": null,
 "flag": "",
-"kind": "blank",
+"kind": "foreign",
 "src": "H",
-"ia_leaf": 552
+"ia_leaf": 552,
+"excluded": true,
+"note": "Экз. Heidelberg: приплетённый военный трактат (1604, посвящение Козимо Медичи), не Iconologia"
 },
 {
 "scan": 551,
@@ -5505,9 +5507,11 @@
 "printed": null,
 "head": null,
 "flag": "",
-"kind": "blank",
+"kind": "foreign",
 "src": "H",
-"ia_leaf": 553
+"ia_leaf": 553,
+"excluded": true,
+"note": "Экз. Heidelberg: приплетённый военный трактат (1604, посвящение Козимо Медичи), не Iconologia"
 },
 {
 "scan": 552,
@@ -5515,9 +5519,11 @@
 "printed": null,
 "head": null,
 "flag": "",
-"kind": "blank",
+"kind": "foreign",
 "src": "H",
-"ia_leaf": 554
+"ia_leaf": 554,
+"excluded": true,
+"note": "Экз. Heidelberg: приплетённый военный трактат (1604, посвящение Козимо Медичи), не Iconologia"
 },
 {
 "scan": 553,
@@ -5525,9 +5531,11 @@
 "printed": null,
 "head": null,
 "flag": "",
-"kind": "blank",
+"kind": "foreign",
 "src": "H",
-"ia_leaf": 555
+"ia_leaf": 555,
+"excluded": true,
+"note": "Экз. Heidelberg: приплетённый военный трактат (1604, посвящение Козимо Медичи), не Iconologia"
 },
 {
 "scan": 554,
@@ -5535,9 +5543,11 @@
 "printed": null,
 "head": null,
 "flag": "",
-"kind": "blank",
+"kind": "foreign",
 "src": "H",
-"ia_leaf": 554
+"ia_leaf": 554,
+"excluded": true,
+"note": "Экз. Heidelberg: приплетённый военный трактат (1604, посвящение Козимо Медичи), не Iconologia"
 },
 {
 "scan": 555,
@@ -5545,9 +5555,11 @@
 "printed": null,
 "head": null,
 "flag": "",
-"kind": "blank",
+"kind": "foreign",
 "src": "H",
-"ia_leaf": 555
+"ia_leaf": 555,
+"excluded": true,
+"note": "Экз. Heidelberg: приплетённый военный трактат (1604, посвящение Козимо Медичи), не Iconologia"
 },
 {
 "scan": 556,
@@ -5555,9 +5567,11 @@
 "printed": null,
 "head": null,
 "flag": "",
-"kind": "blank",
+"kind": "foreign",
 "src": "H",
-"ia_leaf": 558
+"ia_leaf": 558,
+"excluded": true,
+"note": "Экз. Heidelberg: приплетённый военный трактат (1604, посвящение Козимо Медичи), не Iconologia"
 },
 {
 "scan": 557,
@@ -5565,8 +5579,10 @@
 "printed": null,
 "head": null,
 "flag": "",
-"kind": "cover",
+"kind": "binding",
 "src": "H",
-"ia_leaf": 559
+"ia_leaf": 559,
+"excluded": true,
+"note": "Экз. Heidelberg: задняя крышка переплёта"
 }
 ]
