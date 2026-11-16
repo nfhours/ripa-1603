@@ -8377,7 +8377,9 @@
    "page": 429,
    "scan": 450,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "REALTÀ.",
+   "text_scan": 450
   },
   {
    "id": "r533",
@@ -8390,7 +8392,9 @@
    "page": 429,
    "scan": 450,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Regalità.",
+   "text_scan": 450
   },
   {
    "id": "r534",
@@ -8403,7 +8407,13 @@
    "page": 429,
    "scan": 450,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Religione.",
+   "text_scan": 453,
+   "img": [
+    "0451_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r535",
@@ -8416,7 +8426,9 @@
    "page": 429,
    "scan": 450,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RELIGIONE VERA CHRISTIANA.",
+   "text_scan": 450
   },
   {
    "id": "r536",
@@ -8430,7 +8442,13 @@
    "page": 430,
    "scan": 451,
    "has_img": true,
-   "img_scan": 451
+   "img_scan": 451,
+   "title_printed": "Religione.",
+   "text_scan": 453,
+   "img": [
+    "0451_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r537",
@@ -8443,7 +8461,9 @@
    "page": 432,
    "scan": 453,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RELIGIONE FINTA.",
+   "text_scan": 453
   },
   {
    "id": "r538",
@@ -8456,7 +8476,9 @@
    "page": 433,
    "scan": 454,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Restitutione.",
+   "text_scan": 454
   },
   {
    "id": "r539",
@@ -8469,7 +8491,9 @@
    "page": 433,
    "scan": 454,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "Resurrettione.",
+   "text_scan": 454
   },
   {
    "id": "r540",
@@ -8482,7 +8506,9 @@
    "page": 433,
    "scan": 454,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RETTORICA.",
+   "text_scan": 454
   },
   {
    "id": "r541",
@@ -8495,7 +8521,9 @@
    "page": 434,
    "scan": 455,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RICCHEZZA.",
+   "text_scan": 455
   },
   {
    "id": "r542",
@@ -8508,7 +8536,9 @@
    "page": 434,
    "scan": 455,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RIGORE.",
+   "text_scan": 455
   },
   {
    "id": "r543",
@@ -8521,7 +8551,9 @@
    "page": 434,
    "scan": 455,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RIPRENSIONE.",
+   "text_scan": 455
   },
   {
    "id": "r544",
@@ -8535,7 +8567,13 @@
    "page": 435,
    "scan": 456,
    "has_img": true,
-   "img_scan": 456
+   "img_scan": 456,
+   "title_printed": "RIFORMA.",
+   "text_scan": 457,
+   "img": [
+    "0456_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r545",
@@ -8548,7 +8586,9 @@
    "page": 437,
    "scan": 458,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "RISO.",
+   "text_scan": 458
   },
   {
    "id": "r546",
@@ -8564,7 +8604,13 @@
    "img_candidates": [
     459
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "RVMORE.",
+   "text_scan": 459,
+   "img": [
+    "0459_1"
+   ],
+   "bind_method": "заголовок перед гравюрой"
   },
   {
    "id": "r547",
@@ -8581,7 +8627,9 @@
    "img_candidates": [
     459
    ],
-   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна"
+   "note_img": "на странице начинается 2 статей — привязка к статье неоднозначна",
+   "title_printed": "SALVTE.",
+   "text_scan": 460
   },
   {
    "id": "r548",
@@ -8594,7 +8642,9 @@
    "page": 440,
    "scan": 461,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SANITA'.",
+   "text_scan": 461
   },
   {
    "id": "r549",
@@ -8609,7 +8659,9 @@
    "page": 440,
    "scan": 461,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SAPIENZA.",
+   "text_scan": 462
   },
   {
    "id": "r550",
@@ -8635,7 +8687,9 @@
    "page": 442,
    "scan": 463,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SAPIENZA VERA.",
+   "text_scan": 463
   },
   {
    "id": "r552",
@@ -8648,7 +8702,9 @@
    "page": 443,
    "scan": 464,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SCELERATEZZA, O VITIO.",
+   "text_scan": 464
   },
   {
    "id": "r553",
@@ -8662,7 +8718,9 @@
    "page": 444,
    "scan": 465,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SCIENZA.",
+   "text_scan": 465
   },
   {
    "id": "r554",
@@ -8675,7 +8733,9 @@
    "page": 445,
    "scan": 466,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SCIOCCHEZZA.",
+   "text_scan": 466
   },
   {
    "id": "r555",
@@ -8688,7 +8748,9 @@
    "page": 445,
    "scan": 466,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SCOLTVRA.",
+   "text_scan": 466
   },
   {
    "id": "r556",
@@ -8701,7 +8763,9 @@
    "page": 446,
    "scan": 467,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SCORNO.",
+   "text_scan": 467
   },
   {
    "id": "r557",
@@ -8714,7 +8778,9 @@
    "page": 446,
    "scan": 467,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SDEGNO.",
+   "text_scan": 467
   },
   {
    "id": "r558",
@@ -8727,7 +8793,9 @@
    "page": 446,
    "scan": 467,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SECRETEZZA.",
+   "text_scan": 467
   },
   {
    "id": "r559",
@@ -8740,7 +8808,9 @@
    "page": 447,
    "scan": 468,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SECOLO.",
+   "text_scan": 468
   },
   {
    "id": "r560",
@@ -8753,7 +8823,9 @@
    "page": 447,
    "scan": 468,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SENTIMENTI.",
+   "text_scan": 468
   },
   {
    "id": "r561",
@@ -8766,7 +8838,9 @@
    "page": 447,
    "scan": 468,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VISO.",
+   "text_scan": 468
   },
   {
    "id": "r562",
@@ -8780,7 +8854,9 @@
    "page": 447,
    "scan": 468,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "VDITO.",
+   "text_scan": 468
   },
   {
    "id": "r563",
@@ -8793,7 +8869,9 @@
    "page": 448,
    "scan": 469,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "ODORATO.",
+   "text_scan": 469
   },
   {
    "id": "r564",
@@ -8806,7 +8884,9 @@
    "page": 448,
    "scan": 469,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "GVSTO.",
+   "text_scan": 469
   },
   {
    "id": "r565",
@@ -8819,7 +8899,9 @@
    "page": 448,
    "scan": 469,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "TATTO.",
+   "text_scan": 469
   },
   {
    "id": "r566",
@@ -8832,7 +8914,9 @@
    "page": 448,
    "scan": 469,
    "has_img": null,
-   "img_scan": null
+   "img_scan": null,
+   "title_printed": "SENSO.",
+   "text_scan": 469
   },
   {
    "id": "r567",
